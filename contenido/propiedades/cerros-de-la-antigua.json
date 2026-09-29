@@ -1,0 +1,38 @@
+{
+  "codigo": "CDA-LOTES-001",
+  "slug": "cerros-de-la-antigua",
+  "categoria": "proyecto",
+  "titulo": "Cerros de la Antigua · lotes campestres",
+  "resumen": "Lotes desde 2.824 m² en una parcelación con portería 24/7, agua de riego y más de 70 casas construidas, a 40 minutos de Medellín.",
+  "operacion": "venta",
+  "tipo": "lote",
+  "ciudad": "Santa Fe de Antioquia",
+  "departamento": "Antioquia",
+  "barrioSector": "Parcelación La Antigua, etapa 3",
+  "precio": 381348000,
+  "precioVisible": true,
+  "precioDesde": true,
+  "areaLote": 2824.8,
+  "areaDesde": true,
+  "unidadesDisponibles": 26,
+  "estado": "disponible",
+  "destacada": true,
+  "demo": false,
+  "descripcion": "Parcelación consolidada en Santa Fe de Antioquia, a unos 40 minutos de Medellín por la vía al Túnel de Occidente. La etapa 3 ofrece 26 lotes de entre 2.824 y 3.617 m², con vías pavimentadas, portería 24 horas, agua de riego y una comunidad de más de 70 casas ya construidas. Existe una casa tipo diseñada para la parcelación, cuyos renders son imágenes de referencia.",
+  "caracteristicas": ["Portería 24/7", "Agua de riego", "Vías pavimentadas", "Más de 70 casas construidas", "Casa tipo diseñada para la parcelación", "A 40 minutos de Medellín"],
+  "imagenes": [
+    { "src": "/img/cerros-02.webp", "alt": "Vista panorámica desde Cerros de la Antigua hacia Santa Fe de Antioquia y las montañas", "tipo": "foto", "leyenda": "Foto real, septiembre 2026" },
+    { "src": "/img/cerros-05.webp", "alt": "Lote 143 de Cerros de la Antigua, con vía pavimentada y vista a las montañas", "tipo": "foto", "leyenda": "Foto real, septiembre 2026" },
+    { "src": "/img/cerros-06.webp", "alt": "Lote plano con pasto y árboles nativos, montañas de Santa Fe de Antioquia al fondo", "tipo": "foto", "leyenda": "Foto real, septiembre 2026" },
+    { "src": "/img/cerros-07.webp", "alt": "Lote en alto con vista a las casas de la parcelación y al valle", "tipo": "foto", "leyenda": "Foto real, septiembre 2026" },
+    { "src": "/img/cerros-08.webp", "alt": "Arboleda del lote con vista abierta hacia los cerros", "tipo": "foto", "leyenda": "Foto real, septiembre 2026" },
+    { "src": "/img/cerros-03.webp", "alt": "Render de la fachada de la casa tipo diseñada para Cerros de la Antigua", "tipo": "render", "leyenda": "Render de referencia de la casa tipo (Espacios Geográficos)" },
+    { "src": "/img/cerros-04.webp", "alt": "Render de la zona social abierta de la casa tipo con jardín", "tipo": "render", "leyenda": "Render de referencia de la casa tipo (Espacios Geográficos)" }
+  ],
+  "enlaceExterno": "https://cerros-de-la-antigua.netlify.app",
+  "origen": {
+    "fuente": "Landing publicada cerros-de-la-antigua.netlify.app y tabla de precios 'Precio propuesto' entregada por García & Asociados el 3 de septiembre de 2026; áreas cruzadas con el plano topográfico 'Etapa 3 Parcelación La Antigua'.",
+    "imagenes": "Fotografías publicadas en la landing autorizada (septiembre 2026). Renders de la casa tipo por Espacios Geográficos, marcados como render.",
+    "verificadoEl": "2026-09-03"
+  }
+}

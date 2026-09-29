@@ -1,0 +1,12 @@
+{
+  "codigo": "DEMO-006", "slug": "demo-lote-sabaneta", "categoria": "propiedad",
+  "titulo": "Lote urbanizable en Sabaneta",
+  "resumen": "Ejemplo de ficha para un lote con uso residencial en el sur del Valle de Aburrá.",
+  "operacion": "venta", "tipo": "lote", "ciudad": "Sabaneta", "departamento": "Antioquia", "barrioSector": "Sur del Valle de Aburrá",
+  "precioVisible": false, "areaLote": 1200,
+  "estado": "disponible", "destacada": false, "demo": true,
+  "descripcion": "Ficha de demostración. Los datos son ilustrativos y no corresponden a un inmueble real; se sustituyen con el inventario autorizado de García & Asociados.",
+  "caracteristicas": ["Uso residencial", "Acceso pavimentado"],
+  "imagenes": [],
+  "origen": { "fuente": "Contenido de demostración; pendiente de inventario autorizado.", "imagenes": "Sin imágenes.", "verificadoEl": null }
+}

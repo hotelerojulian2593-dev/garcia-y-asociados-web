@@ -1,0 +1,12 @@
+{
+  "codigo": "DEMO-001", "slug": "demo-casa-el-poblado", "categoria": "propiedad",
+  "titulo": "Casa con jardín y vista en El Poblado",
+  "resumen": "Ejemplo de ficha para una casa de gran formato en la ladera de El Poblado.",
+  "operacion": "venta", "tipo": "casa", "ciudad": "Medellín", "departamento": "Antioquia", "barrioSector": "El Poblado",
+  "precioVisible": false, "habitaciones": 4, "banos": 5, "parqueaderos": 3, "areaConstruida": 480, "areaLote": 900,
+  "estado": "disponible", "destacada": true, "demo": true,
+  "descripcion": "Ficha de demostración. Los datos son ilustrativos y no corresponden a un inmueble real; se sustituyen con el inventario autorizado de García & Asociados.",
+  "caracteristicas": ["Jardín privado", "Zona social abierta", "Estudio", "Cuarto de servicio"],
+  "imagenes": [],
+  "origen": { "fuente": "Contenido de demostración; pendiente de inventario autorizado.", "imagenes": "Sin imágenes.", "verificadoEl": null }
+}

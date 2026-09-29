@@ -1,0 +1,27 @@
+{
+  "codigo": "GA-PROY-VALLENATO",
+  "slug": "el-vallenato-ph",
+  "categoria": "proyecto",
+  "titulo": "El Vallenato P.H.",
+  "resumen": "Proyecto sobre planos en Santa Fe de Antioquia: 108 unidades con entrega prevista para 2029. Ficha en preparación.",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "ciudad": "Santa Fe de Antioquia",
+  "departamento": "Antioquia",
+  "barrioSector": "Santa Fe de Antioquia",
+  "precioVisible": false,
+  "unidadesTotales": 108,
+  "entrega": "2029",
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "fichaEnPreparacion": true,
+  "descripcion": "Proyecto de 108 unidades sobre planos en Santa Fe de Antioquia, con entrega prevista para 2029. Tipologías, plan de pagos, renders y planos se publican cuando el cliente confirme los materiales y la información comercial autorizada.",
+  "caracteristicas": ["108 unidades", "Entrega prevista 2029", "Santa Fe de Antioquia"],
+  "imagenes": [],
+  "origen": {
+    "fuente": "Documento de diseño 'Sistema Inmobiliario 360' (28 de agosto de 2026) y notas del cliente: 108 unidades, Santa Fe de Antioquia, entrega 2029. Relación comercial, tipologías y precios pendientes de confirmar por escrito.",
+    "imagenes": "Sin imágenes autorizadas. La landing diseñada en Claude Design con 14 renders está pendiente de optimizar y entregar.",
+    "verificadoEl": "2026-08-28"
+  }
+}

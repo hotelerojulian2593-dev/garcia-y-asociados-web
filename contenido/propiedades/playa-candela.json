@@ -1,0 +1,82 @@
+{
+  "codigo": "GA-HOTEL-PC",
+  "slug": "playa-candela",
+  "categoria": "hotel",
+  "titulo": "Playa Candela · casa hotel en Cartagena",
+  "resumen": "Casa hotel de 10 habitaciones en un condominio privado de Cartagena, a pasos de playa privada, con piscina, dos jacuzzis y kiosco para eventos.",
+  "operacion": "venta",
+  "tipo": "hotel",
+  "ciudad": "Cartagena",
+  "departamento": "Bolívar",
+  "barrioSector": "Condominio privado Bahía del Sol",
+  "confidencial": true,
+  "precioVisible": false,
+  "habitaciones": 10,
+  "banos": 7,
+  "pisos": 3,
+  "estado": "disponible",
+  "destacada": true,
+  "demo": false,
+  "descripcion": "Casa hotel de tres pisos en un condominio privado de Cartagena, lista para operar como renta vacacional, hotel boutique o casa de descanso de gran formato. Diez habitaciones amplias, siete baños, piscina privada, dos jacuzzis, kiosco de palma para reuniones y eventos y parqueadero. La playa privada queda a pocos pasos. Las cifras de operación, el precio y las áreas se comparten con la ficha completa bajo acuerdo de confidencialidad.",
+  "caracteristicas": [
+    "10 habitaciones · 7 baños",
+    "Tres pisos",
+    "Piscina privada",
+    "Dos jacuzzis",
+    "Kiosco de palma para eventos",
+    "Parqueadero",
+    "Playa privada a pocos pasos",
+    "Venta confidencial: nombre en clave"
+  ],
+  "capacidad": "10 habitaciones",
+  "imagenes": [
+    {
+      "src": "/img/playa-candela-01.webp",
+      "alt": "Vista aérea de Playa Candela: casa hotel de tres pisos con piscina, kiosco de palma y el mar Caribe al fondo",
+      "tipo": "foto",
+      "leyenda": "Foto real, septiembre 2026"
+    },
+    {
+      "src": "/img/playa-candela-03.webp",
+      "alt": "Piscina iluminada de noche frente a la fachada de tres pisos",
+      "tipo": "foto",
+      "leyenda": "Foto real, septiembre 2026"
+    },
+    {
+      "src": "/img/playa-candela-05.webp",
+      "alt": "Sala social con muebles de ratán, escalera y doble altura",
+      "tipo": "foto",
+      "leyenda": "Foto real, septiembre 2026"
+    },
+    {
+      "src": "/img/playa-candela-02.webp",
+      "alt": "Piscina privada vista desde el balcón, con camas de sol y kiosco de palma",
+      "tipo": "foto",
+      "leyenda": "Foto real, septiembre 2026"
+    },
+    {
+      "src": "/img/playa-candela-06.webp",
+      "alt": "Habitación con cama doble en madera y aire acondicionado",
+      "tipo": "foto",
+      "leyenda": "Foto real, septiembre 2026"
+    },
+    {
+      "src": "/img/playa-candela-07.webp",
+      "alt": "Atardecer sobre el mar en la playa cercana a la propiedad",
+      "tipo": "foto",
+      "leyenda": "Foto real, septiembre 2026"
+    },
+    {
+      "src": "/img/playa-candela-08.webp",
+      "alt": "Fachada de la casa hotel con jardín, palmeras y kiosco de palma",
+      "tipo": "foto",
+      "leyenda": "Foto real, septiembre 2026"
+    }
+  ],
+  "enlaceExterno": "https://playa-candela.netlify.app",
+  "origen": {
+    "fuente": "Landing publicada playa-candela.netlify.app (ficha autorizada por el vendedor, septiembre 2026). Precio, áreas y cifras operativas: bajo NDA.",
+    "imagenes": "Fotografías reales de la propiedad publicadas en la landing autorizada (septiembre 2026).",
+    "verificadoEl": "2026-09-14"
+  }
+}

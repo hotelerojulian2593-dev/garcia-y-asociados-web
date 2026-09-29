@@ -1,0 +1,12 @@
+{
+  "codigo": "DEMO-002", "slug": "demo-apartamento-envigado", "categoria": "propiedad",
+  "titulo": "Apartamento de un nivel con balcón en Envigado",
+  "resumen": "Ejemplo de ficha para un apartamento amplio en un sector residencial de Envigado.",
+  "operacion": "venta", "tipo": "apartamento", "ciudad": "Envigado", "departamento": "Antioquia", "barrioSector": "Zona residencial de Envigado",
+  "precioVisible": false, "habitaciones": 3, "banos": 3, "parqueaderos": 2, "areaConstruida": 165,
+  "estado": "disponible", "destacada": true, "demo": true,
+  "descripcion": "Ficha de demostración. Los datos son ilustrativos y no corresponden a un inmueble real; se sustituyen con el inventario autorizado de García & Asociados.",
+  "caracteristicas": ["Balcón", "Piso alto", "Unidad cerrada con piscina"],
+  "imagenes": [],
+  "origen": { "fuente": "Contenido de demostración; pendiente de inventario autorizado.", "imagenes": "Sin imágenes.", "verificadoEl": null }
+}

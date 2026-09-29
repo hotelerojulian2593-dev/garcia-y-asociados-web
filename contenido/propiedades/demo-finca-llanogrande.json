@@ -1,0 +1,12 @@
+{
+  "codigo": "DEMO-003", "slug": "demo-finca-llanogrande", "categoria": "propiedad",
+  "titulo": "Finca de recreo en Llanogrande",
+  "resumen": "Ejemplo de ficha para una finca con casa principal y zonas verdes en el Oriente antioqueño.",
+  "operacion": "venta", "tipo": "finca", "ciudad": "Rionegro", "departamento": "Antioquia", "barrioSector": "Llanogrande",
+  "precioVisible": false, "habitaciones": 5, "banos": 6, "parqueaderos": 4, "areaConstruida": 620, "areaLote": 6400,
+  "estado": "disponible", "destacada": true, "demo": true,
+  "descripcion": "Ficha de demostración. Los datos son ilustrativos y no corresponden a un inmueble real; se sustituyen con el inventario autorizado de García & Asociados.",
+  "caracteristicas": ["Casa principal y casa de mayordomía", "Piscina", "Zonas verdes", "Cerca del aeropuerto José María Córdova"],
+  "imagenes": [],
+  "origen": { "fuente": "Contenido de demostración; pendiente de inventario autorizado.", "imagenes": "Sin imágenes.", "verificadoEl": null }
+}
