@@ -1,0 +1,34 @@
+{
+  "slug": "comprar-un-hotel-en-colombia",
+  "titulo": "Guía para comprar un hotel en Colombia: qué revisar antes de firmar",
+  "resumen": "Lista de verificación para inversionistas y operadores: documentos legales, cifras operativas, personal, reservas vigentes y el orden correcto del proceso, desde el acuerdo de confidencialidad hasta el cierre.",
+  "fecha": "2026-09-29",
+  "autor": "Equipo de Inmobiliaria García & Asociados",
+  "secciones": [
+    { "titulo": "Un hotel no es solo un inmueble", "parrafos": [
+      "Al comprar un hotel usted adquiere, además del edificio, una operación: personal, contratos con plataformas de reservas, reputación en línea, licencias y obligaciones tributarias. Por eso la revisión es más amplia que la de una vivienda y suele hacerse bajo acuerdo de confidencialidad.",
+      "Esta guía ordena esa revisión en cinco frentes. No sustituye a su abogado ni a su contador; sirve para que la conversación con ellos empiece con las preguntas correctas."
+    ]},
+    { "titulo": "1. Lo legal del inmueble", "parrafos": [
+      "Certificado de tradición y libertad, escritura, uso del suelo compatible con hotelería, licencia de construcción y, si el hotel está en propiedad horizontal, el reglamento y la autorización de uso comercial. Confirme si existen hipotecas, embargos o procesos en curso."
+    ]},
+    { "titulo": "2. Lo legal de la operación", "parrafos": [
+      "Registro Nacional de Turismo (RNT) vigente y a nombre de quién está; concepto de bomberos y sanitario; registro de contribución parafiscal de turismo; licencias de música y funcionamiento cuando apliquen. Si el RNT está a nombre del operador actual, defina si se traspasa o si usted lo tramitará de nuevo."
+    ]},
+    { "titulo": "3. Las cifras, con fuente y fecha", "parrafos": [
+      "Pida ocupación mensual, tarifa promedio (ADR), ingresos por habitación disponible (RevPAR), ingresos totales y gastos de al menos dos años, con extractos o declaraciones que los respalden. Cualquier cifra sin soporte es una hipótesis. Ninguna inmobiliaria seria le garantizará rentabilidad: lo que puede ofrecerle son datos históricos auditables."
+    ]},
+    { "titulo": "4. Personal, reservas y plataformas", "parrafos": [
+      "Revise contratos laborales, antigüedad y pasivos (cesantías, primas, vacaciones): en una compra con operación en marcha suele haber sustitución patronal. Pida el listado de reservas futuras ya pagadas y cómo se transfieren, y verifique quién es titular de las cuentas en Booking, Expedia, Airbnb y del motor de reservas, porque ahí vive la reputación del hotel."
+    ]},
+    { "titulo": "5. El orden del proceso", "parrafos": [
+      "Solicitud de información y perfil del comprador; acuerdo de confidencialidad; ficha completa con cifras y documentos; visita y due diligence con su equipo; oferta y promesa de compraventa; cierre y transición de la operación. Saltarse el acuerdo de confidencialidad o la due diligence suele costar más que el tiempo que ahorra."
+    ]}
+  ],
+  "preguntas": [
+    { "p": "¿Por qué algunos hoteles se venden con nombre en clave?", "r": "Para proteger la operación: si huéspedes, empleados o competidores saben que el hotel está en venta, la reputación y el equipo pueden resentirse. La información completa se entrega tras firmar un acuerdo de confidencialidad." },
+    { "p": "¿Se puede comprar solo el inmueble y no la operación?", "r": "Sí. Se negocia si la compra incluye la operación en marcha (personal, reservas, cuentas) o solo el edificio. Cambia el precio, los pasivos que asume y el tiempo de transición." },
+    { "p": "¿Qué es el RNT y por qué importa?", "r": "El Registro Nacional de Turismo es obligatorio para operar alojamiento en Colombia. Sin RNT vigente el hotel no puede vender legalmente ni figurar en plataformas formales." }
+  ],
+  "cta": { "texto": "Ver hoteles en venta", "href": "/hoteles-e-inversion/" }
+}

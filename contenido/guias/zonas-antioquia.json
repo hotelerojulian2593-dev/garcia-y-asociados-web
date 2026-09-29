@@ -1,0 +1,30 @@
+{
+  "slug": "zonas-antioquia",
+  "titulo": "Zonas que atendemos en Antioquia: dónde buscar según lo que necesita",
+  "resumen": "Una orientación por zonas para compradores que no conocen el departamento: Medellín y el Valle de Aburrá, el Oriente cercano, el Occidente y, para hoteles, destinos fuera de Antioquia.",
+  "fecha": "2026-09-29",
+  "autor": "Equipo de Inmobiliaria García & Asociados",
+  "secciones": [
+    { "titulo": "Cómo usar esta guía", "parrafos": [
+      "No hay una zona mejor que otra: hay zonas que se ajustan mejor a un uso. Vivienda principal con oficina cerca, casa de descanso a menos de una hora, finca para rentas cortas o un hotel con historial. Esta guía describe cada zona por lo que ofrece, sin cifras de valorización, que dependen de cada inmueble y del momento."
+    ]},
+    { "titulo": "Medellín y el Valle de Aburrá", "parrafos": [
+      "El Poblado concentra vivienda de alto valor en ladera, con casas de gran formato y apartamentos con vista; conviene revisar accesos y movilidad en hora pico. Laureles y Estadio ofrecen barrios planos de calles arboladas, con casas y edificios de mediana altura y buena oferta comercial. Envigado y Sabaneta, al sur, combinan unidades cerradas con zonas verdes y conexión rápida con la ciudad.",
+      "Para hoteles urbanos, la zona de Laureles y Estadio y el corredor de El Poblado son las que más operación turística concentran."
+    ]},
+    { "titulo": "Oriente cercano: Rionegro, Llanogrande, El Retiro, La Ceja", "parrafos": [
+      "Clima más fresco, cercanía al aeropuerto José María Córdova y oferta de fincas de recreo, casas campestres en parcelaciones cerradas y lotes. Es la zona típica para segunda vivienda o para quien trabaja en Medellín pero quiere vivir con más espacio. Revise vías de acceso, disponibilidad de servicios y las normas de cada parcelación antes de decidir."
+    ]},
+    { "titulo": "Occidente: Santa Fe de Antioquia, San Jerónimo, Sopetrán", "parrafos": [
+      "Clima cálido a menos de una hora de Medellín por el Túnel de Occidente. Santa Fe de Antioquia, con centro histórico colonial, concentra fincas de descanso, lotes campestres y proyectos sobre planos orientados a rentas cortas y turismo. Aquí comercializamos Cerros de la Antigua y El Vallenato P.H."
+    ]},
+    { "titulo": "Fuera de Antioquia: hoteles y activos de inversión", "parrafos": [
+      "Para hoteles en operación trabajamos también en destinos como Cartagena. La venta suele ser confidencial y la revisión sigue el proceso descrito en nuestra guía para comprar un hotel."
+    ]}
+  ],
+  "preguntas": [
+    { "p": "¿A cuánto está Santa Fe de Antioquia de Medellín?", "r": "A unos 40 minutos por el Túnel de Occidente en condiciones normales de tráfico, según el punto de salida en la ciudad." },
+    { "p": "¿Qué zona conviene para rentas cortas?", "r": "Depende del público: turismo urbano (Laureles, El Poblado), descanso de fin de semana (Occidente) o cercanía al aeropuerto (Oriente). Revise las normas de cada edificio o parcelación, porque no todas permiten rentas cortas." }
+  ],
+  "cta": { "texto": "Filtrar propiedades por ubicación", "href": "/propiedades/" }
+}

@@ -6,6 +6,7 @@ import { Titulo } from "@/components/Titulo";
 import { Tilt } from "@/components/Tilt";
 import { AvisoDemo } from "@/components/AvisoDemo";
 import { aTarjeta, destacadas, porCategoria, porSlug } from "@/lib/inventario";
+import { todasLasGuias } from "@/lib/guias";
 import { SITIO, enlaceWhatsApp } from "@/lib/sitio";
 
 export default function Inicio() {
@@ -15,6 +16,7 @@ export default function Inicio() {
   const hoteles = porCategoria("hotel").filter((p) => !p.demo).length;
   const proyectos = porCategoria("proyecto").filter((p) => !p.demo).length;
   const hero = SITIO.hero;
+  const guias = todasLasGuias().slice(0, 4);
 
   return (
     <>
@@ -155,6 +157,23 @@ export default function Inicio() {
               <li key={t} className="revelar rounded border border-gris-claro border-t-[3px] border-t-azul-claro bg-white p-5" style={{ transitionDelay: `${k * 70}ms` }}>
                 <p className="text-lg font-medium text-azul">{t}</p>
                 <p className="mudo mt-2 text-sm">{d}</p>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+
+      <section className="seccion bg-white" aria-labelledby="t-guias">
+        <div className="wrap">
+          <div className="flex flex-wrap items-end justify-between gap-6">
+            <Titulo id="t-guias" numero="06" eyebrow="Guías" titulo="Respuestas antes de la primera visita." lead="Criterios que puede comprobar para elegir inmobiliaria, comprar un hotel, orientarse por zonas o vender su propiedad." />
+            <Link href="/guias/" className="btn btn-borde">Ver todas las guías</Link>
+          </div>
+          <ul className="mt-10 grid gap-5 md:grid-cols-2 lg:grid-cols-4">
+            {guias.map((g, k) => (
+              <li key={g.slug} className="revelar border-t-2 border-azul-claro pt-4" style={{ transitionDelay: `${k * 70}ms` }}>
+                <h3 className="text-[1.1rem]"><Link href={`/guias/${g.slug}/`} className="no-underline hover:underline">{g.titulo}</Link></h3>
+                <p className="mudo mt-2 text-sm">{g.resumen}</p>
               </li>
             ))}
           </ul>

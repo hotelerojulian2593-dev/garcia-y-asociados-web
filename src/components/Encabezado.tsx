@@ -4,7 +4,7 @@ import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { NAVEGACION, SITIO } from "@/lib/sitio";
 
-const NAV_CABECERA = NAVEGACION.filter((n) => n.href !== "/por-que-escogernos/");
+const NAV_CABECERA = NAVEGACION.filter((n) => n.href !== "/por-que-escogernos/" && n.href !== "/guias/");
 
 export function Encabezado() {
   const ruta = usePathname();

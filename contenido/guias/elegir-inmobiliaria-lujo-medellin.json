@@ -1,0 +1,40 @@
+{
+  "slug": "elegir-inmobiliaria-lujo-medellin",
+  "titulo": "Cómo elegir una inmobiliaria para comprar una propiedad de lujo en Medellín",
+  "resumen": "Siete criterios verificables para decidir con quién comprar una casa o un apartamento de alto valor en Medellín y el Oriente antioqueño, y las preguntas que conviene hacer antes de la primera visita.",
+  "fecha": "2026-09-29",
+  "autor": "Equipo de Inmobiliaria García & Asociados",
+  "secciones": [
+    { "titulo": "Por qué la elección importa más en el segmento alto", "parrafos": [
+      "En una compra de alto valor, el costo de un error no está en la comisión sino en lo que no se verificó: un gravamen no declarado, un área construida que no coincide con la escritura o una administración con cuotas extraordinarias pendientes. La inmobiliaria adecuada reduce esa incertidumbre antes de que usted pague una separación.",
+      "Los criterios de esta guía son comprobables en una primera conversación o revisando el sitio web de la firma. No dependen de premios ni de años de experiencia declarados."
+    ]},
+    { "titulo": "1. Inventario documentado, no solo fotografías", "parrafos": [
+      "Pida que cada inmueble tenga una ficha con la fuente de la información, la fecha en que se verificó la disponibilidad y qué datos están confirmados por el propietario o por documentos. Una ficha que dice «el asesor lo confirma» es más honesta que una que rellena los vacíos con cifras redondas."
+    ]},
+    { "titulo": "2. Dirección reservada hasta la visita", "parrafos": [
+      "Publicar la dirección exacta de una casa de alto valor expone al propietario y atrae visitas no calificadas. La práctica correcta es publicar el sector y compartir la ubicación precisa con interesados identificados, antes de la visita."
+    ]},
+    { "titulo": "3. Verificación legal antes de la promesa", "parrafos": [
+      "Antes de firmar una promesa de compraventa, la inmobiliaria debe entregarle o ayudarle a obtener: el certificado de tradición y libertad actualizado, el paz y salvo de impuesto predial y de administración, la escritura vigente y, si aplica, el reglamento de propiedad horizontal. Si hay hipoteca, patrimonio de familia o afectación a vivienda familiar, debe explicarle cómo se levanta y quién asume el costo."
+    ]},
+    { "titulo": "4. Fotografía real y renders identificados", "parrafos": [
+      "Las imágenes deben corresponder al inmueble. Si son renders de un proyecto sobre planos, deben estar marcados como tales. Desconfíe de fichas con imágenes genéricas o con retoques que cambian proporciones."
+    ]},
+    { "titulo": "5. Un proceso de compra explícito", "parrafos": [
+      "Pregunte cómo es el camino desde la primera consulta hasta la escritura: quién lo acompaña en la visita, cómo se presenta una oferta, qué documentos se revisan, cuánto tarda cada etapa y en qué momento se paga la separación. Una firma que lo tiene claro se lo explica en cinco minutos."
+    ]},
+    { "titulo": "6. Canal directo y tiempos de respuesta", "parrafos": [
+      "Un WhatsApp comercial atendido por la firma, con respuesta en horario comercial, es más útil que un formulario que nadie lee. Pruébelo: escriba una consulta concreta sobre un inmueble y mida cuánto tarda la respuesta y si viene con información o con evasivas."
+    ]},
+    { "titulo": "7. Claridad sobre comisiones y exclusividad", "parrafos": [
+      "En Colombia la comisión de venta la paga normalmente el vendedor; confirme por escrito si en su caso hay algún costo para el comprador. Pregunte también si la firma tiene exclusividad sobre el inmueble o si lo comparte con otras inmobiliarias, porque eso cambia quién lleva la negociación."
+    ]}
+  ],
+  "preguntas": [
+    { "p": "¿El comprador paga comisión inmobiliaria en Colombia?", "r": "Por costumbre la paga el vendedor. Algunas firmas cobran al comprador servicios adicionales de búsqueda o asesoría; debe estar por escrito antes de iniciar." },
+    { "p": "¿Qué documentos debo pedir antes de separar un inmueble?", "r": "Certificado de tradición y libertad reciente, escritura, paz y salvos de predial y administración, y el reglamento de propiedad horizontal si aplica. Para casas, además, la licencia de construcción o su equivalente." },
+    { "p": "¿Puedo visitar sin dar mis datos?", "r": "Lo habitual en el segmento alto es identificar al interesado antes de la visita, por seguridad del propietario. Sus datos se tratan conforme a la Ley 1581 de 2012." }
+  ],
+  "cta": { "texto": "Explorar propiedades en Medellín y Antioquia", "href": "/propiedades/" }
+}

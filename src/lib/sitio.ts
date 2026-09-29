@@ -33,5 +33,6 @@ export const NAVEGACION = [
   { href: "/el-vallenato-ph/", etiqueta: "El Vallenato P.H." },
   { href: "/quienes-somos/", etiqueta: "Quiénes somos" },
   { href: "/por-que-escogernos/", etiqueta: "Por qué escogernos" },
+  { href: "/guias/", etiqueta: "Guías" },
   { href: "/contacto/", etiqueta: "Contacto" },
 ] as const;

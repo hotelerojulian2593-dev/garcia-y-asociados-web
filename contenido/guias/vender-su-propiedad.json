@@ -1,0 +1,26 @@
+{
+  "slug": "vender-su-propiedad",
+  "titulo": "Cómo vender su propiedad con García & Asociados",
+  "resumen": "Qué necesitamos del propietario, cómo preparamos la ficha, cómo filtramos a los interesados y qué pasa desde la primera visita hasta la escritura.",
+  "fecha": "2026-09-29",
+  "autor": "Equipo de Inmobiliaria García & Asociados",
+  "secciones": [
+    { "titulo": "1. Captación: documentos y visita", "parrafos": [
+      "Empezamos con una visita al inmueble y la revisión de sus documentos: escritura, certificado de tradición y libertad, paz y salvos y, si aplica, reglamento de propiedad horizontal. Con eso definimos junto con usted el precio de publicación y qué información se hace pública y cuál se reserva."
+    ]},
+    { "titulo": "2. Ficha y fotografía", "parrafos": [
+      "Preparamos la ficha con datos confirmados y fotografía real. La dirección exacta no se publica; el sitio muestra el sector. Si es un hotel o un activo con operación, podemos trabajar con nombre en clave y acuerdo de confidencialidad."
+    ]},
+    { "titulo": "3. Difusión y filtro de interesados", "parrafos": [
+      "Publicamos en nuestro sitio y en nuestros canales, y atendemos las consultas por WhatsApp. Antes de una visita identificamos al interesado y confirmamos que su búsqueda y su presupuesto corresponden al inmueble, para que las visitas sean pocas y útiles."
+    ]},
+    { "titulo": "4. Visitas, oferta y cierre", "parrafos": [
+      "Acompañamos cada visita, le transmitimos las ofertas por escrito y coordinamos la promesa de compraventa, la revisión de documentos del comprador y la escrituración. Usted decide en cada paso; nosotros ordenamos el proceso."
+    ]}
+  ],
+  "preguntas": [
+    { "p": "¿Qué cuesta vender con ustedes?", "r": "La comisión se acuerda por escrito al inicio, según el tipo de inmueble. No hay cobros por publicar la ficha." },
+    { "p": "¿Puedo vender sin que se sepa que el inmueble está en venta?", "r": "Sí. Para hoteles y activos en operación trabajamos con nombre en clave, sin fachada reconocible y con acuerdo de confidencialidad antes de compartir cifras." }
+  ],
+  "cta": { "texto": "Quiero vender mi propiedad", "href": "/contacto/?inmueble=Quiero%20vender%20mi%20propiedad" }
+}
