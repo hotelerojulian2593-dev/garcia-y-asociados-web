@@ -6,9 +6,9 @@
 |---|---|
 | Build estático (`npm run build` → `out/`) | **Probado** en este entorno: 22 páginas, sin errores |
 | Verificación automática (`npm run verificar`) | **Probada**: 20 páginas × escritorio y móvil, filtros, galería, teclado, movimiento reducido, enlaces, sin hallazgos |
-| `netlify.toml` (comando, carpeta `out`, cabeceras) | **Preparado**, no probado en Netlify todavía |
-| Repositorio Git | **Preparado** localmente; el remoto se crea con la instrucción de abajo (no se ha verificado ningún remoto) |
-| Dominio `inmobiliariagarciayasociados.com` | **Revisado** (28 sep 2026, ver §3): DNS en Cloudflare vía GoHighLevel, `www` apunta a los sitios de GHL, sin correo en el dominio. Conexión a Netlify pendiente de autorización |
+| Netlify | **En producción**: proyecto `garcia-y-asociados` (equipo marketinghotelerobyseroz), deploy automático desde main, ~30 s por build |
+| Repositorio Git | **Publicado**: github.com/hotelerojulian2593-dev/garcia-y-asociados-web (rama main). La app de GitHub de Claude tiene acceso a este repo |
+| Dominio `inmobiliariagarciayasociados.com` | **Conectado el 29 sep 2026**: A raíz → 75.2.60.5, CNAME www → garcia-y-asociados.netlify.app (editados en GHL → Dominios → Registros DNS). Certificado Let's Encrypt emitido 7:09; `www` redirige a la raíz. Valores anteriores: A 162.159.140.166, CNAME www sites.ludicrous.cloud |
 | Meta Pixel, formulario y calendario de GHL | **Pendientes**: variables vacías hasta confirmar IDs |
 
 ## 1. Repositorio y GitHub (desde Claude Code en el Mac)

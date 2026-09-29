@@ -2,7 +2,7 @@ import sitio from "@contenido/sitio.json";
 
 export const SITIO = sitio;
 
-export const URL_SITIO = (process.env.NEXT_PUBLIC_SITE_URL || "https://garcia-y-asociados.netlify.app").replace(/\/$/, "");
+export const URL_SITIO = (process.env.NEXT_PUBLIC_SITE_URL || "https://inmobiliariagarciayasociados.com").replace(/\/$/, "");
 export const META_PIXEL_ID = process.env.NEXT_PUBLIC_META_PIXEL_ID || "";
 export const GHL_FORM_ID = process.env.NEXT_PUBLIC_GHL_FORM_ID || "";
 export const GHL_CALENDAR_ID = process.env.NEXT_PUBLIC_GHL_CALENDAR_ID || "";
