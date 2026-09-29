@@ -1,4 +1,11 @@
 import type { Metadata } from "next";
+import "@fontsource/cormorant-garamond/latin-400.css";
+import "@fontsource/cormorant-garamond/latin-500.css";
+import "@fontsource/cormorant-garamond/latin-600.css";
+import "@fontsource/cormorant-garamond/latin-400-italic.css";
+import "@fontsource/inter/latin-400.css";
+import "@fontsource/inter/latin-500.css";
+import "@fontsource/inter/latin-600.css";
 import "./globals.css";
 import { Encabezado } from "@/components/Encabezado";
 import { PiePagina } from "@/components/PiePagina";
@@ -21,12 +28,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="es">
       <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap"
-          rel="stylesheet"
-        />
         <script dangerouslySetInnerHTML={{ __html: "document.documentElement.classList.add('js')" }} />
         <MetaPixel />
         <script
