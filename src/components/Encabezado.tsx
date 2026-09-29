@@ -4,6 +4,8 @@ import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { NAVEGACION, SITIO } from "@/lib/sitio";
 
+const NAV_CABECERA = NAVEGACION.filter((n) => n.href !== "/por-que-escogernos/");
+
 export function Encabezado() {
   const ruta = usePathname();
   const [abierto, setAbierto] = useState(false);
@@ -14,7 +16,7 @@ export function Encabezado() {
           <span className="serif whitespace-nowrap text-[1.55rem] leading-none tracking-tight">{SITIO.marca}</span>
         </Link>
         <nav className="hidden items-center gap-4 lg:flex xl:gap-6" aria-label="Principal">
-          {NAVEGACION.map((n) => (
+          {NAV_CABECERA.map((n) => (
             <Link key={n.href} href={n.href} aria-current={ruta === n.href ? "page" : undefined}>
               {n.etiqueta}
             </Link>

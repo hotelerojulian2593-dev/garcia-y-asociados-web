@@ -3,7 +3,7 @@
   "slug": "el-vallenato-ph",
   "categoria": "proyecto",
   "titulo": "El Vallenato P.H.",
-  "resumen": "Proyecto sobre planos en Santa Fe de Antioquia: 108 unidades con entrega prevista para 2029. Ficha en preparación.",
+  "resumen": "Torre de 108 suites sobre planos en Santa Fe de Antioquia, con museo, restaurante, piscina en el piso 14 y helipuerto según los renders del proyecto. Entrega prevista para 2029.",
   "operacion": "venta",
   "tipo": "apartamento",
   "ciudad": "Santa Fe de Antioquia",
@@ -13,15 +13,75 @@
   "unidadesTotales": 108,
   "entrega": "2029",
   "estado": "disponible",
-  "destacada": false,
+  "destacada": true,
   "demo": false,
   "fichaEnPreparacion": true,
-  "descripcion": "Proyecto de 108 unidades sobre planos en Santa Fe de Antioquia, con entrega prevista para 2029. Tipologías, plan de pagos, renders y planos se publican cuando el cliente confirme los materiales y la información comercial autorizada.",
-  "caracteristicas": ["108 unidades", "Entrega prevista 2029", "Santa Fe de Antioquia"],
-  "imagenes": [],
+  "descripcion": "El Vallenato P.H. es un proyecto sobre planos de 108 unidades en Santa Fe de Antioquia, con entrega prevista para 2029. Los renders del proyecto muestran una torre de balcones curvos con vegetación, un museo y galería en el primer piso, restaurante en el piso 13, piscina con vista a las montañas en el piso 14, helipuerto en la cubierta, cancha de pádel, coworking y suites tipo estudio y Grand Suite con jacuzzi en el balcón. Tipologías, áreas, precios y plan de pagos se publican cuando la firma confirme la información comercial autorizada.",
+  "caracteristicas": [
+    "108 suites",
+    "Entrega prevista 2029",
+    "Museo y galería en el piso 1",
+    "Restaurante en el piso 13",
+    "Piscina en el piso 14",
+    "Helipuerto en la cubierta",
+    "Cancha de pádel",
+    "Coworking",
+    "Suites Estudio y Grand Suite"
+  ],
+  "imagenes": [
+    {
+      "src": "/img/vallenato-01-torre.webp",
+      "alt": "Render de la torre de El Vallenato P.H. al atardecer, con balcones curvos y vegetación en cada nivel",
+      "tipo": "render",
+      "leyenda": "Render del proyecto"
+    },
+    {
+      "src": "/img/vallenato-06-aerea.webp",
+      "alt": "Render aéreo de la torre con la piscina de la cubierta y el paisaje de Santa Fe de Antioquia",
+      "tipo": "render",
+      "leyenda": "Render del proyecto"
+    },
+    {
+      "src": "/img/vallenato-11-piscina-piso14.webp",
+      "alt": "Render de la piscina del piso 14 con vista a las montañas",
+      "tipo": "render",
+      "leyenda": "Render del proyecto"
+    },
+    {
+      "src": "/img/vallenato-10-restaurante-piso13.webp",
+      "alt": "Render del restaurante del piso 13 con murales de colores",
+      "tipo": "render",
+      "leyenda": "Render del proyecto"
+    },
+    {
+      "src": "/img/vallenato-09-museo-piso1.webp",
+      "alt": "Render del museo y galería del primer piso",
+      "tipo": "render",
+      "leyenda": "Render del proyecto"
+    },
+    {
+      "src": "/img/vallenato-12-helipuerto.webp",
+      "alt": "Render del helipuerto en la cubierta con las montañas al fondo",
+      "tipo": "render",
+      "leyenda": "Render del proyecto"
+    },
+    {
+      "src": "/img/vallenato-16-grand-suite.webp",
+      "alt": "Render de una Grand Suite con jacuzzi en el balcón al atardecer",
+      "tipo": "render",
+      "leyenda": "Render del proyecto"
+    },
+    {
+      "src": "/img/vallenato-14-padel.webp",
+      "alt": "Render de la cancha de pádel al pie de la torre",
+      "tipo": "render",
+      "leyenda": "Render del proyecto"
+    }
+  ],
   "origen": {
-    "fuente": "Documento de diseño 'Sistema Inmobiliario 360' (28 de agosto de 2026) y notas del cliente: 108 unidades, Santa Fe de Antioquia, entrega 2029. Relación comercial, tipologías y precios pendientes de confirmar por escrito.",
-    "imagenes": "Sin imágenes autorizadas. La landing diseñada en Claude Design con 14 renders está pendiente de optimizar y entregar.",
+    "fuente": "Documento de diseño 'Sistema Inmobiliario 360' (28 de agosto de 2026) y notas del cliente: 108 unidades, Santa Fe de Antioquia, entrega 2029. Amenidades según los renders de la landing diseñada para el proyecto (agosto de 2026). Relación comercial, tipologías, áreas y precios pendientes de confirmar por escrito.",
+    "imagenes": "Renders de la landing de El Vallenato P.H. (carpeta vallenato-landing-imagenes, agosto de 2026) y reel 'Vallenato PH.mp4' (Drive, mayo de 2026). Son imágenes de proyecto, no fotografías; sujetas a cambios.",
     "verificadoEl": "2026-08-28"
-  }
+  },
+  "paginaPropia": "/el-vallenato-ph/"
 }

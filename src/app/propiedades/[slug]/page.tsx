@@ -138,6 +138,9 @@ export default async function Detalle({ params }: { params: Promise<{ slug: stri
             <a href={enlaceWhatsApp({ codigo: p.codigo, titulo: p.titulo })} target="_blank" rel="noopener" className="btn btn-bronce" data-seguimiento="whatsapp">Escribir por WhatsApp</a>
             <Link href={`${hrefContacto}&motivo=visita`} className="btn btn-carbon" data-seguimiento="agendar">Agendar visita privada</Link>
             <Link href={hrefContacto} className="btn btn-borde">Solicitar información</Link>
+            {p.paginaPropia && (
+              <Link href={p.paginaPropia} className="btn-texto text-center text-sm">Ver la página completa del proyecto →</Link>
+            )}
             {p.enlaceExterno && (
               <a href={p.enlaceExterno} target="_blank" rel="noopener" className="btn-texto text-center text-sm">Ver la página completa del proyecto ↗</a>
             )}

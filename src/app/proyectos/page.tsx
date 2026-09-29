@@ -25,15 +25,15 @@ export default function Proyectos() {
         <section className="wrap seccion" aria-labelledby="t-vallenato">
           <div className="grid gap-10 rounded border border-piedra bg-blanco p-8 md:p-12 lg:grid-cols-[1.2fr_1fr]">
             <div>
-              <p className="eyebrow mb-4">Ficha especial · en preparación</p>
+              <p className="eyebrow mb-4">Ficha especial</p>
               <h2 id="t-vallenato">{vallenato.titulo}</h2>
               <div className="prosa mt-5 max-w-[60ch]">
                 <p>{vallenato.descripcion}</p>
-                <p>Cuando la firma confirme los materiales, esta ficha incluirá tipologías, plan de pagos, renders identificados como tales y el proceso de separación.</p>
+                <p>La página del proyecto reúne los renders, las zonas comunes por piso, las dos tipologías y el reel. Precios y plan de pagos se publican con la información autorizada.</p>
               </div>
               <div className="mt-8 flex flex-wrap gap-3">
-                <Link href={`/propiedades/${vallenato.slug}/`} className="btn btn-borde">Ver ficha preliminar</Link>
-                <Link href={`/contacto/?inmueble=${vallenato.codigo}`} className="btn btn-carbon">Avisarme cuando se publique</Link>
+                <Link href="/el-vallenato-ph/" className="btn btn-carbon">Ver la página del proyecto</Link>
+                <Link href={`/contacto/?inmueble=${vallenato.codigo}`} className="btn btn-borde">Recibir información</Link>
               </div>
             </div>
             <dl className="grid content-start gap-4 text-sm">

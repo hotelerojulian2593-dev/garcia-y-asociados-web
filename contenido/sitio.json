@@ -9,8 +9,18 @@
   "correo": "inmobiliariagarcia02@gmail.com",
   "whatsapp": "573135800381",
   "whatsappVisible": "+57 313 580 0381",
-  "telefonos": ["+57 312 276 7764", "+57 314 820 6665"],
-  "zonaServicio": ["Medellín", "Valle de Aburrá", "Oriente antioqueño", "Occidente antioqueño", "Santa Fe de Antioquia", "Cartagena (hoteles)"],
+  "telefonos": [
+    "+57 312 276 7764",
+    "+57 314 820 6665"
+  ],
+  "zonaServicio": [
+    "Medellín",
+    "Valle de Aburrá",
+    "Oriente antioqueño",
+    "Occidente antioqueño",
+    "Santa Fe de Antioquia",
+    "Cartagena (hoteles)"
+  ],
   "descripcionCorta": "Inmobiliaria de Medellín que comercializa casas, apartamentos, lotes, hoteles y proyectos en Antioquia.",
   "constituida": "31 de mayo de 2021",
   "matriculaMercantil": "00703171-12",
@@ -19,5 +29,13 @@
     "whatsapp": "+57 313 580 0381 es el WhatsApp comercial que recibe los leads del sitio (CLAUDE.md del Sistema 360). Las landings de hoteles/lotes usan +57 322 678 4727. Confirmar cuál va en el sitio general.",
     "marca": "La razón social lleva '&'. El nombre de marca del encabezado ('García & Asociados' vs 'García y Asociados') está pendiente de confirmar con el cliente.",
     "pixel": "IDs de Meta Pixel vistos en landings anteriores: 1322384729653664 (Playa Candela) y 1398576062491835 (Cerros de la Antigua). Confirmar cuál pertenece a la inmobiliaria antes de activarlo en NEXT_PUBLIC_META_PIXEL_ID."
+  },
+  "hero": {
+    "video": "",
+    "poster": "/img/hero-casa-referencia.webp",
+    "posterAlt": "Casa contemporánea de lujo con piscina infinita sobre las montañas de Antioquia al atardecer",
+    "leyenda": "Imagen de referencia generada para la portada; no corresponde a un inmueble del portafolio",
+    "notas": "Para activar el video: colocar el archivo en public/video/hero.mp4 (16:9, H.264, ≤8 MB, sin audio) y poner \"video\": \"/video/hero.mp4\". Se genera en Higgsfield cuando haya créditos (35 créditos por 5 s en 720p).",
+    "posterMovil": "/img/hero-casa-referencia-m.webp"
   }
 }

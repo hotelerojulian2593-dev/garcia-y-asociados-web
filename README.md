@@ -74,6 +74,20 @@ netlify.toml                 Build y cabeceras para Netlify
 Para retirar una propiedad, cambie `estado` a `retirada` (deja de publicarse y desaparece del
 sitemap) o borre el archivo.
 
+## Hero de la portada (imagen o video)
+
+`contenido/sitio.json → hero`. Hoy usa una imagen de referencia generada (Higgsfield, 2K) con un
+lento acercamiento (Ken Burns) y capas con parallax. Para pasar a video: colocar `public/video/hero.mp4`
+(16:9, H.264, sin audio, ≤8 MB) y poner `"video": "/video/hero.mp4"`; el `poster` sigue siendo la
+imagen. Con `prefers-reduced-motion` se muestra solo la imagen. La leyenda «Imagen de referencia»
+se mantiene mientras el fondo no sea un inmueble del portafolio.
+
+## El Vallenato P.H.
+
+Página dedicada en `src/app/el-vallenato-ph/page.tsx` (renders en `public/img/vallenato-*.webp`, reel en
+`public/video/el-vallenato-ph.mp4`) y sección en la portada. Datos en `contenido/propiedades/el-vallenato-ph.json`.
+Pendientes: tipologías con áreas, precios y plan de pagos autorizados; relación comercial por escrito.
+
 ## Editar textos y datos de la firma
 
 - Datos de contacto, NIT, WhatsApp, zona de servicio: `contenido/sitio.json`.

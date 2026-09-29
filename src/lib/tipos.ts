@@ -61,6 +61,7 @@ export type Propiedad = {
   destacada?: boolean;
   demo: boolean;
   fichaEnPreparacion?: boolean;
+  paginaPropia?: string;
   descripcion: string;
   caracteristicas: string[];
   imagenes: Imagen[];
@@ -133,6 +134,7 @@ export type TarjetaPropiedad = {
   demo: boolean;
   confidencial: boolean;
   fichaEnPreparacion: boolean;
+  href: string;
 };
 
 export function aTarjeta(p: Propiedad): TarjetaPropiedad {
@@ -153,5 +155,6 @@ export function aTarjeta(p: Propiedad): TarjetaPropiedad {
     demo: p.demo,
     confidencial: !!p.confidencial,
     fichaEnPreparacion: !!p.fichaEnPreparacion,
+    href: p.paginaPropia ?? `/propiedades/${p.slug}/`,
   };
 }

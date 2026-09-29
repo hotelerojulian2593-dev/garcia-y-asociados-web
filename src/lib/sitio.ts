@@ -30,6 +30,7 @@ export const NAVEGACION = [
   { href: "/propiedades/", etiqueta: "Propiedades" },
   { href: "/hoteles-e-inversion/", etiqueta: "Hoteles e inversión" },
   { href: "/proyectos/", etiqueta: "Proyectos" },
+  { href: "/el-vallenato-ph/", etiqueta: "El Vallenato P.H." },
   { href: "/quienes-somos/", etiqueta: "Quiénes somos" },
   { href: "/por-que-escogernos/", etiqueta: "Por qué escogernos" },
   { href: "/contacto/", etiqueta: "Contacto" },

@@ -2,20 +2,21 @@
 import { useEffect, useRef } from "react";
 
 /**
- * Hero con profundidad por capas.
- * - Al hacer scroll, el fondo se desplaza más despacio que el contenido (parallax): la
- *   fotografía gana profundidad y el titular se mantiene legible.
- * - En escritorio con cursor, las capas responden con un desplazamiento de pocos píxeles.
- * - Con `prefers-reduced-motion`, en táctil o sin JS, el hero es una composición estática
- *   equivalente: mismo contenido, mismos enlaces.
- * El scroll nunca se bloquea y ningún enlace depende de la animación.
+ * Hero cinematográfico por capas.
+ * - Fondo: video (si existe) o fotografía con un lento acercamiento (Ken Burns) que da sensación de
+ *   cámara en movimiento sin depender de un archivo de video.
+ * - Al hacer scroll, cada capa se desplaza a distinta velocidad (profundidad): la imagen queda
+ *   "detrás" del titular. Con cursor fino, las capas responden con unos píxeles de desplazamiento.
+ * - Con `prefers-reduced-motion`, en táctil o sin JS: composición estática equivalente, mismo
+ *   contenido y mismos enlaces. El scroll nunca se bloquea.
  */
-export function HeroCapas({ children }: { children: React.ReactNode }) {
+export function HeroCapas({ children, className = "" }: { children: React.ReactNode; className?: string }) {
   const ref = useRef<HTMLElement>(null);
   useEffect(() => {
     const raiz = ref.current;
     if (!raiz) return;
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    raiz.classList.add("hero-animado");
     const capas = Array.from(raiz.querySelectorAll<HTMLElement>("[data-profundidad]"));
     const fino = window.matchMedia("(hover: hover) and (pointer: fine)").matches;
     let mx = 0, my = 0, marco = 0;
@@ -41,5 +42,28 @@ export function HeroCapas({ children }: { children: React.ReactNode }) {
     pintar();
     return () => { window.removeEventListener("scroll", programar); raiz.removeEventListener("mousemove", mover); cancelAnimationFrame(marco); };
   }, []);
-  return <section ref={ref} className="hero" aria-labelledby="titulo-hero">{children}</section>;
+  return <section ref={ref} className={`hero ${className}`} aria-labelledby="titulo-hero">{children}</section>;
+}
+
+/** Fondo del hero: video si está configurado; si no, fotografía con Ken Burns. */
+export function FondoHero({ video, poster, posterMovil, alt }: { video?: string; poster: string; posterMovil?: string; alt: string }) {
+  if (video) {
+    return (
+      <video className="hero-video" autoPlay muted loop playsInline poster={poster} preload="metadata" aria-label={alt}>
+        <source src={video} type="video/mp4" />
+      </video>
+    );
+  }
+  return (
+    <img
+      src={poster}
+      srcSet={posterMovil ? `${posterMovil} 1200w, ${poster} 2560w` : undefined}
+      sizes={posterMovil ? "100vw" : undefined}
+      alt={alt}
+      fetchPriority="high"
+      width={2560}
+      height={1434}
+      className="hero-kenburns"
+    />
+  );
 }

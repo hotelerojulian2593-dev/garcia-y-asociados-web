@@ -5,7 +5,7 @@ import { SinFoto } from "./SinFoto";
 import { Tilt } from "./Tilt";
 
 export function TarjetaPropiedad({ p, prioridad = false }: { p: Datos; prioridad?: boolean }) {
-  const href = `/propiedades/${p.slug}/`;
+  const href = p.href;
   return (
     <Tilt className="h-full">
       <article className="tarjeta flex h-full flex-col">
@@ -34,7 +34,7 @@ export function TarjetaPropiedad({ p, prioridad = false }: { p: Datos; prioridad
           )}
           <div className="mt-auto flex items-center justify-between gap-3 pt-3">
             <span className="serif whitespace-nowrap text-xl">{p.precioTexto}</span>
-            <Link href={href} className="btn-texto">Ver ficha →</Link>
+            <Link href={href} className="btn-texto">{p.categoria === "proyecto" ? "Ver proyecto →" : "Ver ficha →"}</Link>
           </div>
         </div>
       </article>
