@@ -8,7 +8,7 @@
 | Verificación automática (`npm run verificar`) | **Probada**: 20 páginas × escritorio y móvil, filtros, galería, teclado, movimiento reducido, enlaces, sin hallazgos |
 | `netlify.toml` (comando, carpeta `out`, cabeceras) | **Preparado**, no probado en Netlify todavía |
 | Repositorio Git | **Preparado** localmente; el remoto se crea con la instrucción de abajo (no se ha verificado ningún remoto) |
-| Dominio en GoHighLevel | **Pendiente**: hace falta el nombre del dominio y revisar su DNS actual |
+| Dominio `inmobiliariagarciayasociados.com` | **Revisado** (28 sep 2026, ver §3): DNS en Cloudflare vía GoHighLevel, `www` apunta a los sitios de GHL, sin correo en el dominio. Conexión a Netlify pendiente de autorización |
 | Meta Pixel, formulario y calendario de GHL | **Pendientes**: variables vacías hasta confirmar IDs |
 
 ## 1. Repositorio y GitHub (desde Claude Code en el Mac)
@@ -26,6 +26,22 @@ Carpeta local: `/Users/marketinghotelero/pagina garcia y asociados`. Instrucció
 5. Cada `git push` a `main` vuelve a desplegar. Verificar la URL pública tras cada despliegue.
 
 ## 3. Dominio gestionado en GoHighLevel
+
+Dominio: **inmobiliariagarciayasociados.com**. Estado observado el 28 de septiembre de 2026 (consultas DNS
+públicas; no se cambió nada):
+
+| Registro | Valor observado | Lectura |
+|---|---|---|
+| NS | `braden.ns.cloudflare.com`, `love.ns.cloudflare.com` | El DNS lo administra Cloudflare, que es lo que usa GoHighLevel para los dominios comprados o conectados desde GHL. Los registros se editan desde GHL (Settings → Domains) o desde la cuenta de Cloudflare asociada |
+| A (raíz) | `162.159.140.166` | IP de Cloudflare: el dominio raíz está apuntado a la plataforma de sitios de GHL |
+| CNAME `www` | `sites.ludicrous.cloud` | Alojamiento de sitios/funnels de GoHighLevel |
+| MX | ninguno | No hay correo en este dominio (la firma usa Gmail); no hay nada de correo que preservar |
+| TXT / DMARC | ninguno | Sin SPF ni verificaciones de terceros |
+| `https://` raíz / `www` | 404 / 403 | No se encontró un sitio publicado; confirmar abriéndolo en un navegador antes de cambiar el DNS |
+
+Conclusión: el dominio está conectado a GHL, pero no sirve un sitio funcional. Cambiar el A raíz y el
+CNAME `www` hacia Netlify no interrumpe correo ni otros servicios. Si más adelante GHL necesita un
+subdominio (por ejemplo `link.` para widgets, hoy no existe), se añade sin conflicto.
 
 Cuatro cosas distintas, que suelen confundirse:
 
@@ -51,8 +67,10 @@ dominio mediante DNS**, y GHL sigue usándose para CRM, formularios y calendario
    - `www` → registro **CNAME** al subdominio `.netlify.app` del sitio.
    - dominio raíz → registro **A** a la IP del balanceador de Netlify (o ALIAS/ANAME si el
      proveedor DNS lo permite).
-3. **En el DNS del dominio** (GHL o registrador): añadir solo esos dos registros. **No borrar**
-   MX, TXT ni los CNAME de GHL o de correo.
+3. **En el DNS del dominio** (GHL → Settings → Domains, o Cloudflare): cambiar el registro A raíz
+   por el de Netlify y el CNAME `www` de `sites.ludicrous.cloud` al subdominio `.netlify.app`.
+   Si Cloudflare muestra el proxy (nube naranja), dejarlo en «DNS only» para que Netlify emita el
+   certificado. No hay MX ni TXT que preservar, pero anotar los valores anteriores por si hay que revertir.
 4. Esperar la propagación (minutos a horas). Netlify emite el certificado HTTPS automáticamente.
 5. **Comprobar**: `https://<dominio>` y `https://www.<dominio>` cargan con candado; una redirige a
    la otra (definir la principal en Netlify); `http://` redirige a `https://`; el correo sigue
