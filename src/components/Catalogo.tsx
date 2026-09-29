@@ -61,7 +61,7 @@ export function Catalogo({ propiedades, ciudades, tipos }: { propiedades: Datos[
 
   return (
     <div className="grid gap-8">
-      <form className="grid gap-4 rounded border border-piedra bg-blanco p-5 md:grid-cols-5" onSubmit={(e) => e.preventDefault()} aria-label="Filtrar propiedades">
+      <form className="grid gap-4 rounded border border-gris-claro bg-blanco p-5 md:grid-cols-5" onSubmit={(e) => e.preventDefault()} aria-label="Filtrar propiedades">
         <div className="campo">
           <label htmlFor="f-ciudad">Ubicación</label>
           <select id="f-ciudad" value={f.ciudad} onChange={(e) => aplicar({ ciudad: e.target.value })}>
@@ -98,7 +98,7 @@ export function Catalogo({ propiedades, ciudades, tipos }: { propiedades: Datos[
         </div>
       </form>
 
-      <div className="flex flex-wrap items-center justify-between gap-3 text-sm text-humo" aria-live="polite">
+      <div className="flex flex-wrap items-center justify-between gap-3 text-sm text-gris-texto" aria-live="polite">
         <span>{resultado.length === 1 ? "1 propiedad" : `${resultado.length} propiedades`}{activos ? ` con ${activos} ${activos === 1 ? "filtro" : "filtros"}` : ""}</span>
         {activos > 0 && (
           <button type="button" className="btn-texto" onClick={() => aplicar(VACIO)}>Restablecer filtros</button>
@@ -106,7 +106,7 @@ export function Catalogo({ propiedades, ciudades, tipos }: { propiedades: Datos[
       </div>
 
       {resultado.length === 0 ? (
-        <div className="rounded border border-piedra bg-blanco px-6 py-14 text-center">
+        <div className="rounded border border-gris-claro bg-blanco px-6 py-14 text-center">
           <h3>No hay propiedades con esa combinación.</h3>
           <p className="mudo mx-auto mt-2 max-w-[48ch]">Amplíe el rango de precio o el área, o cuéntenos qué busca: el inventario completo incluye inmuebles que aún no se publican.</p>
           <div className="mt-6 flex flex-wrap justify-center gap-3">

@@ -37,7 +37,7 @@ export function Galeria({ imagenes, titulo }: { imagenes: Imagen[]; titulo: stri
         <span className="chip chip-claro absolute left-3 top-3">{actual.tipo === "render" ? "Render" : actual.tipo === "plano" ? "Plano" : "Fotografía"}</span>
         <span className="chip chip-claro absolute right-3 top-3">{i + 1} / {n}</span>
       </div>
-      <figcaption className="mt-2 flex flex-wrap items-baseline justify-between gap-2 text-sm text-humo">
+      <figcaption className="mt-2 flex flex-wrap items-baseline justify-between gap-2 text-sm text-gris-texto">
         <span>{actual.alt}</span>
         {actual.leyenda && <span className="text-xs uppercase tracking-[.1em]">{actual.leyenda}</span>}
       </figcaption>

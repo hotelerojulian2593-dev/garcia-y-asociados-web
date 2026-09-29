@@ -92,8 +92,9 @@ Pendientes: tipologías con áreas, precios y plan de pagos autorizados; relaci�
 
 - Datos de contacto, NIT, WhatsApp, zona de servicio: `contenido/sitio.json`.
 - Textos de cada página: el archivo `page.tsx` de su carpeta en `src/app/`.
-- Paleta y componentes visuales: `src/app/globals.css` (tokens en `@theme`). Tipografías autoalojadas
-  (Cormorant Garamond e Inter vía `@fontsource/*`, importadas en `src/app/layout.tsx`): sin llamadas a Google Fonts.
+- Paleta y componentes visuales: `src/app/globals.css` (tokens en `@theme`, tomados del manual de marca en
+  `docs/manual-de-marca.pdf`). Tipografías autoalojadas vía `@fontsource/*` (Alfa Slab One ≈ ChunkFive, Italiana ≈ Munday,
+  Jost para texto), importadas en `src/app/layout.tsx`: sin llamadas a Google Fonts. Logos con transparencia en `public/marca/`.
 
 ## Variables de entorno
 

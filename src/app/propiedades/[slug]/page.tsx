@@ -50,7 +50,7 @@ export default async function Detalle({ params }: { params: Promise<{ slug: stri
   return (
     <article>
       <div className="wrap pt-8">
-        <nav aria-label="Ruta" className="text-xs uppercase tracking-[.12em] text-humo">
+        <nav aria-label="Ruta" className="text-xs uppercase tracking-[.12em] text-gris-texto">
           <Link href="/">Inicio</Link> <span aria-hidden>›</span> <Link href={p.categoria === "hotel" ? "/hoteles-e-inversion/" : p.categoria === "proyecto" ? "/proyectos/" : "/propiedades/"}>{p.categoria === "hotel" ? "Hoteles e inversión" : p.categoria === "proyecto" ? "Proyectos" : "Propiedades"}</Link> <span aria-hidden>›</span> <span aria-current="page">{p.titulo}</span>
         </nav>
         <header className="mt-6 flex flex-wrap items-end justify-between gap-6">
@@ -89,7 +89,7 @@ export default async function Detalle({ params }: { params: Promise<{ slug: stri
             <section aria-labelledby="t-car" className="revelar">
               <h2 id="t-car" className="text-3xl">Características</h2>
               <ul className="mt-4 grid gap-x-8 gap-y-2 sm:grid-cols-2">
-                {p.caracteristicas.map((c) => <li key={c} className="border-b border-piedra py-2 text-sm">{c}</li>)}
+                {p.caracteristicas.map((c) => <li key={c} className="border-b border-gris-claro py-2 text-sm">{c}</li>)}
               </ul>
             </section>
           )}
@@ -108,7 +108,7 @@ export default async function Detalle({ params }: { params: Promise<{ slug: stri
             </p>
           </section>
 
-          <section aria-labelledby="t-visita" className="revelar rounded border border-piedra bg-blanco p-6">
+          <section aria-labelledby="t-visita" className="revelar rounded border border-gris-claro bg-blanco p-6">
             <h2 id="t-visita" className="text-2xl">Planos y recorrido</h2>
             <p className="mudo mt-2 text-sm">
               {p.recorridoVirtual
@@ -122,7 +122,7 @@ export default async function Detalle({ params }: { params: Promise<{ slug: stri
             )}
           </section>
 
-          <section aria-labelledby="t-origen" className="revelar text-xs text-humo">
+          <section aria-labelledby="t-origen" className="revelar text-xs text-gris-texto">
             <h2 id="t-origen" className="text-base">Procedencia de la información</h2>
             <p className="mt-2">{p.origen.fuente}</p>
             <p className="mt-1">Imágenes: {p.origen.imagenes}</p>
@@ -130,12 +130,12 @@ export default async function Detalle({ params }: { params: Promise<{ slug: stri
           </section>
         </div>
 
-        <aside className="contacto-pegajoso self-start rounded border border-piedra bg-blanco p-6" aria-label="Contacto sobre esta propiedad">
-          <p className="text-[.7rem] uppercase tracking-[.16em] text-humo">Consultar por</p>
+        <aside className="contacto-pegajoso self-start rounded border border-gris-claro bg-blanco p-6" aria-label="Contacto sobre esta propiedad">
+          <p className="text-[.7rem] uppercase tracking-[.16em] text-gris-texto">Consultar por</p>
           <p className="serif mt-1 text-2xl leading-tight">{p.titulo}</p>
           <p className="mudo mt-1 text-xs">Código {p.codigo}</p>
           <div className="mt-5 grid gap-3">
-            <a href={enlaceWhatsApp({ codigo: p.codigo, titulo: p.titulo })} target="_blank" rel="noopener" className="btn btn-bronce" data-seguimiento="whatsapp">Escribir por WhatsApp</a>
+            <a href={enlaceWhatsApp({ codigo: p.codigo, titulo: p.titulo })} target="_blank" rel="noopener" className="btn btn-azul" data-seguimiento="whatsapp">Escribir por WhatsApp</a>
             <Link href={`${hrefContacto}&motivo=visita`} className="btn btn-carbon" data-seguimiento="agendar">Agendar visita privada</Link>
             <Link href={hrefContacto} className="btn btn-borde">Solicitar información</Link>
             {p.paginaPropia && (
@@ -151,7 +151,7 @@ export default async function Detalle({ params }: { params: Promise<{ slug: stri
 
       {/* Barra de contacto móvil vinculada al inmueble (oculta el WhatsApp genérico del layout). */}
       <div data-barra-contacto className="barra-contacto-movil lg:hidden" aria-label="Contacto rápido sobre esta propiedad">
-        <a href={enlaceWhatsApp({ codigo: p.codigo, titulo: p.titulo })} target="_blank" rel="noopener" className="btn btn-bronce flex-1" data-seguimiento="whatsapp">WhatsApp</a>
+        <a href={enlaceWhatsApp({ codigo: p.codigo, titulo: p.titulo })} target="_blank" rel="noopener" className="btn btn-azul flex-1" data-seguimiento="whatsapp">WhatsApp</a>
         <Link href={`${hrefContacto}&motivo=visita`} className="btn btn-carbon flex-1" data-seguimiento="agendar">Agendar visita</Link>
       </div>
 

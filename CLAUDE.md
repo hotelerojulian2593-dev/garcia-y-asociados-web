@@ -52,6 +52,9 @@ pase a leer la vista `propiedades_publicas` de Supabase, el único archivo que d
   se leen en `useEffect` con `location.search`.
 - El CSS propio vive en `src/app/globals.css` dentro de `@layer base` / `@layer components`
   para que las utilidades de Tailwind puedan sobrescribirlo.
+- **Identidad visual = manual de marca del cliente** (`docs/manual-de-marca.pdf`): Pantone 7693 C (`azul`),
+  2205 C (`azul-claro`), Warm Gray 7 (`gris`), fondo carbón; ChunkFive → Alfa Slab One, Munday → Italiana,
+  cuerpo Jost. Logos en `public/marca/`. Numerales «01.» de sección y barra bicolor son elementos del manual.
 - Toda imagen lleva `alt` descriptivo, `width` y `height`.
 - Antes de dar por terminado un cambio: `npm run typecheck && npm run build && npm run verificar`.
 

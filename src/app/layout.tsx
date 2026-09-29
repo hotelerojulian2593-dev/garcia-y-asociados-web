@@ -1,11 +1,10 @@
 import type { Metadata } from "next";
-import "@fontsource/cormorant-garamond/latin-400.css";
-import "@fontsource/cormorant-garamond/latin-500.css";
-import "@fontsource/cormorant-garamond/latin-600.css";
-import "@fontsource/cormorant-garamond/latin-400-italic.css";
-import "@fontsource/inter/latin-400.css";
-import "@fontsource/inter/latin-500.css";
-import "@fontsource/inter/latin-600.css";
+import "@fontsource/alfa-slab-one/latin-400.css";
+import "@fontsource/italiana/latin-400.css";
+import "@fontsource/jost/latin-300.css";
+import "@fontsource/jost/latin-400.css";
+import "@fontsource/jost/latin-500.css";
+import "@fontsource/jost/latin-600.css";
 import "./globals.css";
 import { Encabezado } from "@/components/Encabezado";
 import { PiePagina } from "@/components/PiePagina";
@@ -48,11 +47,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </head>
       <body>
         <a className="saltar" href="#contenido">Saltar al contenido</a>
+        <div className="barra-marca" aria-hidden><span /><span /></div>
         <Encabezado />
         <main id="contenido">{children}</main>
         <PiePagina />
         <a
-          className="wa-fijo btn btn-bronce"
+          className="wa-fijo btn btn-carbon"
           href={enlaceWhatsApp()}
           target="_blank"
           rel="noopener"

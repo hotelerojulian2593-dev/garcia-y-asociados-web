@@ -29,21 +29,21 @@ export default function Inicio() {
           <h1 id="titulo-hero">
             Propiedades que se eligen <em>en persona.</em>
           </h1>
-          <p className="mt-7 max-w-[50ch] text-lg leading-relaxed text-piedra">
+          <p className="mt-7 max-w-[50ch] text-lg leading-relaxed text-gris-claro">
             Casas de gran formato, hoteles en operación y proyectos sobre planos en Medellín y Antioquia.
             Publicamos lo confirmado; lo demás se muestra en una visita privada.
           </p>
           <div className="mt-9 flex flex-wrap gap-3">
-            <Link href="/propiedades/" className="btn btn-bronce">Explorar propiedades</Link>
+            <Link href="/propiedades/" className="btn btn-azul">Explorar propiedades</Link>
             <Link href="/contacto/?motivo=visita" className="btn btn-claro" data-seguimiento="agendar">Agendar una visita privada</Link>
           </div>
         </div>
         {playa && playa.imagenes[0] && (
           <aside className="hero-ficha" data-profundidad="0.25" aria-label="Propiedad destacada">
             <img src={playa.imagenes[0].src} alt="" width={640} height={400} />
-            <p className="text-[.66rem] uppercase tracking-[.16em] text-humo">Venta confidencial · {playa.ciudad}</p>
+            <p className="text-[.66rem] uppercase tracking-[.16em] text-gris-texto">Venta confidencial · {playa.ciudad}</p>
             <p className="serif mt-1 text-xl leading-tight">{playa.titulo}</p>
-            <p className="mt-1 text-sm text-humo">10 habitaciones · piscina · playa privada a pasos</p>
+            <p className="mt-1 text-sm text-gris-texto">10 habitaciones · piscina · playa privada a pasos</p>
             <Link href={`/propiedades/${playa.slug}/`} className="btn-texto mt-3 inline-block">Ver ficha →</Link>
           </aside>
         )}
@@ -66,12 +66,13 @@ export default function Inicio() {
               </div>
             </div>
             <div className="revelar" style={{ transitionDelay: "120ms" }}>
+              <p className="numeral mb-2" aria-hidden>01.</p>
               <p className="eyebrow mb-4">Proyecto destacado · Santa Fe de Antioquia</p>
               <h2 id="t-vallenato">{vallenato.titulo}</h2>
               <p className="lead mt-4">{vallenato.resumen}</p>
               <ul className="mt-6 grid grid-cols-2 gap-x-6 gap-y-2 text-sm">
                 {["108 suites", "Entrega prevista 2029", "Piscina en el piso 14", "Restaurante en el piso 13", "Museo y galería", "Helipuerto"].map((c) => (
-                  <li key={c} className="border-b border-piedra py-2">{c}</li>
+                  <li key={c} className="border-b border-gris-claro py-2">{c}</li>
                 ))}
               </ul>
               <div className="mt-8 flex flex-wrap gap-3">
@@ -90,8 +91,8 @@ export default function Inicio() {
             <ReelVertical src="/video/el-vallenato-ph.mp4" poster="/img/el-vallenato-ph-video-poster.webp" titulo="Reel de El Vallenato P.H. · 39 s" />
           </div>
           <div className="order-1 lg:order-2">
-            <Titulo id="t-reel" claro eyebrow="Vea el proyecto en movimiento" titulo="Historia, música y arquitectura en una sola torre." lead="Un recorrido de 39 segundos por los renders del proyecto: balcones curvos con vegetación, piscina con vista a las montañas, museo, restaurante y helipuerto." />
-            <Link href="/el-vallenato-ph/" className="btn btn-bronce mt-8">Ver la página del proyecto</Link>
+            <Titulo id="t-reel" numero="02" claro eyebrow="Vea el proyecto en movimiento" titulo="Historia, música y arquitectura en una sola torre." lead="Un recorrido de 39 segundos por los renders del proyecto: balcones curvos con vegetación, piscina con vista a las montañas, museo, restaurante y helipuerto." />
+            <Link href="/el-vallenato-ph/" className="btn btn-azul mt-8">Ver la página del proyecto</Link>
           </div>
         </div>
       </section>
@@ -99,7 +100,7 @@ export default function Inicio() {
       <section className="seccion" aria-labelledby="t-seleccion">
         <div className="wrap">
           <div className="flex flex-wrap items-end justify-between gap-6">
-            <Titulo id="t-seleccion" eyebrow="Selección editorial" titulo="Cuatro propiedades para empezar." lead="Una muestra del portafolio: distintas zonas, distintos formatos, un mismo criterio de verificación." />
+            <Titulo id="t-seleccion" numero="03" eyebrow="Selección editorial" titulo="Cuatro propiedades para empezar." lead="Una muestra del portafolio: distintas zonas, distintos formatos, un mismo criterio de verificación." />
             <Link href="/propiedades/" className="btn btn-borde">Ver todo el catálogo</Link>
           </div>
           <ul className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-4" aria-label="Propiedades destacadas">
@@ -110,18 +111,18 @@ export default function Inicio() {
         </div>
       </section>
 
-      <section className="seccion bg-marfil-2" aria-labelledby="t-lineas">
+      <section className="seccion bg-hueso-2" aria-labelledby="t-lineas">
         <div className="wrap grid gap-10 lg:grid-cols-[1fr_1fr]">
-          <Titulo id="t-lineas" eyebrow="Dos recorridos" titulo="Una vivienda excepcional, o un activo que produce." lead="El sitio está organizado para dos tipos de búsqueda. Elija el suyo." />
+          <Titulo id="t-lineas" numero="04" eyebrow="Dos recorridos" titulo="Una vivienda excepcional, o un activo que produce." lead="El sitio está organizado para dos tipos de búsqueda. Elija el suyo." />
           <div className="grid gap-4 sm:grid-cols-2">
-            <Link href="/hoteles-e-inversion/" className="revelar block rounded border border-piedra bg-blanco p-6 no-underline transition hover:border-bronce">
-              <p className="text-[.7rem] uppercase tracking-[.16em] text-bronce">Hoteles e inversión</p>
+            <Link href="/hoteles-e-inversion/" className="revelar block rounded border border-gris-claro border-t-[3px] border-t-azul bg-white p-6 no-underline transition hover:border-azul-claro">
+              <p className="eyebrow">Hoteles e inversión</p>
               <p className="serif mt-2 text-2xl">Hoteles en operación y activos con historial.</p>
               <p className="mudo mt-3 text-sm">{hoteles === 1 ? "1 hotel publicado" : `${hoteles} hoteles publicados`} con ficha documentada; cifras bajo acuerdo de confidencialidad.</p>
               <span className="btn-texto mt-4 inline-block">Ver hoteles →</span>
             </Link>
-            <Link href="/proyectos/" className="revelar block rounded border border-piedra bg-blanco p-6 no-underline transition hover:border-bronce" style={{ transitionDelay: "90ms" }}>
-              <p className="text-[.7rem] uppercase tracking-[.16em] text-bronce">Proyectos</p>
+            <Link href="/proyectos/" className="revelar block rounded border border-gris-claro border-t-[3px] border-t-azul bg-white p-6 no-underline transition hover:border-azul-claro" style={{ transitionDelay: "90ms" }}>
+              <p className="eyebrow">Proyectos</p>
               <p className="serif mt-2 text-2xl">Lotes y proyectos sobre planos en Antioquia.</p>
               <p className="mudo mt-3 text-sm">{proyectos === 1 ? "1 proyecto" : `${proyectos} proyectos`} con información verificada, incluido El Vallenato P.H.</p>
               <span className="btn-texto mt-4 inline-block">Ver proyectos →</span>
@@ -133,7 +134,7 @@ export default function Inicio() {
       <section className="seccion" aria-labelledby="t-firma">
         <div className="wrap grid gap-12 lg:grid-cols-[1.1fr_1fr]">
           <div className="revelar">
-            <Titulo id="t-firma" eyebrow="La firma" titulo="Una inmobiliaria de Medellín con criterio de verificación." />
+            <Titulo id="t-firma" numero="05" eyebrow="La firma" titulo="Una inmobiliaria de Medellín con criterio de verificación." />
             <div className="prosa mt-6 max-w-[58ch]">
               <p>
                 {SITIO.razonSocial} es una inmobiliaria constituida en Medellín en 2021, dedicada a la comercialización de vivienda, lotes, hoteles y proyectos en Antioquia y, en el caso de activos hoteleros, también fuera del departamento.
@@ -151,8 +152,8 @@ export default function Inicio() {
               ["Fotografía real", "Las imágenes de cada inmueble son de la propiedad. Los renders se identifican como tales."],
               ["Un canal directo", `Consultas por WhatsApp (${SITIO.whatsappVisible}) atendidas por la firma, con visita privada como siguiente paso.`],
             ].map(([t, d], k) => (
-              <li key={t} className="revelar rounded border border-piedra bg-blanco p-5" style={{ transitionDelay: `${k * 70}ms` }}>
-                <p className="serif text-xl">{t}</p>
+              <li key={t} className="revelar rounded border border-gris-claro border-t-[3px] border-t-azul-claro bg-white p-5" style={{ transitionDelay: `${k * 70}ms` }}>
+                <p className="text-lg font-medium text-azul">{t}</p>
                 <p className="mudo mt-2 text-sm">{d}</p>
               </li>
             ))}
@@ -161,12 +162,12 @@ export default function Inicio() {
       </section>
 
       <section className="seccion-compacta" aria-labelledby="t-cta">
-        <div className="wrap rounded border border-piedra bg-marfil-2 px-6 py-12 text-center md:px-12">
-          <h2 id="t-cta" className="mx-auto max-w-[22ch]">¿Busca algo que aún no está publicado?</h2>
-          <p className="lead mx-auto mt-4">Cuéntenos zona, formato y presupuesto. Parte del inventario se comercializa sin publicación.</p>
+        <div className="wrap rounded bg-azul px-6 py-12 text-center text-white md:px-12">
+          <h2 id="t-cta" className="mx-auto max-w-[22ch] text-azul-claro">¿Busca algo que aún no está publicado?</h2>
+          <p className="lead mx-auto mt-4 text-gris-claro">Cuéntenos zona, formato y presupuesto. Parte del inventario se comercializa sin publicación.</p>
           <div className="mt-8 flex flex-wrap justify-center gap-3">
-            <Link href="/contacto/" className="btn btn-carbon">Escribir a la firma</Link>
-            <a href={enlaceWhatsApp()} target="_blank" rel="noopener" className="btn btn-borde" data-seguimiento="whatsapp">WhatsApp {SITIO.whatsappVisible}</a>
+            <Link href="/contacto/" className="btn btn-azul">Escribir a la firma</Link>
+            <a href={enlaceWhatsApp()} target="_blank" rel="noopener" className="btn btn-claro" data-seguimiento="whatsapp">WhatsApp {SITIO.whatsappVisible}</a>
           </div>
         </div>
       </section>

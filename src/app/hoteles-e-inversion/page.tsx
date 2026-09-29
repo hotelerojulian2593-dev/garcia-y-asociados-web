@@ -25,9 +25,9 @@ export default function Hoteles() {
               <li key={h.slug} className="revelar grid gap-4">
                 <TarjetaPropiedad p={t} prioridad={k === 0} />
                 <dl className="grid grid-cols-3 gap-3 text-sm">
-                  <div><dt className="text-[.68rem] uppercase tracking-[.14em] text-humo">Ubicación</dt><dd>{h.barrioSector}, {h.ciudad}</dd></div>
-                  <div><dt className="text-[.68rem] uppercase tracking-[.14em] text-humo">Capacidad</dt><dd>{h.capacidad ?? "Por confirmar"}</dd></div>
-                  <div><dt className="text-[.68rem] uppercase tracking-[.14em] text-humo">Cifras</dt><dd>{h.demo ? "Ilustrativas" : "Bajo NDA"}</dd></div>
+                  <div><dt className="text-[.68rem] uppercase tracking-[.14em] text-gris-texto">Ubicación</dt><dd>{h.barrioSector}, {h.ciudad}</dd></div>
+                  <div><dt className="text-[.68rem] uppercase tracking-[.14em] text-gris-texto">Capacidad</dt><dd>{h.capacidad ?? "Por confirmar"}</dd></div>
+                  <div><dt className="text-[.68rem] uppercase tracking-[.14em] text-gris-texto">Cifras</dt><dd>{h.demo ? "Ilustrativas" : "Bajo NDA"}</dd></div>
                 </dl>
               </li>
             );
@@ -46,15 +46,15 @@ export default function Hoteles() {
               ["Visita y due diligence", "Recorre la operación con el asesor y verifica escritura, RNT, licencias y deudas con su equipo."],
               ["Negociación y cierre", "Acompañamos la promesa, la escrituración y, si aplica, la transición de la operación."],
             ].map(([t, d], k) => (
-              <li key={t} className="revelar flex gap-4 border-b border-piedra pb-4">
-                <span className="serif text-3xl text-bronce">{k + 1}</span>
+              <li key={t} className="revelar flex gap-4 border-b border-gris-claro pb-4">
+                <span className="serif text-3xl text-azul">{k + 1}</span>
                 <div><p className="font-semibold">{t}</p><p className="mudo mt-1 text-sm">{d}</p></div>
               </li>
             ))}
           </ol>
           <p className="mudo mt-4 text-xs">No se garantiza rentabilidad ni valorización. Las cifras históricas son auditables en due diligence.</p>
         </div>
-        <div className="self-start rounded border border-piedra bg-blanco p-8">
+        <div className="self-start rounded border border-gris-claro bg-blanco p-8">
           <h2 className="text-2xl">Solicitar información de un hotel</h2>
           <p className="mudo mt-2 text-sm">Indique si es inversionista, operador, cadena o quiere operarlo usted, y el plazo en que piensa comprar. El asesor responde por WhatsApp o correo.</p>
           <div className="mt-6 grid gap-3">

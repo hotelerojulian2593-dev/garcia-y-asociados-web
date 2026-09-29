@@ -12,8 +12,8 @@ export function Encabezado() {
   return (
     <header className="encabezado">
       <div className="wrap flex items-center justify-between gap-6 py-4">
-        <Link href="/" className="flex items-baseline gap-2 no-underline" aria-label={`${SITIO.marcaLarga}, inicio`}>
-          <span className="serif whitespace-nowrap text-[1.55rem] leading-none tracking-tight">{SITIO.marca}</span>
+        <Link href="/" className="flex items-center no-underline" aria-label={`${SITIO.marcaLarga}, inicio`}>
+          <img src="/marca/logo-horizontal-azul.png" alt={SITIO.marcaLarga} className="logo-cabecera" width={2116} height={651} fetchPriority="high" />
         </Link>
         <nav className="hidden items-center gap-4 lg:flex xl:gap-6" aria-label="Principal">
           {NAV_CABECERA.map((n) => (
@@ -38,7 +38,7 @@ export function Encabezado() {
         </div>
       </div>
       {abierto && (
-        <nav id="menu-movil" className="wrap border-t border-piedra pb-6 pt-4 lg:hidden" aria-label="Principal (móvil)">
+        <nav id="menu-movil" className="wrap border-t border-gris-claro pb-6 pt-4 lg:hidden" aria-label="Principal (móvil)">
           <ul className="grid gap-1">
             {NAVEGACION.map((n) => (
               <li key={n.href}>

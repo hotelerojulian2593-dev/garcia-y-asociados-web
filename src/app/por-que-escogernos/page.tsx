@@ -24,11 +24,11 @@ export default function PorQue() {
       <section className="wrap seccion-compacta" aria-label="Argumentos">
         <ol className="grid gap-5 md:grid-cols-2">
           {ARGUMENTOS.map(([t, d, v], k) => (
-            <li key={t} className="revelar rounded border border-piedra bg-blanco p-6" style={{ transitionDelay: `${(k % 2) * 80}ms` }}>
-              <span className="serif text-3xl text-bronce">{String(k + 1).padStart(2, "0")}</span>
+            <li key={t} className="revelar rounded border border-gris-claro bg-blanco p-6" style={{ transitionDelay: `${(k % 2) * 80}ms` }}>
+              <span className="serif text-3xl text-azul">{String(k + 1).padStart(2, "0")}</span>
               <h2 className="mt-2 text-2xl">{t}</h2>
               <p className="mudo mt-3 text-sm">{d}</p>
-              <p className="mt-4 text-xs uppercase tracking-[.12em] text-bronce">{v}</p>
+              <p className="mt-4 text-xs uppercase tracking-[.12em] text-azul">{v}</p>
             </li>
           ))}
         </ol>

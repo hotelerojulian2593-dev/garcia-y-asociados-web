@@ -43,11 +43,11 @@ export default function ElVallenato() {
         <div className="hero-contenido wrap">
           <p className="eyebrow eyebrow-claro mb-6">Proyecto sobre planos · Santa Fe de Antioquia</p>
           <h1 id="titulo-hero">El Vallenato <em>P.H.</em></h1>
-          <p className="mt-7 max-w-[50ch] text-lg leading-relaxed text-piedra">
+          <p className="mt-7 max-w-[50ch] text-lg leading-relaxed text-gris-claro">
             108 suites en una torre de balcones curvos con vegetación, museo, restaurante, piscina en el piso 14 y helipuerto. Entrega prevista para 2029.
           </p>
           <div className="mt-9 flex flex-wrap gap-3">
-            <Link href={hrefContacto} className="btn btn-bronce">Recibir información</Link>
+            <Link href={hrefContacto} className="btn btn-azul">Recibir información</Link>
             <a href="#galeria" className="btn btn-claro">Ver renders</a>
           </div>
         </div>
@@ -57,6 +57,7 @@ export default function ElVallenato() {
 
       <section className="wrap seccion grid gap-12 lg:grid-cols-[1fr_360px]" aria-labelledby="t-intro">
         <div className="revelar">
+          <p className="numeral mb-2" aria-hidden>01.</p>
           <p className="eyebrow mb-4">El proyecto</p>
           <h2 id="t-intro">Una torre pensada para vivir, descansar y recibir.</h2>
           <div className="prosa mt-5 max-w-[62ch]">
@@ -67,15 +68,15 @@ export default function ElVallenato() {
           </div>
           <p className="aviso mt-6">No se garantiza rentabilidad ni valorización. Las imágenes son renders del proyecto y pueden cambiar durante el desarrollo. Tipologías, áreas, precios y plan de pagos se publican con la información autorizada.</p>
         </div>
-        <aside className="contacto-pegajoso self-start rounded border border-piedra bg-blanco p-6" aria-label="Contacto sobre el proyecto">
-          <p className="text-[.7rem] uppercase tracking-[.16em] text-humo">Ficha rápida</p>
+        <aside className="contacto-pegajoso self-start rounded border border-gris-claro bg-blanco p-6" aria-label="Contacto sobre el proyecto">
+          <p className="text-[.7rem] uppercase tracking-[.16em] text-gris-texto">Ficha rápida</p>
           <dl className="mt-3 grid gap-3 text-sm">
             {[["Ubicación", `${p.ciudad}, ${p.departamento}`], ["Unidades", `${p.unidadesTotales} suites`], ["Entrega prevista", p.entrega ?? "Por confirmar"], ["Tipologías", "Suite Estudio · Grand Suite"], ["Precios", "Se publican con la información autorizada"], ["Código", p.codigo]].map(([k, v]) => (
-              <div key={k} className="border-b border-piedra pb-2"><dt className="text-humo">{k}</dt><dd>{v}</dd></div>
+              <div key={k} className="border-b border-gris-claro pb-2"><dt className="text-gris-texto">{k}</dt><dd>{v}</dd></div>
             ))}
           </dl>
           <div className="mt-5 grid gap-3">
-            <a href={enlaceWhatsApp({ codigo: p.codigo, titulo: p.titulo })} target="_blank" rel="noopener" className="btn btn-bronce" data-seguimiento="whatsapp">Escribir por WhatsApp</a>
+            <a href={enlaceWhatsApp({ codigo: p.codigo, titulo: p.titulo })} target="_blank" rel="noopener" className="btn btn-azul" data-seguimiento="whatsapp">Escribir por WhatsApp</a>
             <Link href={hrefContacto} className="btn btn-carbon">Recibir información</Link>
           </div>
         </aside>
@@ -83,8 +84,8 @@ export default function ElVallenato() {
 
       <section className="bg-carbon py-[clamp(4rem,9vw,8rem)] text-blanco" aria-labelledby="t-amen">
         <div className="wrap">
-          <p className="eyebrow mb-4">Zonas comunes según los renders</p>
-          <h2 id="t-amen" className="text-blanco">De la galería del primer piso al helipuerto.</h2>
+          <p className="eyebrow mb-4 text-azul-claro">Zonas comunes según los renders</p>
+          <h2 id="t-amen" className="text-azul-claro">De la galería del primer piso al helipuerto.</h2>
           <ul className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {AMENIDADES.map(([piso, nombre, texto, img], k) => (
               <li key={nombre} className="revelar" style={{ transitionDelay: `${(k % 3) * 80}ms` }}>
@@ -92,9 +93,9 @@ export default function ElVallenato() {
                   <figure className="overflow-hidden rounded border border-white/10">
                     <div className="marco-imagen"><img src={img} alt={`Render: ${nombre}`} loading="lazy" width={1600} height={914} /><span className="chip chip-claro absolute left-3 top-3">Render</span></div>
                     <figcaption className="p-5">
-                      <p className="text-[.66rem] uppercase tracking-[.16em] text-bronce-2">{piso}</p>
-                      <p className="serif mt-1 text-2xl text-blanco">{nombre}</p>
-                      <p className="mt-2 text-sm text-piedra">{texto}</p>
+                      <p className="text-[.66rem] uppercase tracking-[.16em] text-azul-claro">{piso}</p>
+                      <p className="mt-1 text-xl font-medium text-white">{nombre}</p>
+                      <p className="mt-2 text-sm text-gris-claro">{texto}</p>
                     </figcaption>
                   </figure>
                 </Tilt>
@@ -105,6 +106,7 @@ export default function ElVallenato() {
       </section>
 
       <section className="wrap seccion" aria-labelledby="t-tipo">
+        <p className="numeral mb-2" aria-hidden>02.</p>
         <p className="eyebrow mb-4">Tipologías</p>
         <h2 id="t-tipo">Dos formatos de suite.</h2>
         <p className="lead mt-4">El documento de diseño del proyecto menciona también una tipología dúplex; se publicará cuando exista material autorizado.</p>
@@ -123,14 +125,16 @@ export default function ElVallenato() {
       </section>
 
       <section id="galeria" className="wrap seccion-compacta" aria-labelledby="t-gal">
+        <p className="numeral mb-2" aria-hidden>03.</p>
         <p className="eyebrow mb-4">Galería</p>
         <h2 id="t-gal" className="mb-8">Renders del proyecto.</h2>
         <Galeria imagenes={p.imagenes} titulo={p.titulo} />
       </section>
 
-      <section className="bg-marfil-2 py-[clamp(4rem,9vw,8rem)]" aria-labelledby="t-video">
+      <section className="bg-hueso-2 py-[clamp(4rem,9vw,8rem)]" aria-labelledby="t-video">
         <div className="wrap grid items-center gap-12 lg:grid-cols-[1fr_1fr]">
           <div>
+            <p className="numeral mb-2" aria-hidden>04.</p>
             <p className="eyebrow mb-4">Video</p>
             <h2 id="t-video">El proyecto en movimiento.</h2>
             <p className="lead mt-4">Reel de 39 segundos con los renders del proyecto. Se reproduce solo cuando usted lo activa.</p>
@@ -143,7 +147,7 @@ export default function ElVallenato() {
         </div>
       </section>
 
-      <section className="wrap seccion-compacta text-xs text-humo" aria-labelledby="t-origen">
+      <section className="wrap seccion-compacta text-xs text-gris-texto" aria-labelledby="t-origen">
         <h2 id="t-origen" className="text-base">Procedencia de la información</h2>
         <p className="mt-2">{p.origen.fuente}</p>
         <p className="mt-1">Imágenes: {p.origen.imagenes}</p>
@@ -151,7 +155,7 @@ export default function ElVallenato() {
       </section>
 
       <div data-barra-contacto className="barra-contacto-movil lg:hidden" aria-label="Contacto rápido sobre el proyecto">
-        <a href={enlaceWhatsApp({ codigo: p.codigo, titulo: p.titulo })} target="_blank" rel="noopener" className="btn btn-bronce flex-1" data-seguimiento="whatsapp">WhatsApp</a>
+        <a href={enlaceWhatsApp({ codigo: p.codigo, titulo: p.titulo })} target="_blank" rel="noopener" className="btn btn-azul flex-1" data-seguimiento="whatsapp">WhatsApp</a>
         <Link href={hrefContacto} className="btn btn-carbon flex-1">Información</Link>
       </div>
     </article>

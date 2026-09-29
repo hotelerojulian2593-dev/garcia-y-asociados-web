@@ -30,14 +30,14 @@ export default function QuienesSomos() {
             Contenido pendiente: nombres, roles y trayectoria del equipo comercial se publican cuando la firma los apruebe. Representante legal registrada: María Nancy García Botero.
           </p>
         </div>
-        <aside className="self-start rounded border border-piedra bg-blanco p-6 text-sm" aria-label="Datos de la firma">
-          <p className="text-[.7rem] uppercase tracking-[.16em] text-humo">Datos registrados</p>
+        <aside className="self-start rounded border border-gris-claro bg-blanco p-6 text-sm" aria-label="Datos de la firma">
+          <p className="text-[.7rem] uppercase tracking-[.16em] text-gris-texto">Datos registrados</p>
           <dl className="mt-3 grid gap-3">
-            <div><dt className="text-humo">Razón social</dt><dd>{SITIO.razonSocial}</dd></div>
-            <div><dt className="text-humo">NIT</dt><dd>{SITIO.nit}</dd></div>
-            <div><dt className="text-humo">Domicilio</dt><dd>{SITIO.direccion}, {SITIO.ciudad}</dd></div>
-            <div><dt className="text-humo">Correo</dt><dd><a href={`mailto:${SITIO.correo}`}>{SITIO.correo}</a></dd></div>
-            <div><dt className="text-humo">WhatsApp comercial</dt><dd>{SITIO.whatsappVisible}</dd></div>
+            <div><dt className="text-gris-texto">Razón social</dt><dd>{SITIO.razonSocial}</dd></div>
+            <div><dt className="text-gris-texto">NIT</dt><dd>{SITIO.nit}</dd></div>
+            <div><dt className="text-gris-texto">Domicilio</dt><dd>{SITIO.direccion}, {SITIO.ciudad}</dd></div>
+            <div><dt className="text-gris-texto">Correo</dt><dd><a href={`mailto:${SITIO.correo}`}>{SITIO.correo}</a></dd></div>
+            <div><dt className="text-gris-texto">WhatsApp comercial</dt><dd>{SITIO.whatsappVisible}</dd></div>
           </dl>
           <Link href="/contacto/" className="btn btn-carbon mt-6 w-full">Contactar</Link>
         </aside>

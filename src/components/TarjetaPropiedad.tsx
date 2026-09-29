@@ -22,19 +22,19 @@ export function TarjetaPropiedad({ p, prioridad = false }: { p: Datos; prioridad
           </div>
         </Link>
         <div className="flex flex-1 flex-col gap-3 p-5">
-          <p className="text-[.72rem] uppercase tracking-[.16em] text-humo">
+          <p className="text-[.72rem] uppercase tracking-[.16em] text-gris-texto">
             {NOMBRE_TIPO[p.tipo]} · {p.ciudad}
             {p.barrioSector && p.barrioSector !== p.ciudad ? ` · ${p.barrioSector}` : ""}
           </p>
-          <h3 className="text-[1.45rem] leading-tight">
+          <h3 className="serif text-[1.6rem] leading-tight text-carbon">
             <Link href={href} className="no-underline hover:underline">{p.titulo}</Link>
           </h3>
           {p.esenciales.length > 0 && (
-            <p className="text-sm text-humo">{p.esenciales.join(" · ")}</p>
+            <p className="text-sm text-gris-texto">{p.esenciales.join(" · ")}</p>
           )}
-          <div className="mt-auto flex items-center justify-between gap-3 pt-3">
-            <span className="serif whitespace-nowrap text-xl">{p.precioTexto}</span>
-            <Link href={href} className="btn-texto">{p.categoria === "proyecto" ? "Ver proyecto →" : "Ver ficha →"}</Link>
+          <div className="mt-auto flex flex-wrap items-center justify-between gap-x-3 gap-y-1 pt-3">
+            <span className="whitespace-nowrap text-lg font-medium text-azul">{p.precioTexto}</span>
+            <Link href={href} className="btn-texto whitespace-nowrap">{p.categoria === "proyecto" ? "Ver proyecto →" : "Ver ficha →"}</Link>
           </div>
         </div>
       </article>
