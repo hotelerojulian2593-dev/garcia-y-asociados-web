@@ -209,6 +209,11 @@ function convertir(w) {
   const areaPrivada = redondear(numero(det["Área Privada"]));
   const areaTerreno = redondear(numero(det["Área Terreno"]));
   let areaConstruida = areaConstruidaCruda ?? areaPrivada;
+  // Áreas construidas menores de 10 m² son marcadores de «sin dato» en Wasi (se ve «1 m²»).
+  if (typeof areaConstruida === "number" && areaConstruida < 10) {
+    avisos.push(`${id}: área construida «${det["Área Construida"]}» no es verosímil; se omite. Corregir en Wasi.`);
+    areaConstruida = undefined;
+  }
   let areaLote;
   if (tipo === "lote") {
     areaLote = areaTerreno ?? areaConstruidaCruda;
