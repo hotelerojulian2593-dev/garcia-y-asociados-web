@@ -1,0 +1,134 @@
+{
+  "codigo": "10377903",
+  "slug": "apartamento-venta-belen-medellin-10377903",
+  "categoria": "propiedad",
+  "titulo": "Venta apartamento en la Villa de Aburrá",
+  "resumen": "Apartamento de 104 m² construidos, 3 alcobas, 3 baños en Belen, Medellín.",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "ciudad": "Medellín",
+  "departamento": "Antioquia",
+  "barrioSector": "Belen",
+  "precio": 620000000,
+  "precioVisible": true,
+  "areaConstruida": 104,
+  "habitaciones": 3,
+  "banos": 3,
+  "parqueaderos": 1,
+  "pisos": 2,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 10377903,
+  "descripcion": "Apartamento de 104 m² construidos, 3 alcobas, 3 baños en Belen, Medellín. El asesor confirma en la visita los detalles que no aparecen en esta ficha.",
+  "caracteristicas": [
+    "Estrato 4",
+    "Si baño medio",
+    "Administración $424.000 mensual",
+    "Admite mascotas",
+    "Agua",
+    "Balcón",
+    "Baño en habitación principal",
+    "Biblioteca/Estudio",
+    "Clósets",
+    "Cocina integral",
+    "Depósito",
+    "Habitación servicio",
+    "Suelo de cerámica / mármol",
+    "Árboles frutales",
+    "Centros comerciales",
+    "Cerca a Jardines y Colegios",
+    "Cerca a restaurantes",
+    "Cerca a tiendas de barrio",
+    "Colegios / Universidades",
+    "Garaje",
+    "Parques cercanos",
+    "Trans. público cercano",
+    "Vigilancia"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMDctNTkyNl80MTM4LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMDctNTkyNl80MTM4LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Villa de Aburrá · fotografía 1 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMTAtMjM2M182MDc3LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMTAtMjM2M182MDc3LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Villa de Aburrá · fotografía 2 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMTItODc4MV8zNDg4LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMTItODc4MV8zNDg4LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Villa de Aburrá · fotografía 3 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMTUtNTI4MV84NTE4LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMTUtNTI4MV84NTE4LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Villa de Aburrá · fotografía 4 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMTgtMTE0XzU1NDMuanBlZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMTgtMTE0XzU1NDMuanBlZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Venta apartamento en la Villa de Aburrá · fotografía 5 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMjEtMjczNF81MjQ3LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMjEtMjczNF81MjQ3LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Villa de Aburrá · fotografía 6 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMjQtMDE1N18yNzAwLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMjQtMDE1N18yNzAwLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Villa de Aburrá · fotografía 7 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMjYtNzMyOV8xMDQxLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMjYtNzMyOV8xMDQxLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Villa de Aburrá · fotografía 8 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMjktMzI1Ml8xNTY0LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMjktMzI1Ml8xNTY0LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Villa de Aburrá · fotografía 9 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMzItMjNfMzgzNC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMzItMjNfMzgzNC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta apartamento en la Villa de Aburrá · fotografía 10 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMzQtOTg4OV8xNTg2LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMzQtOTg4OV8xNTg2LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Villa de Aburrá · fotografía 11 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMzctNTk5Ml8yMTYyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzMzctNTk5Ml8yMTYyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Villa de Aburrá · fotografía 12 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzNDAtMzI4N182Mzg2LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xhX251ZXZhXzE3ODg3NjIzNDAtMzI4N182Mzg2LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Villa de Aburrá · fotografía 13 de 13",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 10377903), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (13 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

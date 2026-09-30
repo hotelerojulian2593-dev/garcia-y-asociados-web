@@ -1,0 +1,63 @@
+{
+  "codigo": "10401644",
+  "slug": "bodega-venta-la-america-medellin-10401644",
+  "categoria": "propiedad",
+  "titulo": "Venta bodega - local en la América",
+  "resumen": "Bodega de 388 m² construidos, 3 baños en La America, Medellín.",
+  "operacion": "venta",
+  "tipo": "bodega",
+  "ciudad": "Medellín",
+  "departamento": "Antioquia",
+  "barrioSector": "La America",
+  "precio": 1800000000,
+  "precioVisible": true,
+  "areaConstruida": 388,
+  "banos": 3,
+  "pisos": 2,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 10401644,
+  "descripcion": "Bodega de 388 m² construidos, 3 baños en La America, Medellín. El asesor confirma en la visita los detalles que no aparecen en esta ficha.",
+  "caracteristicas": [
+    "Estrato 4",
+    "Agua",
+    "Electricidad",
+    "Puerta de seguridad",
+    "Cerca a Jardines y Colegios",
+    "Cerca a tiendas de barrio",
+    "Cerca a restaurantes",
+    "Circuito cerrado de TV"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2JvZGVnYV9lbl9sYV9hbXJpY2FfMTc4OTE3MTI0Mi0zMjlfMzYyMy5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2JvZGVnYV9lbl9sYV9hbXJpY2FfMTc4OTE3MTI0Mi0zMjlfMzYyMy5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta bodega - local en la América · fotografía 1 de 4",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2JvZGVnYV9lbl9sYV9hbXJpY2FfMTc4OTE3MTI0Ni0zOTU0XzUyNzcuanBlZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2JvZGVnYV9lbl9sYV9hbXJpY2FfMTc4OTE3MTI0Ni0zOTU0XzUyNzcuanBlZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Venta bodega - local en la América · fotografía 2 de 4",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2JvZGVnYV9lbl9sYV9hbXJpY2FfMTc4OTE3MTI0OS02NTAyXzIyNDYuanBlZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2JvZGVnYV9lbl9sYV9hbXJpY2FfMTc4OTE3MTI0OS02NTAyXzIyNDYuanBlZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Venta bodega - local en la América · fotografía 3 de 4",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2JvZGVnYV9lbl9sYV9hbXJpY2FfMTc4OTE3MTI1Mi02NDcyXzM2MDYuanBlZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2JvZGVnYV9lbl9sYV9hbXJpY2FfMTc4OTE3MTI1Mi02NDcyXzM2MDYuanBlZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Venta bodega - local en la América · fotografía 4 de 4",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 10401644), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (4 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

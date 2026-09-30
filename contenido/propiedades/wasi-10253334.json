@@ -1,0 +1,101 @@
+{
+  "codigo": "10253334",
+  "slug": "casa-venta-la-ceja-10253334",
+  "categoria": "propiedad",
+  "titulo": "Venta casa la Ceja",
+  "resumen": "Casa de 85 m² construidos, 4 alcobas, 2 baños en La Ceja.",
+  "operacion": "venta",
+  "tipo": "casa",
+  "ciudad": "La Ceja",
+  "departamento": "Antioquia",
+  "precio": 340000000,
+  "precioVisible": true,
+  "areaConstruida": 85,
+  "areaLote": 92.3,
+  "habitaciones": 4,
+  "banos": 2,
+  "pisos": 2,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 10253334,
+  "descripcion": "Casa de 85 m² construidos, 4 alcobas, 2 baños en La Ceja. El asesor confirma en la visita los detalles que no aparecen en esta ficha.",
+  "caracteristicas": [
+    "Estrato 2",
+    "Área privada 92.3 m²",
+    "Admite mascotas",
+    "Adosado",
+    "Agua",
+    "Balcón",
+    "Cocina integral",
+    "Comedor auxiliar",
+    "Centro Médico",
+    "Centros comerciales",
+    "Cerca a Jardines y Colegios",
+    "Cerca a tiendas de barrio",
+    "Patio",
+    "Trans. público cercano",
+    "Zona residencial"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfbGFfY2VqYV8xNzg2MDI5MTUyLTA2MDRfNTEwNi5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfbGFfY2VqYV8xNzg2MDI5MTUyLTA2MDRfNTEwNi5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta casa la Ceja · fotografía 1 de 9",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfbGFfY2VqYV8xNzg2MDI5MTU1LTI2OV82NDUxLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfbGFfY2VqYV8xNzg2MDI5MTU1LTI2OV82NDUxLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta casa la Ceja · fotografía 2 de 9",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfbGFfY2VqYV8xNzg2MDI5MTU3LTk2NjhfMTQzOC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfbGFfY2VqYV8xNzg2MDI5MTU3LTk2NjhfMTQzOC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta casa la Ceja · fotografía 3 de 9",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfbGFfY2VqYV8xNzg2MDI5MTYwLTcyNjVfNjc2OC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfbGFfY2VqYV8xNzg2MDI5MTYwLTcyNjVfNjc2OC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta casa la Ceja · fotografía 4 de 9",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfbGFfY2VqYV8xNzg2MDI5MTYzLTM4NF8yOTI0LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfbGFfY2VqYV8xNzg2MDI5MTYzLTM4NF8yOTI0LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta casa la Ceja · fotografía 5 de 9",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfbGFfY2VqYV8xNzg2MDI5MTY2LTI3MDFfMzgxOC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfbGFfY2VqYV8xNzg2MDI5MTY2LTI3MDFfMzgxOC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta casa la Ceja · fotografía 6 de 9",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfbGFfY2VqYV8xNzg2MDI5MTY4LTk4NjRfMTUyMS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfbGFfY2VqYV8xNzg2MDI5MTY4LTk4NjRfMTUyMS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta casa la Ceja · fotografía 7 de 9",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfbGFfY2VqYV8xNzg2MDI5MTcyLTAxNDRfODI0MC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfbGFfY2VqYV8xNzg2MDI5MTcyLTAxNDRfODI0MC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta casa la Ceja · fotografía 8 de 9",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfbGFfY2VqYV8xNzg2MDI5MTc0LTYzOTNfNjExNy5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfbGFfY2VqYV8xNzg2MDI5MTc0LTYzOTNfNjExNy5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta casa la Ceja · fotografía 9 de 9",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 10253334), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (9 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

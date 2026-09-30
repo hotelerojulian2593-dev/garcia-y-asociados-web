@@ -1,0 +1,146 @@
+{
+  "codigo": "9649698",
+  "slug": "apartamento-venta-itagui-medellin-9649698",
+  "categoria": "propiedad",
+  "titulo": "Apartamento en venta Suramerica Itagui",
+  "resumen": "Elegante y amplio apartamento con excelente iluminación natural, diseño moderno y acabados de alta calidad. Perfecto para quienes buscan comodidad, buena vista y una unidad con múltiples amenities.",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "ciudad": "Medellín",
+  "departamento": "Antioquia",
+  "barrioSector": "Itagui",
+  "precio": 839000000,
+  "precioVisible": true,
+  "areaConstruida": 109,
+  "habitaciones": 3,
+  "banos": 3,
+  "parqueaderos": 1,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 9649698,
+  "descripcion": "Apartamento en venta – itagui Suramérica\n\nÁrea: 109 m²\nPiso: 27\nPrecio: $839.000.000\n\nElegante y amplio apartamento con excelente iluminación natural, diseño moderno y acabados de alta calidad. Perfecto para quienes buscan comodidad, buena vista y una unidad con múltiples amenities.\n\nDistribución del inmueble:\n– 3 habitaciones\n– 2 baños completos\n– 1 baño social (solo inodoro)\n– Parqueadero doble lineal\n– Cuarto útil\n– Sala comedor amplia y luminosa\n– Modernos acabados en todo el apartamento\n\nLa unidad cuenta con:\n– Seguridad 24/7\n– Salón social\n– Turco\n– Cancha recreativa\n– Gimnasio\n– Piscinas para adultos y niños\n– Parque de hadas\n– Cancha de squash\n– Zona BBQ\n– Zona picnic\n\nUn apartamento amplio, moderno y con zonas comunes ideales para vivir en confort y tranquilidad.",
+  "caracteristicas": [
+    "Estrato 4",
+    "Construido en 2015",
+    "Admite mascotas",
+    "Agua",
+    "Balcón",
+    "Baño auxiliar",
+    "Baño en habitación principal",
+    "Barra estilo americano",
+    "Calentador",
+    "Clósets",
+    "Cocina integral",
+    "Depósito",
+    "Electricidad",
+    "Gas domiciliario",
+    "Vista panorámica",
+    "Zona de lavandería",
+    "Puerta de seguridad",
+    "Área Social",
+    "Ascensor",
+    "Centros comerciales",
+    "Cerca zona urbana",
+    "Circuito cerrado de TV",
+    "Colegios / Universidades",
+    "Gimnasio",
+    "Parqueadero visitantes",
+    "Parques cercanos",
+    "Piscina",
+    "Portería / Recepción",
+    "Trans. público cercano",
+    "Urbanización Cerrada",
+    "Vigilancia",
+    "Zona infantil",
+    "Zona residencial",
+    "Zonas deportivas",
+    "Zonas verdes",
+    "Shut de basura"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIyMDI1MTEyNjA1MTEzOC5qcGciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIyMDI1MTEyNjA1MTEzOC5qcGciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Apartamento en venta Suramerica Itagui · fotografía 1 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTAyMDI1MTEyNjA1MTEzNy5qcGciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTAyMDI1MTEyNjA1MTEzNy5qcGciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Apartamento en venta Suramerica Itagui · fotografía 2 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5ODIwMjUxMTI2MDUxMTM2LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5ODIwMjUxMTI2MDUxMTM2LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Apartamento en venta Suramerica Itagui · fotografía 3 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NjIwMjUxMTI2MDUxMTM2LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NjIwMjUxMTI2MDUxMTM2LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Apartamento en venta Suramerica Itagui · fotografía 4 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NDIwMjUxMTI2MDUxMTM1LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NDIwMjUxMTI2MDUxMTM1LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Apartamento en venta Suramerica Itagui · fotografía 5 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTEyMDI1MTEyNjA1MTEzNy5qcGciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTEyMDI1MTEyNjA1MTEzNy5qcGciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Apartamento en venta Suramerica Itagui · fotografía 6 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIwMjUxMTI2MDUxMTM0LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIwMjUxMTI2MDUxMTM0LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Apartamento en venta Suramerica Itagui · fotografía 7 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MjIwMjUxMTI2MDUxMTM0LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MjIwMjUxMTI2MDUxMTM0LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Apartamento en venta Suramerica Itagui · fotografía 8 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MzIwMjUxMTI2MDUxMTM1LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MzIwMjUxMTI2MDUxMTM1LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Apartamento en venta Suramerica Itagui · fotografía 9 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NTIwMjUxMTI2MDUxMTM1LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NTIwMjUxMTI2MDUxMTM1LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Apartamento en venta Suramerica Itagui · fotografía 10 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NzIwMjUxMTI2MDUxMTM2LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NzIwMjUxMTI2MDUxMTM2LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Apartamento en venta Suramerica Itagui · fotografía 11 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5OTIwMjUxMTI2MDUxMTM3LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5OTIwMjUxMTI2MDUxMTM3LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Apartamento en venta Suramerica Itagui · fotografía 12 de 13",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTMyMDI1MTEyNjA1MTEzOC5qcGciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTMyMDI1MTEyNjA1MTEzOC5qcGciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Apartamento en venta Suramerica Itagui · fotografía 13 de 13",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 9649698), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (13 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

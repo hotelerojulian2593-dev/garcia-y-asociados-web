@@ -1,0 +1,115 @@
+{
+  "codigo": "9596394",
+  "slug": "lote-terreno-venta-rodeo-sopetran-9596394",
+  "categoria": "propiedad",
+  "titulo": "Lote en venta Sopetran Rodeo",
+  "resumen": "Área: 2.200 m² Valor: $220.000.000 Administración: $260.000 Sin deudas",
+  "operacion": "venta",
+  "tipo": "lote",
+  "ciudad": "Sopetrán",
+  "departamento": "Antioquia",
+  "barrioSector": "Rodeo",
+  "precio": 220000000,
+  "precioVisible": true,
+  "areaLote": 2200,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 9596394,
+  "descripcion": "Lote en venta – Sopetrán, Sector El Rodeo\n\nÁrea: 2.200 m²\nValor: $220.000.000\nAdministración: $260.000\nSin deudas\n\nUbicado en una parcelación cerrada, a solo 5 minutos del Club de Pesca El Gaitero.\nCuenta con acceso por la vía a Santa Fe de Antioquia o por Sopetrán.\nLa vía está próxima a pavimentarse, lo que garantiza una excelente valorización.\n\n¡Un entorno tranquilo y natural, perfecto para construir la casa campestre de tus sueños o invertir en un lugar con gran proyección!",
+  "caracteristicas": [
+    "Piso 1",
+    "Administración $260.000 mensual"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIwMjUxMTA1MTExMzA2LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIwMjUxMTA1MTExMzA2LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Lote en venta Sopetran Rodeo · fotografía 1 de 14",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MjIwMjUxMTA1MTExMzA3LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MjIwMjUxMTA1MTExMzA3LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Lote en venta Sopetran Rodeo · fotografía 2 de 14",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MzIwMjUxMTA1MTExMzA3LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MzIwMjUxMTA1MTExMzA3LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Lote en venta Sopetran Rodeo · fotografía 3 de 14",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NDIwMjUxMTA1MTExMzA3LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NDIwMjUxMTA1MTExMzA3LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Lote en venta Sopetran Rodeo · fotografía 4 de 14",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NTIwMjUxMTA1MTExMzA4LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NTIwMjUxMTA1MTExMzA4LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Lote en venta Sopetran Rodeo · fotografía 5 de 14",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NjIwMjUxMTA1MTExMzA4LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NjIwMjUxMTA1MTExMzA4LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Lote en venta Sopetran Rodeo · fotografía 6 de 14",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NzIwMjUxMTA1MTExMzA4LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NzIwMjUxMTA1MTExMzA4LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Lote en venta Sopetran Rodeo · fotografía 7 de 14",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5ODIwMjUxMTA1MTExMzE3LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5ODIwMjUxMTA1MTExMzE3LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Lote en venta Sopetran Rodeo · fotografía 8 de 14",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5OTIwMjUxMTA1MTExMzE3LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5OTIwMjUxMTA1MTExMzE3LmpwZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Lote en venta Sopetran Rodeo · fotografía 9 de 14",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTAyMDI1MTEwNTExMTMxOC5qcGciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTAyMDI1MTEwNTExMTMxOC5qcGciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Lote en venta Sopetran Rodeo · fotografía 10 de 14",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTEyMDI1MTEwNTExMTMxOC5qcGciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTEyMDI1MTEwNTExMTMxOC5qcGciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Lote en venta Sopetran Rodeo · fotografía 11 de 14",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIyMDI1MTEwNTExMTMxOC5qcGciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIyMDI1MTEwNTExMTMxOC5qcGciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Lote en venta Sopetran Rodeo · fotografía 12 de 14",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTMyMDI1MTEwNTExMTMxOS5qcGciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTMyMDI1MTEwNTExMTMxOS5qcGciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Lote en venta Sopetran Rodeo · fotografía 13 de 14",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTQyMDI1MTEwNTExMTMxOS5qcGciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTQyMDI1MTEwNTExMTMxOS5qcGciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Lote en venta Sopetran Rodeo · fotografía 14 de 14",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 9596394), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (14 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

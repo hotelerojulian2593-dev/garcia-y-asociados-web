@@ -1,0 +1,157 @@
+{
+  "codigo": "9786013",
+  "slug": "apartamento-venta-parque-la-estrella-9786013",
+  "categoria": "propiedad",
+  "titulo": "Venta apartamento en la Estrella cerca de Luis Amigó",
+  "resumen": "Parqueadero: Aislado, con toma 220V para conexión de patinetas eléctricas Cuarto útil: Sí",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "ciudad": "La Estrella",
+  "departamento": "Antioquia",
+  "barrioSector": "Parque",
+  "precio": 510000000,
+  "precioVisible": true,
+  "areaConstruida": 62.1,
+  "habitaciones": 2,
+  "banos": 2,
+  "parqueaderos": 1,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 9786013,
+  "descripcion": "Apartamento en venta – La Estrella\n\nÁrea cubierta: 62,14 m²\nTerraza privada cubierta: 42,10 m²\n\nParqueadero: Aislado, con toma 220V para conexión de patinetas eléctricas\nCuarto útil: Sí\n\nDistribución y comodidades\n\nHabitación principal con clóset, vestier y baño privado\nHabitación sencilla con clóset\nBaño social con ducha\nCocina completamente nueva, con barra en quarztone blanco polar y mueble inferior\nDespensa de cocina\nZona de ropas\nTerraza privada cubierta\nSalida de gas en la terraza\nBaños con cabinas en vidrio templado\n\nUrbanización\n\nPiscina\nGimnasio\nSalón social\nZona PET\nParque infantil\nCancha de fútbol\n\nInformación adicional\n\nPiso: 1\nAño de construcción: 2018 (aprox.)\nApartamento recién remodelado\nEstrato: 4\nAdministración: $280.000\nLibre de gravámenes: Sí\nPredial año anterior: $1.522.978",
+  "caracteristicas": [
+    "Estrato 4",
+    "Construido en 2018",
+    "Piso 1",
+    "Administración $280.000 mensual",
+    "Admite mascotas",
+    "Agua",
+    "Armarios Empotrados",
+    "Balcón",
+    "Baño auxiliar",
+    "Baño en habitación principal",
+    "Barra estilo americano",
+    "Calentador",
+    "Clósets",
+    "Cocina integral",
+    "Depósito",
+    "Zona de lavandería",
+    "Acceso pavimentado",
+    "Área Social",
+    "Ascensor",
+    "Cerca zona urbana",
+    "Colegios / Universidades",
+    "Garaje",
+    "Gimnasio",
+    "Parqueadero visitantes",
+    "Parques cercanos",
+    "Piscina",
+    "Portería / Recepción",
+    "Salón Comunal",
+    "Trans. público cercano",
+    "Urbanización Cerrada",
+    "Vigilancia",
+    "Zona infantil",
+    "Zona residencial",
+    "Zonas deportivas",
+    "Zonas verdes"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MjIwMjYwMjEyMTEwNDQ2LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MjIwMjYwMjEyMTEwNDQ2LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Estrella cerca de Luis Amigó · fotografía 1 de 15",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIwMjYwMjEyMTEwNDQ1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIwMjYwMjEyMTEwNDQ1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Estrella cerca de Luis Amigó · fotografía 2 de 15",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MzIwMjYwMjEyMTEwNDQ3LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MzIwMjYwMjEyMTEwNDQ3LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Estrella cerca de Luis Amigó · fotografía 3 de 15",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NDIwMjYwMjEyMTEwNDQ5LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NDIwMjYwMjEyMTEwNDQ5LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Estrella cerca de Luis Amigó · fotografía 4 de 15",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NTIwMjYwMjEyMTEwNDUwLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NTIwMjYwMjEyMTEwNDUwLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Estrella cerca de Luis Amigó · fotografía 5 de 15",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NjIwMjYwMjEyMTEwNDUyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NjIwMjYwMjEyMTEwNDUyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Estrella cerca de Luis Amigó · fotografía 6 de 15",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NzIwMjYwMjEyMTEwNDUzLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NzIwMjYwMjEyMTEwNDUzLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Estrella cerca de Luis Amigó · fotografía 7 de 15",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5ODIwMjYwMjEyMTEwNDU0LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5ODIwMjYwMjEyMTEwNDU0LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Estrella cerca de Luis Amigó · fotografía 8 de 15",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5OTIwMjYwMjEyMTEwNDU1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5OTIwMjYwMjEyMTEwNDU1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en la Estrella cerca de Luis Amigó · fotografía 9 de 15",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTAyMDI2MDIxMjExMDQ1Ni5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTAyMDI2MDIxMjExMDQ1Ni5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta apartamento en la Estrella cerca de Luis Amigó · fotografía 10 de 15",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTEyMDI2MDIxMjExMDQ1Ny5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTEyMDI2MDIxMjExMDQ1Ny5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta apartamento en la Estrella cerca de Luis Amigó · fotografía 11 de 15",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIyMDI2MDIxMjExMDQ1OC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIyMDI2MDIxMjExMDQ1OC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta apartamento en la Estrella cerca de Luis Amigó · fotografía 12 de 15",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTMyMDI2MDIxMjExMDQ1OC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTMyMDI2MDIxMjExMDQ1OC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta apartamento en la Estrella cerca de Luis Amigó · fotografía 13 de 15",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTQyMDI2MDIxMjExMDQ1OS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTQyMDI2MDIxMjExMDQ1OS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta apartamento en la Estrella cerca de Luis Amigó · fotografía 14 de 15",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTUyMDI2MDIxMjExMDUzOS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTUyMDI2MDIxMjExMDUzOS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta apartamento en la Estrella cerca de Luis Amigó · fotografía 15 de 15",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 9786013), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (15 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "codigo": "10336595",
+  "slug": "finca-venta-melgar-melgar-10336595",
+  "categoria": "propiedad",
+  "titulo": "Finca en venta en Melgar Tolima",
+  "resumen": "Amplia finca de 450 m² construidos sobre un terreno de 2.800 m² en total, ideal para disfrutar en familia o como inversión en una de las zonas de descanso más reconocidas del país.",
+  "operacion": "venta",
+  "tipo": "finca",
+  "ciudad": "Melgar",
+  "departamento": "Tolima",
+  "precio": 2600000000,
+  "precioVisible": true,
+  "areaConstruida": 450,
+  "areaLote": 2800,
+  "habitaciones": 5,
+  "banos": 5,
+  "parqueaderos": 1,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 10336595,
+  "descripcion": "Amplia finca de 450 m² construidos sobre un terreno de 2.800 m² en total, ideal para disfrutar en familia o como inversión en una de las zonas de descanso más reconocidas del país.\n\n450 m² construidos (área total del lote: 2.800 m²)\n5 habitaciones, cada una con baño privado, aire acondicionado y ventilador\nHabitaciones amplias de 6.50 x 6.50 metros\nEstrato 4\nPosibilidad de realizar avalúo comercial si se requiere\n\nUbicación estratégica:\nUbicada en el municipio de Melgar, Tolima\n\nPrecio de inversión: $2.600.000.000\nAdministración: No aplica\nImpuesto Predial: $2.000.000",
+  "caracteristicas": [
+    "Estrato 4",
+    "Construido en 2010"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIwMjYwODMxMTEzNDU1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIwMjYwODMxMTEzNDU1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Finca en venta en Melgar Tolima · fotografía 1 de 4",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MjIwMjYwODMxMTEzNDU2LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MjIwMjYwODMxMTEzNDU2LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Finca en venta en Melgar Tolima · fotografía 2 de 4",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MzIwMjYwODMxMTEzNDU3LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MzIwMjYwODMxMTEzNDU3LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Finca en venta en Melgar Tolima · fotografía 3 de 4",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NDIwMjYwODMxMTEzNDU4LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NDIwMjYwODMxMTEzNDU4LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Finca en venta en Melgar Tolima · fotografía 4 de 4",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 10336595), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (4 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

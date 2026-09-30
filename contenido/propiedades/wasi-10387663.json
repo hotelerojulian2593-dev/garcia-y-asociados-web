@@ -1,0 +1,96 @@
+{
+  "codigo": "10387663",
+  "slug": "apartamento-venta-suramerica-itagui-10387663",
+  "categoria": "propiedad",
+  "titulo": "Apartamento en venta en Itagüí sector Suramérica",
+  "resumen": "Amplio apartamento desocupado, libre de todo gravamen, con buena distribución y espacios funcionales.",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "ciudad": "Itagüí",
+  "departamento": "Antioquia",
+  "barrioSector": "Suramérica",
+  "precio": 571000000,
+  "precioVisible": true,
+  "areaConstruida": 80,
+  "habitaciones": 3,
+  "banos": 2,
+  "parqueaderos": 1,
+  "pisos": 13,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 10387663,
+  "descripcion": "Amplio apartamento desocupado, libre de todo gravamen, con buena distribución y espacios funcionales.\n\n80 m² de área\n3 alcobas\n2 baños completos\n1 parqueadero y 1 cuarto útil\nPiso 13\nAño de construcción 2019\nActualmente desocupado\nLibre de todo gravamen\n\nUbicación estratégica:\nSuramérica, Itagüí\n\nPrecio de inversión: $571.000.000\nAdministración: $355.000 mensuales (Estrato 4)\nImpuesto Predial: $1.400.000 anual\n\n(Ni.)",
+  "caracteristicas": [
+    "Estrato 4",
+    "Construido en 2019",
+    "Administración $355.000 mensual",
+    "Agua",
+    "Armarios Empotrados",
+    "Balcón",
+    "Baño auxiliar",
+    "Baño en habitación principal",
+    "Barra estilo americano",
+    "Clósets",
+    "Cocina integral",
+    "Electricidad",
+    "Gas domiciliario",
+    "Vista panorámica",
+    "Zona de lavandería",
+    "Ascensor",
+    "Gimnasio",
+    "Piscina",
+    "Portería / Recepción",
+    "Salón Comunal",
+    "Urbanización Cerrada",
+    "Vigilancia",
+    "Zona infantil",
+    "Zonas verdes",
+    "Barbacoa / Parrilla / Quincho",
+    "Cancha de futbol",
+    "Cancha de squash"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIwMjYwOTA5MDUyMTAxLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIwMjYwOTA5MDUyMTAxLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Apartamento en venta en Itagüí sector Suramérica · fotografía 1 de 6",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MjIwMjYwOTA5MDUyMTAyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MjIwMjYwOTA5MDUyMTAyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Apartamento en venta en Itagüí sector Suramérica · fotografía 2 de 6",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MzIwMjYwOTA5MDUyMTAzLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MzIwMjYwOTA5MDUyMTAzLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Apartamento en venta en Itagüí sector Suramérica · fotografía 3 de 6",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NDIwMjYwOTA5MDUyMTA0LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NDIwMjYwOTA5MDUyMTA0LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Apartamento en venta en Itagüí sector Suramérica · fotografía 4 de 6",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NTIwMjYwOTA5MDUyMTA1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NTIwMjYwOTA5MDUyMTA1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Apartamento en venta en Itagüí sector Suramérica · fotografía 5 de 6",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NjIwMjYwOTA5MDUyMTA1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NjIwMjYwOTA5MDUyMTA1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Apartamento en venta en Itagüí sector Suramérica · fotografía 6 de 6",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 10387663), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (6 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

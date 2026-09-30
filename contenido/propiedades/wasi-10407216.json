@@ -1,0 +1,54 @@
+{
+  "codigo": "10407216",
+  "slug": "apartamento-venta-sabaneta-sabaneta-10407216",
+  "categoria": "propiedad",
+  "titulo": "Cesión de Derechos en Fidelena Park",
+  "resumen": "Apartamento de 84 m² en unidad cerrada con sendero ecológico, full acabados, listo para entrega en octubre. Excelente oportunidad mediante cesión de derechos.",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "ciudad": "Sabaneta",
+  "departamento": "Antioquia",
+  "precio": 650000000,
+  "precioVisible": true,
+  "areaConstruida": 84,
+  "habitaciones": 3,
+  "banos": 2,
+  "parqueaderos": 1,
+  "pisos": 7,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 10407216,
+  "descripcion": "Apartamento de 84 m² en unidad cerrada con sendero ecológico, full acabados, listo para entrega en octubre. Excelente oportunidad mediante cesión de derechos.\n\n84 m²\n3 habitaciones\n2.5 baños\nBalcón\nGaraje cubierto\n2 cuartos útiles\nPiso 7\nFull acabados, entrega en octubre de 2026\nLa unidad cuenta con:\nPiscina, vigilancia 24/7, coworking y sendero ecológico\n\nUbicación estratégica:\nSabaneta\n\nNegociación mediante cesión de derechos: $350.000.000 quedan a cargo del banco y $300.000.000 se pagan directamente al cedente.\n\nPrecio de inversión: $650.000.000\nAdministración: No aplica\nImpuesto Predial: No aplica",
+  "caracteristicas": [
+    "Inmueble nuevo",
+    "Estrato 4",
+    "Construido en 2026",
+    "Si baño medio"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MzIwMjYwOTE0MDczMjE1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MzIwMjYwOTE0MDczMjE1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Cesión de Derechos en Fidelena Park · fotografía 1 de 3",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIwMjYwOTE0MDczMjEzLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIwMjYwOTE0MDczMjEzLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Cesión de Derechos en Fidelena Park · fotografía 2 de 3",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MjIwMjYwOTE0MDczMjE0LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MjIwMjYwOTE0MDczMjE0LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Cesión de Derechos en Fidelena Park · fotografía 3 de 3",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 10407216), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (3 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

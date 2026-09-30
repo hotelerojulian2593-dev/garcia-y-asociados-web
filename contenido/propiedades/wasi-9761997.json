@@ -1,0 +1,97 @@
+{
+  "codigo": "9761997",
+  "slug": "apartamento-venta-belen-la-palma-medellin-9761997",
+  "categoria": "propiedad",
+  "titulo": "Venta apartamento en Belén la Palma",
+  "resumen": "Apartamento de 76.1 m² construidos, 3 alcobas, 2 baños en Belen La Palma, Medellín.",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "ciudad": "Medellín",
+  "departamento": "Antioquia",
+  "barrioSector": "Belen La Palma",
+  "precio": 620000000,
+  "precioVisible": true,
+  "areaConstruida": 76.1,
+  "habitaciones": 3,
+  "banos": 2,
+  "parqueaderos": 1,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 9761997,
+  "descripcion": "Apartamento de 76.1 m² construidos, 3 alcobas, 2 baños en Belen La Palma, Medellín. El asesor confirma en la visita los detalles que no aparecen en esta ficha.",
+  "caracteristicas": [
+    "Estrato 5",
+    "Construido en 2000",
+    "Piso 1",
+    "Administración $260.000 mensual",
+    "Agua",
+    "Baño en habitación principal",
+    "Calentador",
+    "Citófono / Intercomunicador",
+    "Clósets",
+    "Cocina integral",
+    "Gas domiciliario",
+    "Reformado",
+    "Suelo de cerámica / mármol",
+    "Electricidad",
+    "Acceso discapacitados",
+    "Centros comerciales",
+    "Cerca a Jardines y Colegios",
+    "Cerca a restaurantes",
+    "Cerca a tiendas de barrio",
+    "Circuito cerrado de TV",
+    "Garaje",
+    "Trans. público cercano",
+    "Zonas deportivas"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2JlbG5fbGFfcF8xNzcwMTQ0MjA5LTYwNjFfNjc1MC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2JlbG5fbGFfcF8xNzcwMTQ0MjA5LTYwNjFfNjc1MC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta apartamento en Belén la Palma · fotografía 1 de 7",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2JlbG5fbGFfcF8xNzcwMTQ0MjEyLTU1NzFfNjg2OC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2JlbG5fbGFfcF8xNzcwMTQ0MjEyLTU1NzFfNjg2OC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta apartamento en Belén la Palma · fotografía 2 de 7",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2JlbG5fbGFfcF8xNzcwMTQ0MjE1LTYyOTJfNjgxMi5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2JlbG5fbGFfcF8xNzcwMTQ0MjE1LTYyOTJfNjgxMi5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta apartamento en Belén la Palma · fotografía 3 de 7",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2JlbG5fbGFfcF8xNzcwMTQ0MjE5LTczNzhfNDc4OS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2JlbG5fbGFfcF8xNzcwMTQ0MjE5LTczNzhfNDc4OS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta apartamento en Belén la Palma · fotografía 4 de 7",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2JlbG5fbGFfcF8xNzcwMTQ0MjIzLTI1MjRfODE1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2JlbG5fbGFfcF8xNzcwMTQ0MjIzLTI1MjRfODE1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en Belén la Palma · fotografía 5 de 7",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2JlbG5fbGFfcF8xNzcwMTQ0MjI2LTY0NTNfNjc1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2JlbG5fbGFfcF8xNzcwMTQ0MjI2LTY0NTNfNjc1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en Belén la Palma · fotografía 6 de 7",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2JlbG5fbGFfcF8xNzcwMTQ0MjI5LTQ4NDVfMjUyOC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2JlbG5fbGFfcF8xNzcwMTQ0MjI5LTQ4NDVfMjUyOC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta apartamento en Belén la Palma · fotografía 7 de 7",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 9761997), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (7 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

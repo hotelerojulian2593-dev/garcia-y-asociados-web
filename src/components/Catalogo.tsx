@@ -13,18 +13,28 @@ const RANGOS_PRECIO: { id: string; etiqueta: string; min?: number; max?: number 
   { id: "consultar", etiqueta: "Precio bajo consulta" },
 ];
 
-type Filtros = { ciudad: string; tipo: string; precio: string; habitaciones: string; area: string };
-const VACIO: Filtros = { ciudad: "", tipo: "", precio: "", habitaciones: "", area: "" };
+type Filtros = { ciudad: string; tipo: string; precio: string; habitaciones: string; area: string; orden: string };
+const VACIO: Filtros = { ciudad: "", tipo: "", precio: "", habitaciones: "", area: "", orden: "" };
+const ORDENES: { id: string; etiqueta: string }[] = [
+  { id: "", etiqueta: "Destacadas y recientes" },
+  { id: "precio-desc", etiqueta: "Mayor precio" },
+  { id: "precio-asc", etiqueta: "Menor precio" },
+  { id: "area-desc", etiqueta: "Mayor área" },
+];
+/** Tarjetas visibles antes de pulsar «Ver más» (todas las fichas están en el sitemap). */
+const LOTE = 24;
 
 export function Catalogo({ propiedades, ciudades, tipos }: { propiedades: Datos[]; ciudades: string[]; tipos: Tipo[] }) {
   const [f, setF] = useState<Filtros>(VACIO);
+  const [visibles, setVisibles] = useState(LOTE);
 
   // El catálogo completo se prerenderiza (visible sin JavaScript y para buscadores).
   // La URL es la fuente de verdad de los filtros: se leen al montar y se pueden enlazar desde anuncios.
   useEffect(() => {
     const leer = () => {
       const q = new URLSearchParams(location.search);
-      setF({ ciudad: q.get("ciudad") || "", tipo: q.get("tipo") || "", precio: q.get("precio") || "", habitaciones: q.get("habitaciones") || "", area: q.get("area") || "" });
+      setF({ ciudad: q.get("ciudad") || "", tipo: q.get("tipo") || "", precio: q.get("precio") || "", habitaciones: q.get("habitaciones") || "", area: q.get("area") || "", orden: q.get("orden") || "" });
+      setVisibles(LOTE);
     };
     leer();
     window.addEventListener("popstate", leer);
@@ -38,11 +48,12 @@ export function Catalogo({ propiedades, ciudades, tipos }: { propiedades: Datos[
     const qs = q.toString();
     history.replaceState(null, "", qs ? `${location.pathname}?${qs}` : location.pathname);
     setF(nuevo);
+    setVisibles(LOTE);
   };
 
   const resultado = useMemo(() => {
     const rango = RANGOS_PRECIO.find((r) => r.id === f.precio);
-    return propiedades.filter((p) => {
+    const filtradas = propiedades.filter((p) => {
       if (f.ciudad && p.ciudad !== f.ciudad) return false;
       if (f.tipo && p.tipo !== f.tipo) return false;
       if (f.habitaciones && (p.habitaciones ?? 0) < Number(f.habitaciones)) return false;
@@ -55,13 +66,19 @@ export function Catalogo({ propiedades, ciudades, tipos }: { propiedades: Datos[
       }
       return true;
     });
+    if (f.orden === "precio-desc") return [...filtradas].sort((a, b) => (b.precio ?? -1) - (a.precio ?? -1));
+    if (f.orden === "precio-asc") return [...filtradas].sort((a, b) => (a.precio ?? Infinity) - (b.precio ?? Infinity));
+    if (f.orden === "area-desc") return [...filtradas].sort((a, b) => (b.area ?? -1) - (a.area ?? -1));
+    return filtradas;
   }, [propiedades, f]);
 
-  const activos = Object.values(f).filter(Boolean).length;
+  const activos = (Object.keys(f) as (keyof Filtros)[]).filter((k) => k !== "orden" && f[k]).length;
+  const mostradas = resultado.slice(0, visibles);
+  const restantes = resultado.length - mostradas.length;
 
   return (
     <div className="grid gap-8">
-      <form className="grid gap-4 rounded border border-gris-claro bg-blanco p-5 md:grid-cols-5" onSubmit={(e) => e.preventDefault()} aria-label="Filtrar propiedades">
+      <form className="grid gap-4 rounded border border-gris-claro bg-blanco p-5 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6" onSubmit={(e) => e.preventDefault()} aria-label="Filtrar propiedades">
         <div className="campo">
           <label htmlFor="f-ciudad">Ubicación</label>
           <select id="f-ciudad" value={f.ciudad} onChange={(e) => aplicar({ ciudad: e.target.value })}>
@@ -96,6 +113,12 @@ export function Catalogo({ propiedades, ciudades, tipos }: { propiedades: Datos[
             {[100, 200, 400, 1000, 2500].map((n) => <option key={n} value={n}>{n.toLocaleString("es-CO")} m²+</option>)}
           </select>
         </div>
+        <div className="campo">
+          <label htmlFor="f-orden">Ordenar</label>
+          <select id="f-orden" value={f.orden} onChange={(e) => aplicar({ orden: e.target.value })}>
+            {ORDENES.map((o) => <option key={o.id} value={o.id}>{o.etiqueta}</option>)}
+          </select>
+        </div>
       </form>
 
       <div className="flex flex-wrap items-center justify-between gap-3 text-sm text-gris-texto" aria-live="polite">
@@ -115,11 +138,21 @@ export function Catalogo({ propiedades, ciudades, tipos }: { propiedades: Datos[
           </div>
         </div>
       ) : (
-        <ul className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3" aria-label="Resultados">
-          {resultado.map((p, k) => (
-            <li key={p.slug} className="revelar"><TarjetaPropiedad p={p} prioridad={k < 3} /></li>
-          ))}
-        </ul>
+        <>
+          <ul className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3" aria-label="Resultados">
+            {mostradas.map((p, k) => (
+              <li key={p.slug} className="revelar"><TarjetaPropiedad p={p} prioridad={k < 3} /></li>
+            ))}
+          </ul>
+          {restantes > 0 && (
+            <div className="flex flex-col items-center gap-2 pt-2 text-center">
+              <button type="button" className="btn btn-borde" onClick={() => setVisibles((v) => v + LOTE)}>
+                Ver más propiedades ({restantes} {restantes === 1 ? "restante" : "restantes"})
+              </button>
+              <span className="text-xs text-gris-texto">Mostrando {mostradas.length} de {resultado.length}</span>
+            </div>
+          )}
+        </>
       )}
     </div>
   );

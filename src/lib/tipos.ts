@@ -5,12 +5,15 @@
 export const TIPOS = [
   "apartamento",
   "apartaestudio",
+  "penthouse",
   "casa",
+  "finca",
+  "lote",
   "local",
   "oficina",
-  "lote",
-  "finca",
+  "consultorio",
   "bodega",
+  "edificio",
   "hotel",
 ] as const;
 export type Tipo = (typeof TIPOS)[number];
@@ -20,6 +23,8 @@ export type Categoria = (typeof CATEGORIAS)[number];
 
 export type Imagen = {
   src: string;
+  /** Versión reducida (tarjetas y miniaturas). Si falta, se usa `src`. */
+  miniatura?: string;
   alt: string;
   tipo: "foto" | "render" | "plano";
   leyenda?: string;
@@ -59,6 +64,8 @@ export type Propiedad = {
   capacidad?: string;
   estado: "disponible" | "separada" | "vendida" | "arrendada" | "retirada";
   destacada?: boolean;
+  /** Orden de publicación (mayor = más reciente). Las fichas de Wasi usan su código. */
+  orden?: number;
   demo: boolean;
   fichaEnPreparacion?: boolean;
   paginaPropia?: string;
@@ -92,12 +99,15 @@ export function formatoArea(m2?: number, desde?: boolean): string | null {
 export const NOMBRE_TIPO: Record<Tipo, string> = {
   apartamento: "Apartamento",
   apartaestudio: "Apartaestudio",
+  penthouse: "Penthouse",
   casa: "Casa",
+  finca: "Finca",
+  lote: "Lote",
   local: "Local",
   oficina: "Oficina",
-  lote: "Lote",
-  finca: "Finca",
+  consultorio: "Consultorio",
   bodega: "Bodega",
+  edificio: "Edificio",
   hotel: "Hotel",
 };
 
@@ -131,6 +141,7 @@ export type TarjetaPropiedad = {
   area: number | null;
   esenciales: string[];
   imagen: Imagen | null;
+  orden: number;
   demo: boolean;
   confidencial: boolean;
   fichaEnPreparacion: boolean;
@@ -152,6 +163,7 @@ export function aTarjeta(p: Propiedad): TarjetaPropiedad {
     area: p.areaConstruida ?? p.areaLote ?? null,
     esenciales: datosEsenciales(p),
     imagen: p.imagenes[0] ?? null,
+    orden: p.orden ?? 0,
     demo: p.demo,
     confidencial: !!p.confidencial,
     fichaEnPreparacion: !!p.fichaEnPreparacion,

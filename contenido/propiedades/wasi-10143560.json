@@ -1,0 +1,96 @@
+{
+  "codigo": "10143560",
+  "slug": "apartamento-venta-medellin-10143560",
+  "categoria": "propiedad",
+  "titulo": "Venta apartamento en los Colores",
+  "resumen": "Apartamento de 56 m² construidos, 3 alcobas, 2 baños en Medellín.",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "ciudad": "Medellín",
+  "departamento": "Antioquia",
+  "precio": 440000000,
+  "precioVisible": true,
+  "areaConstruida": 56,
+  "habitaciones": 3,
+  "banos": 2,
+  "parqueaderos": 1,
+  "pisos": 15,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 10143560,
+  "descripcion": "Venta de apartamento en unidad cerrada",
+  "caracteristicas": [
+    "Estrato 5",
+    "Construido en 2010",
+    "Administración $380.000 mensual",
+    "Agua",
+    "Balcón",
+    "Baño en habitación principal",
+    "Calentador",
+    "Clósets",
+    "Cocina integral",
+    "Gas domiciliario",
+    "Acceso pavimentado",
+    "Área Social",
+    "Ascensor",
+    "Centros comerciales",
+    "Centro Médico",
+    "Cerca a Jardines y Colegios",
+    "Cerca a tiendas de barrio",
+    "Cerca zona urbana",
+    "Garaje",
+    "Gimnasio",
+    "Parqueadero visitantes",
+    "Piscina",
+    "Portería / Recepción",
+    "Shut de basura",
+    "Trans. público cercano",
+    "Urbanización Cerrada",
+    "Vigilancia",
+    "Zona residencial"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xvc19jb2xvcl8xNzgzODA4MzU2LTI4MDNfNzE3Ni5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xvc19jb2xvcl8xNzgzODA4MzU2LTI4MDNfNzE3Ni5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta apartamento en los Colores · fotografía 1 de 6",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xvc19jb2xvcl8xNzgzODA4MzYwLTE0MzlfOTYxLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xvc19jb2xvcl8xNzgzODA4MzYwLTE0MzlfOTYxLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta apartamento en los Colores · fotografía 2 de 6",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xvc19jb2xvcl8xNzgzODA4MzY0LTg1MDFfMTAzNC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xvc19jb2xvcl8xNzgzODA4MzY0LTg1MDFfMTAzNC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta apartamento en los Colores · fotografía 3 de 6",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xvc19jb2xvcl8xNzgzODA4MzY4LTUyNzlfODU0MS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xvc19jb2xvcl8xNzgzODA4MzY4LTUyNzlfODU0MS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta apartamento en los Colores · fotografía 4 de 6",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xvc19jb2xvcl8xNzgzODA4MzcxLTgwMTRfNjk5OC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xvc19jb2xvcl8xNzgzODA4MzcxLTgwMTRfNjk5OC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta apartamento en los Colores · fotografía 5 de 6",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xvc19jb2xvcl8xNzgzODA4Mzc4LTE1ODRfNDg2MC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2xvc19jb2xvcl8xNzgzODA4Mzc4LTE1ODRfNDg2MC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta apartamento en los Colores · fotografía 6 de 6",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 10143560), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (6 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

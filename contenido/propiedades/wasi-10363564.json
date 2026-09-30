@@ -1,0 +1,106 @@
+{
+  "codigo": "10363564",
+  "slug": "apartamento-venta-toledo-la-estrella-10363564",
+  "categoria": "propiedad",
+  "titulo": "Apartamento en venta sector la Estrella Toledo",
+  "resumen": "Apartamento de 68 m² construidos, 2 alcobas, 2 baños en Toledo, La Estrella.",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "ciudad": "La Estrella",
+  "departamento": "Antioquia",
+  "barrioSector": "Toledo",
+  "precio": 460000000,
+  "precioVisible": true,
+  "areaConstruida": 68,
+  "habitaciones": 2,
+  "banos": 2,
+  "parqueaderos": 1,
+  "pisos": 13,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 10363564,
+  "descripcion": "APARTAMENTO EN VENTA – LA ESTRELLA, TOLEDO",
+  "caracteristicas": [
+    "Estrato 4",
+    "Construido en 2020",
+    "Administración $363.000 mensual",
+    "Clósets",
+    "Cocina integral",
+    "Horno",
+    "Baño auxiliar",
+    "Balcón",
+    "Baño en habitación principal",
+    "Barra estilo americano",
+    "Ascensor",
+    "Área Social",
+    "Cancha de futbol",
+    "Garaje",
+    "Parqueadero visitantes",
+    "Piscina",
+    "Shut de basura",
+    "Zonas deportivas",
+    "Zona infantil"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2FwYXJ0YW1lbnRvX2VuX3ZlbnRhX3NlY3Rvcl9sYV8xNzg4NDcyMDg4LTM4NzFfMjIxNC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2FwYXJ0YW1lbnRvX2VuX3ZlbnRhX3NlY3Rvcl9sYV8xNzg4NDcyMDg4LTM4NzFfMjIxNC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Apartamento en venta sector la Estrella Toledo · fotografía 1 de 9",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2FwYXJ0YW1lbnRvX2VuX3ZlbnRhX3NlY3Rvcl9sYV8xNzg4NDcyMDkxLTExMTRfNTAxOS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2FwYXJ0YW1lbnRvX2VuX3ZlbnRhX3NlY3Rvcl9sYV8xNzg4NDcyMDkxLTExMTRfNTAxOS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Apartamento en venta sector la Estrella Toledo · fotografía 2 de 9",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2FwYXJ0YW1lbnRvX2VuX3ZlbnRhX3NlY3Rvcl9sYV8xNzg4NDcyMDkzLTk1ODZfODcxMC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2FwYXJ0YW1lbnRvX2VuX3ZlbnRhX3NlY3Rvcl9sYV8xNzg4NDcyMDkzLTk1ODZfODcxMC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Apartamento en venta sector la Estrella Toledo · fotografía 3 de 9",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2FwYXJ0YW1lbnRvX2VuX3ZlbnRhX3NlY3Rvcl9sYV8xNzg4NDcyMDk2LTgwOTZfMjA3MC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2FwYXJ0YW1lbnRvX2VuX3ZlbnRhX3NlY3Rvcl9sYV8xNzg4NDcyMDk2LTgwOTZfMjA3MC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Apartamento en venta sector la Estrella Toledo · fotografía 4 de 9",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2FwYXJ0YW1lbnRvX2VuX3ZlbnRhX3NlY3Rvcl9sYV8xNzg4NDcyMDk5LTUwMV8yNDI1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2FwYXJ0YW1lbnRvX2VuX3ZlbnRhX3NlY3Rvcl9sYV8xNzg4NDcyMDk5LTUwMV8yNDI1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Apartamento en venta sector la Estrella Toledo · fotografía 5 de 9",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2FwYXJ0YW1lbnRvX2VuX3ZlbnRhX3NlY3Rvcl9sYV8xNzg4NDcyMTAyLTUyMjRfNjkyNS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2FwYXJ0YW1lbnRvX2VuX3ZlbnRhX3NlY3Rvcl9sYV8xNzg4NDcyMTAyLTUyMjRfNjkyNS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Apartamento en venta sector la Estrella Toledo · fotografía 6 de 9",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2FwYXJ0YW1lbnRvX2VuX3ZlbnRhX3NlY3Rvcl9sYV8xNzg4NDcyMTA1LTI4ODJfMzE3Ni5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2FwYXJ0YW1lbnRvX2VuX3ZlbnRhX3NlY3Rvcl9sYV8xNzg4NDcyMTA1LTI4ODJfMzE3Ni5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Apartamento en venta sector la Estrella Toledo · fotografía 7 de 9",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2FwYXJ0YW1lbnRvX2VuX3ZlbnRhX3NlY3Rvcl9sYV8xNzg4NDcyMTA3LTk1NDhfOTI3LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2FwYXJ0YW1lbnRvX2VuX3ZlbnRhX3NlY3Rvcl9sYV8xNzg4NDcyMTA3LTk1NDhfOTI3LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Apartamento en venta sector la Estrella Toledo · fotografía 8 de 9",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2FwYXJ0YW1lbnRvX2VuX3ZlbnRhX3NlY3Rvcl9sYV8xNzg4NDcyMTEwLTYwODlfNzI2Ny5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2FwYXJ0YW1lbnRvX2VuX3ZlbnRhX3NlY3Rvcl9sYV8xNzg4NDcyMTEwLTYwODlfNzI2Ny5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Apartamento en venta sector la Estrella Toledo · fotografía 9 de 9",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 10363564), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (9 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

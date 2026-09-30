@@ -1,0 +1,77 @@
+{
+  "codigo": "10406831",
+  "slug": "apartamento-venta-laureles-medellin-10406831",
+  "categoria": "propiedad",
+  "titulo": "Apartamento en venta en Medellín sector Laureles Santa Teresita",
+  "resumen": "Amplio apartamento de 174 m², completamente remodelado, ubicado en el corazón de Laureles - Santa Teresita.",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "ciudad": "Medellín",
+  "departamento": "Antioquia",
+  "barrioSector": "Laureles",
+  "precio": 1050000000,
+  "precioVisible": true,
+  "areaConstruida": 174,
+  "habitaciones": 3,
+  "banos": 2,
+  "parqueaderos": 2,
+  "pisos": 2,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 10406831,
+  "descripcion": "Amplio apartamento de 174 m², completamente remodelado, ubicado en el corazón de Laureles - Santa Teresita. Distribución generosa con espacios sociales independientes, ideal para quienes buscan comodidad y buena ubicación en un sector consolidado.\n\n174 m²\n3 habitaciones + habitación de servicio\n2 baños + baño de servicio\nSala amplia con zona de entretenimiento y sala de estar con balcón\nCocina integral con isla y lavavajillas\nZona de ropas independiente\nAlarma de seguridad\nPiso 2, acceso con ascensor\nGaraje doble en línea, closet útil\nEdificación de más de 50 años, apartamento remodelado (incluye tubería y red eléctrica renovadas hace 15 años)\nLa unidad cuenta con:\nAscensor, shute de basura y portería diurna\n\nUbicación estratégica:\nSector Laureles - Santa Teresita, Medellín\n\nPrecio de inversión: $1.050.000.000 (abierto a negociación)\nAdministración: $700.000 mensuales (Estrato 5)\nImpuesto Predial: $650.000 mensual",
+  "caracteristicas": [
+    "Estrato 5",
+    "Construido en 1976",
+    "Si baño medio",
+    "Administración $700.000 mensual",
+    "Agua",
+    "Balcón",
+    "Barra estilo americano",
+    "Cocina integral",
+    "Depósito",
+    "Zona de lavandería",
+    "Alarma",
+    "Habitación servicio",
+    "Lavaplatos",
+    "Ascensor",
+    "Cerca zona urbana",
+    "Colegios / Universidades",
+    "Portería / Recepción",
+    "Trans. público cercano",
+    "Vigilancia",
+    "Shut de basura"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIwMjYwOTE0MDUwNTIyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIwMjYwOTE0MDUwNTIyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Apartamento en venta en Medellín sector Laureles Santa Teresita · fotografía 1 de 4",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MjIwMjYwOTE0MDUwNTIyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MjIwMjYwOTE0MDUwNTIyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Apartamento en venta en Medellín sector Laureles Santa Teresita · fotografía 2 de 4",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MzIwMjYwOTE0MDUwNTIzLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MzIwMjYwOTE0MDUwNTIzLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Apartamento en venta en Medellín sector Laureles Santa Teresita · fotografía 3 de 4",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NDIwMjYwOTE0MDUwNTI0LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NDIwMjYwOTE0MDUwNTI0LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Apartamento en venta en Medellín sector Laureles Santa Teresita · fotografía 4 de 4",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 10406831), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (4 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

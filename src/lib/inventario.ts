@@ -32,10 +32,12 @@ export function todasLasPropiedades(): Propiedad[] {
     }
     return { ...crudo, destacada: crudo.destacada ?? false, imagenes: crudo.imagenes ?? [], caracteristicas: crudo.caracteristicas ?? [] };
   });
-  // Lo real primero, luego demostración; dentro de cada grupo, destacadas primero.
+  // Lo real primero, luego demostración; dentro de cada grupo, destacadas primero,
+  // después lo más reciente (`orden` descendente) y por último el título.
   lista.sort((a, b) => {
     if (a.demo !== b.demo) return a.demo ? 1 : -1;
     if (!!a.destacada !== !!b.destacada) return a.destacada ? -1 : 1;
+    if ((a.orden ?? 0) !== (b.orden ?? 0)) return (b.orden ?? 0) - (a.orden ?? 0);
     return a.titulo.localeCompare(b.titulo, "es");
   });
   cache = lista;

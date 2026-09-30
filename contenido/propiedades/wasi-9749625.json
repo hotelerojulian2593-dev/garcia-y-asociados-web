@@ -1,0 +1,137 @@
+{
+  "codigo": "9749625",
+  "slug": "cabana-venta-san-jeronimo-9749625",
+  "categoria": "propiedad",
+  "titulo": "Venta de Cabaña en San Jerónimo Urbanización campestre",
+  "resumen": "Casa de 180 m² construidos, 4 alcobas, 2 baños en San Jerónimo.",
+  "operacion": "venta",
+  "tipo": "casa",
+  "ciudad": "San Jerónimo",
+  "departamento": "Antioquia",
+  "precio": 670000000,
+  "precioVisible": true,
+  "areaConstruida": 180,
+  "areaLote": 820,
+  "habitaciones": 4,
+  "banos": 2,
+  "parqueaderos": 2,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 9749625,
+  "descripcion": "Casa de 180 m² construidos, 4 alcobas, 2 baños en San Jerónimo. El asesor confirma en la visita los detalles que no aparecen en esta ficha.",
+  "caracteristicas": [
+    "Estrato 5",
+    "Construido en 2000",
+    "Piso 1",
+    "Área privada 1000 m²",
+    "Admite mascotas",
+    "Agua",
+    "Amoblado",
+    "Balcón",
+    "Baño auxiliar",
+    "Barra estilo americano",
+    "Clósets",
+    "Cocina equipada",
+    "Comedor auxiliar",
+    "Electricidad",
+    "Hospedaje Turismo",
+    "Sala de usos múltiples",
+    "Adosado",
+    "Unifamiliar",
+    "Acceso discapacitados",
+    "Acceso pavimentado",
+    "Árboles frutales",
+    "Bahias de parqueo",
+    "Barbacoa / Parrilla / Quincho",
+    "Bosque nativos",
+    "Cancha de baloncesto",
+    "Cancha de futbol",
+    "Cerca a restaurantes",
+    "Cerca a tiendas de barrio",
+    "Cochera / Garaje",
+    "Garaje",
+    "Jardín",
+    "Kiosko",
+    "Parqueadero visitantes",
+    "Parques cercanos",
+    "Piscina",
+    "Portería / Recepción",
+    "Sistema de riego",
+    "Trans. público cercano",
+    "Vigilancia",
+    "Vivienda unifamiliar",
+    "Zona campestre",
+    "Zona camping",
+    "Zona infantil",
+    "Zonas deportivas",
+    "Zonas verdes"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4NjYtNDI5OV80NjM5LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4NjYtNDI5OV80NjM5LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta de Cabaña en San Jerónimo Urbanización campestre · fotografía 1 de 10",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4NjktMzgyN181ODQuanBlZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4NjktMzgyN181ODQuanBlZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Venta de Cabaña en San Jerónimo Urbanización campestre · fotografía 2 de 10",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4NzItMTA0N180OTcyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4NzItMTA0N180OTcyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta de Cabaña en San Jerónimo Urbanización campestre · fotografía 3 de 10",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4NzQtODQ5N18xNDAxLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4NzQtODQ5N18xNDAxLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta de Cabaña en San Jerónimo Urbanización campestre · fotografía 4 de 10",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4NzctNDMyOF84ODUwLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4NzctNDMyOF84ODUwLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta de Cabaña en San Jerónimo Urbanización campestre · fotografía 5 de 10",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4ODAtMTMwM18yODQ3LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4ODAtMTMwM18yODQ3LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta de Cabaña en San Jerónimo Urbanización campestre · fotografía 6 de 10",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4ODItOTI1N182NTgyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4ODItOTI1N182NTgyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta de Cabaña en San Jerónimo Urbanización campestre · fotografía 7 de 10",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4ODUtNjQxXzg4MDkuanBlZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4ODUtNjQxXzg4MDkuanBlZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Venta de Cabaña en San Jerónimo Urbanización campestre · fotografía 8 de 10",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4ODgtMjI1OV85ODc4LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4ODgtMjI1OV85ODc4LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta de Cabaña en San Jerónimo Urbanización campestre · fotografía 9 de 10",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4OTEtMjUxMl83NDkyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2RlX2NhYmFhX2VuX3Nhbl9qZXJuaW1vXzE3Njk2MzY4OTEtMjUxMl83NDkyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta de Cabaña en San Jerónimo Urbanización campestre · fotografía 10 de 10",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 9749625), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (10 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

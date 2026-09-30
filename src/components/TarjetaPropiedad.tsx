@@ -11,7 +11,7 @@ export function TarjetaPropiedad({ p, prioridad = false }: { p: Datos; prioridad
       <article className="tarjeta flex h-full flex-col">
         <Link href={href} className="marco-imagen block" aria-label={`Ver ${p.titulo}`} tabIndex={-1}>
           {p.imagen ? (
-            <img src={p.imagen.src} alt={p.imagen.alt} loading={prioridad ? "eager" : "lazy"} decoding="async" width={1200} height={900} />
+            <img src={p.imagen.miniatura ?? p.imagen.src} alt={p.imagen.alt} loading={prioridad ? "eager" : "lazy"} decoding="async" width={1200} height={900} />
           ) : (
             <SinFoto demo={p.demo} enPreparacion={p.fichaEnPreparacion} />
           )}

@@ -4,8 +4,9 @@
 
 | | Estado |
 |---|---|
-| Build estático (`npm run build` → `out/`) | **Probado** en este entorno: 22 páginas, sin errores |
-| Verificación automática (`npm run verificar`) | **Probada**: 20 páginas × escritorio y móvil, filtros, galería, teclado, movimiento reducido, enlaces, sin hallazgos |
+| Build estático (`npm run build` → `out/`) | **Probado**: 246 páginas (224 fichas del inventario de Wasi + fichas propias + páginas fijas), sin errores |
+| Verificación automática (`npm run verificar`) | **Probada**: páginas fijas + muestra de 12 fichas × escritorio y móvil, filtros, galería, teclado, movimiento reducido, enlaces, sin hallazgos (`VERIFICAR_TODO=1` recorre las 246) |
+| Inventario | **Wasi, leído el 29 sep 2026**: 224 inmuebles activos (todos en venta). Ver sección 6 para actualizarlo |
 | Netlify | **En producción**: proyecto `garcia-y-asociados` (equipo marketinghotelerobyseroz), deploy automático desde main, ~30 s por build |
 | Repositorio Git | **Publicado**: github.com/hotelerojulian2593-dev/garcia-y-asociados-web (rama main). La app de GitHub de Claude tiene acceso a este repo |
 | Dominio `inmobiliariagarciayasociados.com` | **Conectado el 29 sep 2026**: A raíz → 75.2.60.5, CNAME www → garcia-y-asociados.netlify.app (editados en GHL → Dominios → Registros DNS). Certificado Let's Encrypt emitido 7:09; `www` redirige a la raíz. Valores anteriores: A 162.159.140.166, CNAME www sites.ludicrous.cloud |
@@ -102,3 +103,28 @@ demostración con `noindex`) y eventos de clic en WhatsApp/agendar cuando el pí
 El ciclo de medición (Search Console, analítica, Google Ads, pruebas de descubrimiento en
 Gemini/ChatGPT/Claude) se ejecuta una vez el sitio esté publicado en su dominio; hasta entonces
 cualquier cifra sería inventada.
+
+## 6. Actualizar el inventario de Wasi
+
+El catálogo del sitio es una copia del inventario activo de Wasi. No hay conexión en vivo: se
+lee el sitio público de Wasi de la inmobiliaria, se guarda la lectura en el repositorio y el
+script de importación genera las fichas. Repetir cuando cambie el inventario (semanal, o cuando
+la inmobiliaria avise).
+
+1. En Chrome, abrir https://inmobiliariagarciayasociados.inmo.co/ (no requiere sesión).
+2. Consola del navegador (Cmd+Opt+J) → pegar el contenido de `scripts/leer-wasi-navegador.js` → Enter.
+   En unos 40 s descarga `wasi-inventario-AAAA-MM-DD.json` en Descargas.
+3. Mover ese archivo a `contenido/fuentes/` del repositorio.
+4. `node scripts/importar-wasi.mjs contenido/fuentes/wasi-inventario-AAAA-MM-DD.json`
+   Revisar los AVISOS del final (precios fuera de rango, inmuebles sin fotos) y corregirlos en Wasi.
+5. `npm run build && npm run verificar`
+6. `git add -A && git commit -m "Inventario Wasi AAAA-MM-DD" && git push origin main` → Netlify publica solo.
+
+Las fotos se sirven directamente desde el CDN de Wasi (`image.wasi.co`), así que si la
+inmobiliaria cambia fotos en Wasi, el sitio las muestra en la siguiente importación (las claves
+de las imágenes forman parte de la lectura). Si Wasi retira un inmueble, desaparece del sitio en
+la siguiente importación.
+
+Alternativa futura: el servidor MCP de Wasi (`/Users/marketinghotelero/Garcia y Asociados/wasi-mcp`)
+con las credenciales del Plan Pro permitiría leer el inventario por API sin pasar por el navegador;
+el formato de salida de `importar-wasi.mjs` no cambiaría.

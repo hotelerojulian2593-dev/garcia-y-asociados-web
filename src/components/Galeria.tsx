@@ -45,7 +45,7 @@ export function Galeria({ imagenes, titulo }: { imagenes: Imagen[]; titulo: stri
         <div className="galeria-miniaturas" role="tablist" aria-label="Miniaturas">
           {imagenes.map((img, k) => (
             <button key={img.src} type="button" role="tab" aria-selected={k === i} aria-current={k === i} onClick={() => setI(k)} aria-label={`Ver imagen ${k + 1}: ${img.alt}`}>
-              <img src={img.src} alt="" loading="lazy" decoding="async" width={184} height={138} />
+              <img src={img.miniatura ?? img.src} alt="" loading="lazy" decoding="async" width={184} height={138} />
             </button>
           ))}
         </div>

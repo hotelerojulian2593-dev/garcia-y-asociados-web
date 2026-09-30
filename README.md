@@ -54,7 +54,7 @@ netlify.toml                 Build y cabeceras para Netlify
    |---|---|
    | `codigo`, `slug`, `titulo`, `resumen` | Obligatorios. El `slug` es la URL: `/propiedades/<slug>/` |
    | `categoria` | `propiedad`, `hotel` o `proyecto` (decide en qué sección aparece) |
-   | `tipo` | `apartamento`, `apartaestudio`, `casa`, `local`, `oficina`, `lote`, `finca`, `bodega`, `hotel` |
+   | `tipo` | `apartamento`, `apartaestudio`, `penthouse`, `casa`, `finca`, `lote`, `local`, `oficina`, `consultorio`, `bodega`, `edificio`, `hotel` |
    | `ciudad`, `departamento`, `barrioSector` | Solo el sector. **Nunca la dirección exacta** |
    | `precio`, `precioVisible`, `precioDesde` | Si `precioVisible` es `false` se muestra «Consultar precio» |
    | `habitaciones`, `banos`, `parqueaderos`, `pisos`, `areaConstruida`, `areaLote`, `areaDesde` | Solo los que existan; los demás se omiten |
@@ -62,7 +62,8 @@ netlify.toml                 Build y cabeceras para Netlify
    | `destacada` | `true` para la selección editorial del inicio (máximo 4) |
    | `demo` | `true` marca la ficha como demostración (aviso visible, fuera del sitemap, `noindex`) |
    | `confidencial` | Venta con nombre en clave: sin fachada, sin ubicación exacta |
-   | `imagenes[]` | `{ src, alt, tipo: "foto" \| "render" \| "plano", leyenda }`. La primera es la portada |
+   | `imagenes[]` | `{ src, miniatura?, alt, tipo: "foto" \| "render" \| "plano", leyenda }`. La primera es la portada; `miniatura` (opcional) se usa en tarjetas y pestañas |
+   | `orden` | Número; a mayor valor, antes en el catálogo (las fichas de Wasi usan su código) |
    | `recorridoVirtual` | URL de Matterport/360 **solo si existe material real**; si no, se ofrece la visita |
    | `origen` | `fuente`, `imagenes`, `verificadoEl` (AAAA-MM-DD). Obligatorio: procedencia de los datos |
 
@@ -73,6 +74,30 @@ netlify.toml                 Build y cabeceras para Netlify
 
 Para retirar una propiedad, cambie `estado` a `retirada` (deja de publicarse y desaparece del
 sitemap) o borre el archivo.
+
+## Inventario desde Wasi (`wasi-*.json`)
+
+La inmobiliaria administra su inventario en **Wasi**. Las fichas `contenido/propiedades/wasi-<código>.json`
+no se editan a mano: las genera `scripts/importar-wasi.mjs` a partir de una lectura del sitio
+público de Wasi de la inmobiliaria (`inmobiliariagarciayasociados.inmo.co`), guardada en
+`contenido/fuentes/wasi-inventario-<fecha>.json`.
+
+Para actualizar el inventario:
+
+1. Con la sesión de Wasi abierta en Chrome, generar una nueva lectura (el flujo está en
+   `DESPLIEGUE.md`, sección «Actualizar el inventario de Wasi») y guardarla en `contenido/fuentes/`.
+2. `node scripts/importar-wasi.mjs contenido/fuentes/wasi-inventario-<fecha>.json`
+   (borra las `wasi-*.json` anteriores y escribe las nuevas; lista al final los inmuebles con
+   precios fuera de rango o sin fotos para corregirlos en Wasi).
+3. `npm run build && npm run verificar`, commit y push.
+
+Lo que hace el script: normaliza mayúsculas de los títulos, quita emojis e iniciales del asesor
+de las descripciones, publica «Consultar precio» cuando el precio en Wasi está fuera de rango
+(menos de $50 millones o más de $100.000 millones), omite los inmuebles listados en `EXCLUIR`
+(los que ya tienen ficha propia, como Playa Candela) y marca como destacadas las 6 de mayor
+precio con al menos 8 fotos. Las fotos se sirven desde el CDN de Wasi (`image.wasi.co`) en dos
+tamaños (1600 px para la galería, 800 px para tarjetas); no se copian al repositorio.
+Ni la dirección ni las coordenadas se copian.
 
 ## Hero de la portada (imagen o video)
 
@@ -123,7 +148,8 @@ gestionado en GoHighLevel.
 
 ## Pendientes antes de publicar
 
-- Retirar o sustituir las fichas `demo-*.json` con el inventario autorizado.
+- ~~Retirar o sustituir las fichas `demo-*.json` con el inventario autorizado.~~ Hecho: el
+  catálogo publica el inventario activo de Wasi (29 sep 2026).
 - Confirmar con el cliente: nombre de marca del encabezado («García & Asociados»), correo
   público, WhatsApp comercial del sitio general y el ID del Meta Pixel (ver `notasInternas` en
   `contenido/sitio.json`).

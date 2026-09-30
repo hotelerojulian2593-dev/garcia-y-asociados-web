@@ -1,0 +1,153 @@
+{
+  "codigo": "8527109",
+  "slug": "apartamento-venta-medellin-8527109",
+  "categoria": "propiedad",
+  "titulo": "En venta apartamento en el Poblado",
+  "resumen": "Este apartamento ofrece espacios amplios y confortables en una de las zonas más exclusivas de Medellín.",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "ciudad": "Medellín",
+  "departamento": "Antioquia",
+  "precio": 1650000000,
+  "precioVisible": true,
+  "areaConstruida": 178,
+  "habitaciones": 3,
+  "banos": 3,
+  "parqueaderos": 2,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 8527109,
+  "descripcion": "Apartamento en Venta – Milla de Oro, El Poblado, Medellín\n\nCaracterísticas Principales:\n\nÁrea: 178 m²\n\nUbicación: Piso alto\n\nHabitaciones: 3, cada una con baño privado; 2 con vestier\n\nCuarto de servicio: Con baño propio\n\nBaños adicionales: Baño social\n\nParqueaderos: 2 independientes\n\nCuartos útiles: 2\n\nBalcón: Amplio\n\nZonas sociales: Sala-comedor y estudio\n\nAmenidades del Edificio:\n\nPiscina\n\nSalón social\n\nGimnasio\n\nJacuzzi\n\nJuegos infantiles\n\nInformación Financiera:\n\nPrecio de venta: $1.650.000.000 COP (negociables)\n\nAdministración: $990.000 COP\n\nPredial anual: $9.000.000 COP\n\nEste apartamento ofrece espacios amplios y confortables en una de las zonas más exclusivas de Medellín. Su ubicación en la Milla de Oro garantiza acceso cercano a centros comerciales, restaurantes y servicios esenciales. Las amenidades del edificio están diseñadas para brindar bienestar y entretenimiento a sus residentes.\n\nPara más información o para programar una visita, no dude en contactarnos.",
+  "caracteristicas": [
+    "Agua",
+    "Balcón",
+    "Baño auxiliar",
+    "Baño en habitación principal",
+    "Clósets",
+    "Cocina integral",
+    "Vista panorámica",
+    "Zona de lavandería",
+    "Área Social",
+    "Acceso pavimentado",
+    "Centros comerciales",
+    "Garaje",
+    "Parqueadero visitantes",
+    "Parques cercanos",
+    "Piscina",
+    "Portería / Recepción",
+    "Salón Comunal",
+    "Trans. público cercano",
+    "Vigilancia",
+    "Urbanización Cerrada"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjYxLTkxNzZfODc0MC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjYxLTkxNzZfODc0MC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "En venta apartamento en el Poblado · fotografía 1 de 17",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjYzLTU5OTVfMjkyNS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjYzLTU5OTVfMjkyNS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "En venta apartamento en el Poblado · fotografía 2 de 17",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjY1LTE2OTdfMjQxOS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjY1LTE2OTdfMjQxOS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "En venta apartamento en el Poblado · fotografía 3 de 17",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjY2LTg0NDhfNDc1Ny5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjY2LTg0NDhfNDc1Ny5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "En venta apartamento en el Poblado · fotografía 4 de 17",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjY4LTQ3MTdfNzYzMS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjY4LTQ3MTdfNzYzMS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "En venta apartamento en el Poblado · fotografía 5 de 17",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjcwLTE4MDhfOTEzMy5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjcwLTE4MDhfOTEzMy5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "En venta apartamento en el Poblado · fotografía 6 de 17",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjcxLTgwN182MjQyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjcxLTgwN182MjQyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "En venta apartamento en el Poblado · fotografía 7 de 17",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjczLTQxMDRfOTExOC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjczLTQxMDRfOTExOC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "En venta apartamento en el Poblado · fotografía 8 de 17",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjc0LTg3MzVfNzAyOC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjc0LTg3MzVfNzAyOC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "En venta apartamento en el Poblado · fotografía 9 de 17",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjc2LTQ4MzdfMjY0Ni5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjc2LTQ4MzdfMjY0Ni5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "En venta apartamento en el Poblado · fotografía 10 de 17",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjc4LTEyNDlfNzY3NS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjc4LTEyNDlfNzY3NS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "En venta apartamento en el Poblado · fotografía 11 de 17",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjc5LTcxNzhfNjcxMC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjc5LTcxNzhfNjcxMC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "En venta apartamento en el Poblado · fotografía 12 de 17",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjgxLTQzNjVfMzUzMy5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjgxLTQzNjVfMzUzMy5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "En venta apartamento en el Poblado · fotografía 13 de 17",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjgzLTI5MzNfMjQ1OC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjgzLTI5MzNfMjQ1OC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "En venta apartamento en el Poblado · fotografía 14 de 17",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjg0LTkxNzRfMzUxOC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjg0LTkxNzRfMzUxOC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "En venta apartamento en el Poblado · fotografía 15 de 17",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjg2LTYxMTNfNzMwNy5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjg2LTYxMTNfNzMwNy5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "En venta apartamento en el Poblado · fotografía 16 de 17",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjg4LTM2MTNfMTY3NS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2VuX3ZlbnRhX2FwYXJ0YW1lbnRvX2VuX2VsX3BvYl8xNzQwNTgxMjg4LTM2MTNfMTY3NS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "En venta apartamento en el Poblado · fotografía 17 de 17",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 8527109), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (17 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

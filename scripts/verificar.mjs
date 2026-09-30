@@ -40,8 +40,15 @@ async function paginasHtml(dir, acc = []) {
   return acc.map((r) => r.replace(/^\/\.\/$/, "/").replace("//", "/"));
 }
 
-const rutas = (await paginasHtml(RAIZ)).sort();
+// Con el inventario de Wasi hay más de 220 fichas: se recorren todas las páginas fijas y una
+// muestra de fichas (las 6 primeras y 6 tomadas a intervalos). `VERIFICAR_TODO=1` las recorre todas.
+const todas = (await paginasHtml(RAIZ)).sort();
+const fichas = todas.filter((r) => /^\/propiedades\/[^/]+\/$/.test(r));
+const paso = Math.max(1, Math.floor(fichas.length / 6));
+const muestra = new Set([...fichas.slice(0, 6), ...fichas.filter((_, i) => i % paso === 0).slice(0, 6)]);
+const rutas = process.env.VERIFICAR_TODO ? todas : todas.filter((r) => !fichas.includes(r) || muestra.has(r));
 const hallazgos = [];
+let externosNoVerificables = 0;
 const navegador = await chromium.launch({ executablePath: process.env.CHROMIUM_PATH || "/opt/pw-browsers/chromium", args: ["--headless=new"] });
 await mkdir("capturas", { recursive: true });
 
@@ -52,7 +59,14 @@ for (const [nombre, vista] of [["escritorio", { width: 1440, height: 900 }], ["m
     const errores = [];
     pagina.on("pageerror", (e) => errores.push(`pageerror: ${e.message}`));
     pagina.on("console", (m) => { if (m.type() === "error" && !/Failed to load resource/.test(m.text())) errores.push(`console: ${m.text()}`); });
-    pagina.on("requestfailed", (r) => { const err = r.failure()?.errorText || ""; if (!/fonts\.|facebook\.|marketinghotelero/.test(r.url()) && !/ABORTED/.test(err)) errores.push(`recurso: ${r.url()} ${err}`); });
+    pagina.on("requestfailed", (r) => {
+      const err = r.failure()?.errorText || "";
+      if (/fonts\.|facebook\.|marketinghotelero/.test(r.url()) || /ABORTED/.test(err)) return;
+      // Las fotos del inventario se sirven desde el CDN de Wasi. Si el entorno no tiene salida a
+      // ese host (proxy o túnel), no es un defecto del sitio: se cuenta aparte.
+      if (/image\.wasi\.co/.test(r.url()) && /TUNNEL|PROXY|NAME_NOT_RESOLVED|INTERNET_DISCONNECTED/.test(err)) { externosNoVerificables++; return; }
+      errores.push(`recurso: ${r.url()} ${err}`);
+    });
     // Los recursos externos (fuentes, píxel) no se cargan en local; no cuentan como error.
     await pagina.route(/fonts\.(googleapis|gstatic)\.com|facebook\.(com|net)|link\.marketinghotelero\.com/, (r) => r.abort());
     const resp = await pagina.goto(BASE + ruta, { waitUntil: "load" });
@@ -166,5 +180,6 @@ await navegador.close();
 servidor.close();
 
 console.log(`Páginas recorridas: ${rutas.length} × 2 vistas`);
+if (externosNoVerificables) console.log(`Imágenes de image.wasi.co no verificables desde este entorno: ${externosNoVerificables} (se comprueban en producción).`);
 if (hallazgos.length) { console.log("HALLAZGOS:"); hallazgos.forEach((h) => console.log(" - " + h)); process.exitCode = 1; }
 else console.log("Sin hallazgos.");

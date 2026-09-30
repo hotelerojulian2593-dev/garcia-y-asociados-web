@@ -1,0 +1,45 @@
+{
+  "codigo": "10439227",
+  "slug": "apartamento-venta-viva-envigado-10439227",
+  "categoria": "propiedad",
+  "titulo": "Cesión de Derechos en Vittrio, Ciudad Peldar, Envigado",
+  "resumen": "Excelente oportunidad de cesión de derechos, con entrega estimada en junio de 2027.",
+  "operacion": "venta",
+  "tipo": "apartamento",
+  "ciudad": "Envigado",
+  "departamento": "Antioquia",
+  "barrioSector": "Viva",
+  "precio": 850000000,
+  "precioVisible": true,
+  "areaConstruida": 78,
+  "habitaciones": 3,
+  "banos": 2,
+  "parqueaderos": 1,
+  "pisos": 10,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 10439227,
+  "descripcion": "Excelente oportunidad de cesión de derechos, con entrega estimada en junio de 2027. Apartamento nuevo y completamente terminado, ubicado frente al Centro Comercial Viva Envigado, con fácil acceso por Las Vegas y la Regional.\n\n78 m²\n3 habitaciones (principal con baño y vestier)\n2 baños\nCocina abierta tipo americana\nBalcón amplio\n1 parqueadero\n1 cuarto útil\nPiso 10\nSe entrega nuevo y completamente terminado\nLa unidad cuenta con:\nPiscina, gimnasio, coworking, zona para mascotas, juegos infantiles y cancha múltiple\n\nUbicación estratégica:\nFrente al Centro Comercial Viva Envigado, cerca a la estación Envigado del Metro, con acceso por avenida Las Vegas y la Regional\n\nNegociación mediante cesión de derechos: valor total del inmueble $850.000.000, saldo proyectado con crédito hipotecario $493.000.000.\n\nMaterial adicional:\n\nValor total del inmueble: $850 millones\nValor de la cesión: $357 millones\nSaldo proyectado con crédito hipotecario: $493 millones",
+  "caracteristicas": [
+    "Inmueble nuevo",
+    "Estrato 4",
+    "Construido en 2027",
+    "Agua",
+    "Electricidad",
+    "Gas domiciliario"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MjIwMjYwOTIzMTAzOTMyLnBuZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjE2MDAsImhlaWdodCI6MTYwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MjIwMjYwOTIzMTAzOTMyLnBuZyIsImVkaXRzIjp7Im5vcm1hbGlzZSI6dHJ1ZSwicm90YXRlIjowLCJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo4MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "alt": "Cesión de Derechos en Vittrio, Ciudad Peldar, Envigado · fotografía 1 de 1",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 10439227), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (1 imagen, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

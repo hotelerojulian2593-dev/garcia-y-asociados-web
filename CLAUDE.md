@@ -15,6 +15,11 @@ del inventario siguen su esquema (`titulo`, `operacion`, `tipo`, `ciudad`, `barr
 pase a leer la vista `propiedades_publicas` de Supabase, el único archivo que debe cambiar es
 `src/lib/inventario.ts`.
 
+**Inventario:** las fichas `contenido/propiedades/wasi-*.json` las genera `scripts/importar-wasi.mjs`
+desde una lectura del sitio público de Wasi guardada en `contenido/fuentes/`; no se editan a mano
+(ver README «Inventario desde Wasi»). Las fichas propias (`cerros-de-la-antigua`, `playa-candela`,
+`el-vallenato-ph`) sí se editan directamente.
+
 ## Reglas del dominio (no negociables)
 
 - **La dirección exacta nunca se publica.** El inventario no tiene ese campo; el sitio muestra sector y ciudad.

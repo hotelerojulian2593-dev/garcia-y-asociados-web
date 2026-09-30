@@ -1,0 +1,111 @@
+{
+  "codigo": "9827979",
+  "slug": "finca-venta-el-carmen-de-viboral-9827979",
+  "categoria": "propiedad",
+  "titulo": "Venta o Arriendo casa finca en el Carmen de Viboral vereda Sonadora",
+  "resumen": "Finca de 348 m² construidos, 4 alcobas, 5 baños en El Carmen de Viboral.",
+  "operacion": "venta",
+  "tipo": "finca",
+  "ciudad": "El Carmen de Viboral",
+  "departamento": "Antioquia",
+  "precio": 4000000000,
+  "precioVisible": true,
+  "areaConstruida": 348,
+  "areaLote": 4500,
+  "habitaciones": 4,
+  "banos": 5,
+  "parqueaderos": 17,
+  "pisos": 2,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 9827979,
+  "descripcion": "Finca de 348 m² construidos, 4 alcobas, 5 baños en El Carmen de Viboral. El asesor confirma en la visita los detalles que no aparecen en esta ficha.",
+  "caracteristicas": [
+    "Estrato 4",
+    "Área privada 4500 m²",
+    "Admite mascotas",
+    "Agua",
+    "Balcón",
+    "Baño en habitación principal",
+    "Baño auxiliar",
+    "Biblioteca/Estudio",
+    "Calentador",
+    "Clósets",
+    "Cocina integral",
+    "Despensa",
+    "Electricidad",
+    "Horno",
+    "Inmueble de Lujo",
+    "Jacuzzi",
+    "Internet",
+    "Piso Madera",
+    "Puerta de seguridad",
+    "Puerta eléctrica",
+    "Sala de usos múltiples",
+    "Vista panorámica",
+    "Zona de lavandería",
+    "Acceso discapacitados",
+    "Acceso pavimentado",
+    "Árboles frutales",
+    "Barbacoa / Parrilla / Quincho",
+    "Cancha de baloncesto",
+    "Cancha de futbol",
+    "Energia solar",
+    "Garaje",
+    "Jardín",
+    "Patio",
+    "Piscina",
+    "Tanques de Agua",
+    "Zonas verdes"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfZmluY2FfZW5fZWxfY2FybWVuXzE3NzI0ODgwMzctODY1MV8zMjc3LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfZmluY2FfZW5fZWxfY2FybWVuXzE3NzI0ODgwMzctODY1MV8zMjc3LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta o Arriendo casa finca en el Carmen de Viboral vereda Sonadora · fotografía 1 de 7",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfZmluY2FfZW5fZWxfY2FybWVuXzE3NzI0ODgwNDEtMTg0M18yNzUyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfZmluY2FfZW5fZWxfY2FybWVuXzE3NzI0ODgwNDEtMTg0M18yNzUyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta o Arriendo casa finca en el Carmen de Viboral vereda Sonadora · fotografía 2 de 7",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfZmluY2FfZW5fZWxfY2FybWVuXzE3NzI0ODgwNDQtNzcxMV8zODMxLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfZmluY2FfZW5fZWxfY2FybWVuXzE3NzI0ODgwNDQtNzcxMV8zODMxLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta o Arriendo casa finca en el Carmen de Viboral vereda Sonadora · fotografía 3 de 7",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfZmluY2FfZW5fZWxfY2FybWVuXzE3NzI0ODgwNDgtMDIxMV8yNjY2LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfZmluY2FfZW5fZWxfY2FybWVuXzE3NzI0ODgwNDgtMDIxMV8yNjY2LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta o Arriendo casa finca en el Carmen de Viboral vereda Sonadora · fotografía 4 de 7",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfZmluY2FfZW5fZWxfY2FybWVuXzE3NzI0ODgwNTEtMjM1OV83MjkyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfZmluY2FfZW5fZWxfY2FybWVuXzE3NzI0ODgwNTEtMjM1OV83MjkyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta o Arriendo casa finca en el Carmen de Viboral vereda Sonadora · fotografía 5 de 7",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfZmluY2FfZW5fZWxfY2FybWVuXzE3NzI0ODgwNTQtNTc4M184ODE2LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfZmluY2FfZW5fZWxfY2FybWVuXzE3NzI0ODgwNTQtNTc4M184ODE2LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta o Arriendo casa finca en el Carmen de Viboral vereda Sonadora · fotografía 6 de 7",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfZmluY2FfZW5fZWxfY2FybWVuXzE3NzI0ODgwNTgtNDkzOF83MDUyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2Nhc2FfZmluY2FfZW5fZWxfY2FybWVuXzE3NzI0ODgwNTgtNDkzOF83MDUyLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Venta o Arriendo casa finca en el Carmen de Viboral vereda Sonadora · fotografía 7 de 7",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 9827979), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (7 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

@@ -30,7 +30,7 @@ export default async function Detalle({ params }: { params: Promise<{ slug: stri
 
   const filas: [string, string][] = [
     ["Tipo", NOMBRE_TIPO[p.tipo]],
-    ["Ubicación", `${p.barrioSector}, ${p.ciudad}${p.departamento ? ` (${p.departamento})` : ""}`],
+    ["Ubicación", `${p.barrioSector ? `${p.barrioSector}, ` : ""}${p.ciudad}${p.departamento ? ` (${p.departamento})` : ""}`],
   ];
   if (typeof p.habitaciones === "number") filas.push(["Habitaciones", String(p.habitaciones)]);
   if (typeof p.banos === "number") filas.push(["Baños", String(p.banos)]);
@@ -44,7 +44,15 @@ export default async function Detalle({ params }: { params: Promise<{ slug: stri
   filas.push(["Precio", formatoPrecio(p)]);
   filas.push(["Código", p.codigo]);
 
-  const relacionadas = publicadas().filter((q) => q.slug !== p.slug && (q.categoria === p.categoria || q.ciudad === p.ciudad)).slice(0, 3).map(aTarjeta);
+  // Relacionadas: misma ciudad y tipo primero, luego misma ciudad, luego misma categoría.
+  const candidatas = publicadas().filter((q) => q.slug !== p.slug && !q.demo);
+  const afinidad = (q: typeof p) => (q.ciudad === p.ciudad && q.tipo === p.tipo ? 3 : q.ciudad === p.ciudad ? 2 : q.categoria === p.categoria ? 1 : 0);
+  const relacionadas = candidatas
+    .map((q) => ({ q, a: afinidad(q) }))
+    .filter(({ a }) => a > 0)
+    .sort((x, y) => y.a - x.a)
+    .slice(0, 3)
+    .map(({ q }) => aTarjeta(q));
   const hrefContacto = `/contacto/?inmueble=${encodeURIComponent(p.codigo)}`;
 
   return (
@@ -82,7 +90,9 @@ export default async function Detalle({ params }: { params: Promise<{ slug: stri
 
           <section aria-labelledby="t-desc" className="revelar">
             <h2 id="t-desc" className="text-3xl">Descripción</h2>
-            <div className="prosa mt-4 max-w-[66ch]"><p>{p.descripcion}</p></div>
+            <div className="prosa mt-4 max-w-[66ch]">
+              {p.descripcion.split(/\n{2,}/).map((parrafo, k) => <p key={k} className="whitespace-pre-line">{parrafo}</p>)}
+            </div>
           </section>
 
           {p.caracteristicas.length > 0 && (
@@ -104,7 +114,7 @@ export default async function Detalle({ params }: { params: Promise<{ slug: stri
           <section aria-labelledby="t-ubi" className="revelar">
             <h2 id="t-ubi" className="text-3xl">Ubicación</h2>
             <p className="prosa mt-4 max-w-[66ch]">
-              {p.barrioSector}, {p.ciudad}. {p.confidencial ? "Por tratarse de una venta confidencial, la ubicación exacta y la fachada se comparten únicamente tras firmar un acuerdo de confidencialidad." : "La dirección exacta se comparte con interesados verificados antes de la visita."}
+              {p.barrioSector ? `${p.barrioSector}, ` : ""}{p.ciudad}. {p.confidencial ? "Por tratarse de una venta confidencial, la ubicación exacta y la fachada se comparten únicamente tras firmar un acuerdo de confidencialidad." : "La dirección exacta se comparte con interesados verificados antes de la visita."}
             </p>
           </section>
 

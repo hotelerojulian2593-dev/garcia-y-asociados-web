@@ -1,0 +1,55 @@
+{
+  "codigo": "9856812",
+  "slug": "casa-venta-medellin-9856812",
+  "categoria": "propiedad",
+  "titulo": "Casa lote en venta cerca de la Bolivariana",
+  "resumen": "Casa de 327 m² de terreno en Medellín.",
+  "operacion": "venta",
+  "tipo": "casa",
+  "ciudad": "Medellín",
+  "departamento": "Antioquia",
+  "precio": 3000000000,
+  "precioVisible": true,
+  "areaLote": 327,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 9856812,
+  "descripcion": "Datos del lote",
+  "caracteristicas": [
+    "Estrato 4",
+    "Centros comerciales",
+    "Colegios / Universidades"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2Nhc2FfbG90ZV9lbl92ZW50YV9jZXJjYV9kZV9sYV8xNzczMzQ0OTc5LTc2NDhfNTI2Ni5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2Nhc2FfbG90ZV9lbl92ZW50YV9jZXJjYV9kZV9sYV8xNzczMzQ0OTc5LTc2NDhfNTI2Ni5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Casa lote en venta cerca de la Bolivariana · fotografía 1 de 4",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2Nhc2FfbG90ZV9lbl92ZW50YV9jZXJjYV9kZV9sYV8xNzczMzU0MzcxLTQwNV82NTQzLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2Nhc2FfbG90ZV9lbl92ZW50YV9jZXJjYV9kZV9sYV8xNzczMzU0MzcxLTQwNV82NTQzLmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Casa lote en venta cerca de la Bolivariana · fotografía 2 de 4",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2Nhc2FfbG90ZV9lbl92ZW50YV9jZXJjYV9kZV9sYV8xNzczMzU0MzQxLTE4OTVfOTI2OC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2Nhc2FfbG90ZV9lbl92ZW50YV9jZXJjYV9kZV9sYV8xNzczMzU0MzQxLTE4OTVfOTI2OC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Casa lote en venta cerca de la Bolivariana · fotografía 3 de 4",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2Nhc2FfbG90ZV9lbl92ZW50YV9jZXJjYV9kZV9sYV8xNzczMzU0Mzc0LTI3NTZfNzU4Mi5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX2Nhc2FfbG90ZV9lbl92ZW50YV9jZXJjYV9kZV9sYV8xNzczMzU0Mzc0LTI3NTZfNzU4Mi5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Casa lote en venta cerca de la Bolivariana · fotografía 4 de 4",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 9856812), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (4 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

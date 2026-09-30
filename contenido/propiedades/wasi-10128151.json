@@ -1,0 +1,75 @@
+{
+  "codigo": "10128151",
+  "slug": "consultorio-venta-poblado-medellin-10128151",
+  "categoria": "propiedad",
+  "titulo": "Venta consultorio en Ciudad del Rio",
+  "resumen": "Venta de Consultorio en la Torre Medica Comedal de Ciudad del Rio.",
+  "operacion": "venta",
+  "tipo": "consultorio",
+  "ciudad": "Medellín",
+  "departamento": "Antioquia",
+  "barrioSector": "Poblado",
+  "precio": 720000000,
+  "precioVisible": true,
+  "areaConstruida": 42,
+  "parqueaderos": 1,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 10128151,
+  "descripcion": "Venta de Consultorio en la Torre Medica Comedal de Ciudad del Rio.\n\nLa torre cuenta con un área comercial compuesta por ocho (8) locales comerciales distribuidos en el primer piso junto al lobby.\nDos (2) niveles de unidades de servicios clínicos.\nUn (1) nivel de cirugía.\nUn (1) nivel de imágenes diagnósticas.\nSeis (6) niveles de parqueaderos.",
+  "caracteristicas": [
+    "Estrato 5",
+    "Construido en 2023",
+    "Administración $737.081 mensual",
+    "Admite mascotas",
+    "Agua",
+    "Acceso discapacitados",
+    "Acceso pavimentado",
+    "Ascensor",
+    "Bahias de parqueo",
+    "Centro Médico",
+    "Centros comerciales",
+    "Cerca a restaurantes",
+    "Circuito cerrado de TV",
+    "Garaje",
+    "Oficina de negocios",
+    "Parqueadero visitantes",
+    "Portería / Recepción",
+    "Trans. público cercano",
+    "Vigilancia",
+    "Zona comercial",
+    "Zona residencial"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2NvbnN1bHRvcmlvX2VuX2NpdWRhZF9kZV8xNzgzMzUxOTc3LTE3NDFfNDE2OS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2NvbnN1bHRvcmlvX2VuX2NpdWRhZF9kZV8xNzgzMzUxOTc3LTE3NDFfNDE2OS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta consultorio en Ciudad del Rio · fotografía 1 de 4",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2NvbnN1bHRvcmlvX2VuX2NpdWRhZF9kZV8xNzgzMzUxOTgyLTU4MDZfMzc5MS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2NvbnN1bHRvcmlvX2VuX2NpdWRhZF9kZV8xNzgzMzUxOTgyLTU4MDZfMzc5MS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta consultorio en Ciudad del Rio · fotografía 2 de 4",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2NvbnN1bHRvcmlvX2VuX2NpdWRhZF9kZV8xNzgzMzUxOTg3LTUwMDlfMjY3OC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2NvbnN1bHRvcmlvX2VuX2NpdWRhZF9kZV8xNzgzMzUxOTg3LTUwMDlfMjY3OC5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta consultorio en Ciudad del Rio · fotografía 3 de 4",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2NvbnN1bHRvcmlvX2VuX2NpdWRhZF9kZV8xNzgzMzUxOTkyLTcwNjVfNzU4NS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxNjAwLCJmaXQiOiJpbnNpZGUifX19",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nX3ZlbnRhX2NvbnN1bHRvcmlvX2VuX2NpdWRhZF9kZV8xNzgzMzUxOTkyLTcwNjVfNzU4NS5qcGVnIiwiZWRpdHMiOnsibm9ybWFsaXNlIjp0cnVlLCJyb3RhdGUiOjAsInJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJoZWlnaHQiOjgwMCwiZml0IjoiaW5zaWRlIn19fQ==",
+      "alt": "Venta consultorio en Ciudad del Rio · fotografía 4 de 4",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 10128151), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (4 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}

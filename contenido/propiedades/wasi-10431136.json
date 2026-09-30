@@ -1,0 +1,98 @@
+{
+  "codigo": "10431136",
+  "slug": "finca-venta-san-antionio-de-pereira-rionegro-10431136",
+  "categoria": "propiedad",
+  "titulo": "Casa finca en venta en Rionegro sector San Antonio de Pereira",
+  "resumen": "Amoblada casa finca de un nivel, ubicada en la vereda Quirama, después del Tecnológico, a 7 minutos del parque de San Antonio de Pereira.",
+  "operacion": "venta",
+  "tipo": "finca",
+  "ciudad": "Rionegro",
+  "departamento": "Antioquia",
+  "barrioSector": "San Antionio De Pereira",
+  "precio": 2200000000,
+  "precioVisible": true,
+  "areaConstruida": 420,
+  "areaLote": 2622,
+  "habitaciones": 3,
+  "banos": 5,
+  "parqueaderos": 2,
+  "estado": "disponible",
+  "destacada": false,
+  "demo": false,
+  "orden": 10431136,
+  "descripcion": "Amoblada casa finca de un nivel, ubicada en la vereda Quirama, después del Tecnológico, a 7 minutos del parque de San Antonio de Pereira. Amplio lote con excelentes acabados internos y sistemas de seguridad, libre de toda deuda.\n\nÁrea construida 420 m² | Área terreno 2.622 m²\n3 habitaciones | Hall de alcobas | Habitación de servicio\n5 baños (incluye baño en habitación principal y baño auxiliar)\nComedor auxiliar, biblioteca/estudio, chimenea\nCocina tipo americano con barra estilo americano\nZona de lavandería, clósets, piso en madera\n1 nivel; vista panorámica\n2 garajes\nMalla de seguridad, cámaras, puerta con sistema de control eléctrico y persianas eléctricas, citófono/intercomunicador, alarma\nConstruida en 2022; estado usado; amoblada; doble ventana, electricidad\nNo pertenece a unidad residencial (no aplica administración)\n\nUbicación estratégica:\nVereda Quirama, después del Tecnológico, a 7 minutos del parque de San Antonio de Pereira, Rionegro\n\nSe permite permuta.\n\nPrecio de inversión: $2.200.000.000 (abierto a negociación)\nAdministración: No aplica\nImpuesto Predial: $700.000 anual",
+  "caracteristicas": [
+    "Estrato 4",
+    "Construido en 2022",
+    "Piso 1",
+    "Agua",
+    "Baño auxiliar",
+    "Baño en habitación principal",
+    "Barra estilo americano",
+    "Biblioteca/Estudio",
+    "Clósets",
+    "Cocina equipada",
+    "Comedor auxiliar",
+    "Doble Ventana",
+    "Electricidad",
+    "Habitación servicio",
+    "Hall de alcobas",
+    "Vista panorámica",
+    "Zona de lavandería",
+    "Alarma",
+    "Amoblado",
+    "Chimenea",
+    "Citófono / Intercomunicador",
+    "Cocina tipo americano",
+    "Piso Madera",
+    "Cerca zona urbana",
+    "Jardín",
+    "Parqueadero visitantes",
+    "Patio",
+    "Zona campestre",
+    "Zonas verdes"
+  ],
+  "imagenes": [
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIwMjYwOTIxMDQ0MTM0LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MTIwMjYwOTIxMDQ0MTM0LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Casa finca en venta en Rionegro sector San Antonio de Pereira · fotografía 1 de 6",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MjIwMjYwOTIxMDQ0MTM1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MjIwMjYwOTIxMDQ0MTM1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Casa finca en venta en Rionegro sector San Antonio de Pereira · fotografía 2 de 6",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MzIwMjYwOTIxMDQ0MTM1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5MzIwMjYwOTIxMDQ0MTM1LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Casa finca en venta en Rionegro sector San Antonio de Pereira · fotografía 3 de 6",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NDIwMjYwOTIxMDQ0MTM2LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NDIwMjYwOTIxMDQ0MTM2LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Casa finca en venta en Rionegro sector San Antonio de Pereira · fotografía 4 de 6",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NTIwMjYwOTIxMDQ0MTM3LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NTIwMjYwOTIxMDQ0MTM3LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Casa finca en venta en Rionegro sector San Antonio de Pereira · fotografía 5 de 6",
+      "tipo": "foto"
+    },
+    {
+      "src": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NjIwMjYwOTIxMDQ0MTM4LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjoxNjAwLCJoZWlnaHQiOjE2MDAsImZpdCI6Imluc2lkZSJ9fX0=",
+      "miniatura": "https://image.wasi.co/eyJidWNrZXQiOiJzdGF0aWN3Iiwia2V5IjoiaW5tdWVibGVzXC9nMTAwNTI5NjIwMjYwOTIxMDQ0MTM4LmpwZWciLCJlZGl0cyI6eyJub3JtYWxpc2UiOnRydWUsInJvdGF0ZSI6MCwicmVzaXplIjp7IndpZHRoIjo4MDAsImhlaWdodCI6ODAwLCJmaXQiOiJpbnNpZGUifX19",
+      "alt": "Casa finca en venta en Rionegro sector San Antonio de Pereira · fotografía 6 de 6",
+      "tipo": "foto"
+    }
+  ],
+  "origen": {
+    "fuente": "Inventario de Inmobiliaria García & Asociados en Wasi (código 10431136), leído el 29 de septiembre de 2026 desde el sitio público de Wasi de la inmobiliaria. Los datos los administra la inmobiliaria en Wasi; la dirección exacta no se publica.",
+    "imagenes": "Fotografías cargadas por la inmobiliaria en Wasi (6 imágenes, servidas desde image.wasi.co).",
+    "verificadoEl": "2026-09-29"
+  }
+}
