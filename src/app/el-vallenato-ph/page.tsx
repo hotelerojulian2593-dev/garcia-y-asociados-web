@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { FondoHero, HeroCapas } from "@/components/HeroCapas";
 import { Galeria } from "@/components/Galeria";
-import { ReelVertical } from "@/components/ReelVertical";
 import { Tilt } from "@/components/Tilt";
 import { porSlug } from "@/lib/inventario";
 import { SITIO, enlaceWhatsApp } from "@/lib/sitio";
@@ -131,21 +130,6 @@ export default function ElVallenato() {
         <Galeria imagenes={p.imagenes} titulo={p.titulo} />
       </section>
 
-      <section className="bg-hueso-2 py-[clamp(4rem,9vw,8rem)]" aria-labelledby="t-video">
-        <div className="wrap grid items-center gap-12 lg:grid-cols-[1fr_1fr]">
-          <div>
-            <p className="numeral mb-2" aria-hidden>04.</p>
-            <p className="eyebrow mb-4">Video</p>
-            <h2 id="t-video">El proyecto en movimiento.</h2>
-            <p className="lead mt-4">Reel de 39 segundos con los renders del proyecto. Se reproduce solo cuando usted lo activa.</p>
-            <div className="mt-8 flex flex-wrap gap-3">
-              <Link href={hrefContacto} className="btn btn-carbon">Recibir información</Link>
-              <Link href={`${hrefContacto}&motivo=visita`} className="btn btn-borde" data-seguimiento="agendar">Agendar una reunión</Link>
-            </div>
-          </div>
-          <ReelVertical src="/video/el-vallenato-ph.mp4" poster="/img/el-vallenato-ph-video-poster.webp" titulo="Reel de El Vallenato P.H. · 39 s" />
-        </div>
-      </section>
 
       <section className="wrap seccion-compacta text-xs text-gris-texto" aria-labelledby="t-origen">
         <h2 id="t-origen" className="text-base">Procedencia de la información</h2>

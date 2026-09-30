@@ -37,5 +37,9 @@
     "leyenda": "Imagen de referencia generada para la portada; no corresponde a un inmueble del portafolio",
     "notas": "Para activar el video: colocar el archivo en public/video/hero.mp4 (16:9, H.264, ≤8 MB, sin audio) y poner \"video\": \"/video/hero.mp4\". Se genera en Higgsfield cuando haya créditos (35 créditos por 5 s en 720p).",
     "posterMovil": "/img/hero-casa-referencia-m.webp"
+  },
+  "ghl": {
+    "chatWidgetId": "6abc7acdd2e8beb1e4f5069e",
+    "chatWidgetNombre": "Chat sitio web García & Asociados (subcuenta Inmobiliaria Garcia y Asociados, tipo Chat en directo, creado 29 sep 2026)"
   }
 }

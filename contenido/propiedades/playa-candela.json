@@ -31,12 +31,6 @@
   "capacidad": "10 habitaciones",
   "imagenes": [
     {
-      "src": "/img/playa-candela-01.webp",
-      "alt": "Vista aérea de Playa Candela: casa hotel de tres pisos con piscina, kiosco de palma y el mar Caribe al fondo",
-      "tipo": "foto",
-      "leyenda": "Foto real, septiembre 2026"
-    },
-    {
       "src": "/img/playa-candela-03.webp",
       "alt": "Piscina iluminada de noche frente a la fachada de tres pisos",
       "tipo": "foto",
@@ -51,6 +45,12 @@
     {
       "src": "/img/playa-candela-02.webp",
       "alt": "Piscina privada vista desde el balcón, con camas de sol y kiosco de palma",
+      "tipo": "foto",
+      "leyenda": "Foto real, septiembre 2026"
+    },
+    {
+      "src": "/img/playa-candela-01.webp",
+      "alt": "Vista aérea de Playa Candela: casa hotel de tres pisos con piscina, kiosco de palma y el mar Caribe al fondo",
       "tipo": "foto",
       "leyenda": "Foto real, septiembre 2026"
     },

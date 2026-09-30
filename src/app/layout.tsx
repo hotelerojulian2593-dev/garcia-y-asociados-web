@@ -10,6 +10,7 @@ import { Encabezado } from "@/components/Encabezado";
 import { PiePagina } from "@/components/PiePagina";
 import { MetaPixel } from "@/components/MetaPixel";
 import { Revelador } from "@/components/Revelador";
+import { ChatGHL } from "@/components/ChatGHL";
 import { SITIO, URL_SITIO, enlaceWhatsApp } from "@/lib/sitio";
 
 export const metadata: Metadata = {
@@ -62,6 +63,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           WhatsApp
         </a>
         <Revelador />
+        <ChatGHL />
       </body>
     </html>
   );

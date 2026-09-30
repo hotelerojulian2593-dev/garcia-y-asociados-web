@@ -61,7 +61,7 @@ for (const [nombre, vista] of [["escritorio", { width: 1440, height: 900 }], ["m
     pagina.on("console", (m) => { if (m.type() === "error" && !/Failed to load resource/.test(m.text())) errores.push(`console: ${m.text()}`); });
     pagina.on("requestfailed", (r) => {
       const err = r.failure()?.errorText || "";
-      if (/fonts\.|facebook\.|marketinghotelero/.test(r.url()) || /ABORTED/.test(err)) return;
+      if (/fonts\.|facebook\.|marketinghotelero|leadconnectorhq\.com/.test(r.url()) || /ABORTED/.test(err)) return;
       // Las fotos del inventario se sirven desde el CDN de Wasi. Si el entorno no tiene salida a
       // ese host (proxy o túnel), no es un defecto del sitio: se cuenta aparte.
       if (/image\.wasi\.co/.test(r.url()) && /TUNNEL|PROXY|NAME_NOT_RESOLVED|INTERNET_DISCONNECTED/.test(err)) { externosNoVerificables++; return; }

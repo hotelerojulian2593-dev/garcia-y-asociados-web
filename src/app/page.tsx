@@ -90,11 +90,11 @@ export default function Inicio() {
       <section className="seccion bg-carbon text-blanco" aria-labelledby="t-reel">
         <div className="wrap grid items-center gap-12 lg:grid-cols-[1fr_1fr]">
           <div className="order-2 lg:order-1">
-            <ReelVertical src="/video/el-vallenato-ph.mp4" poster="/img/el-vallenato-ph-video-poster.webp" titulo="Reel de El Vallenato P.H. · 39 s" />
+            <ReelVertical src="/video/cerros-de-la-antigua.mp4" poster="/img/cerros-de-la-antigua-video-poster.webp" titulo="Reel de Cerros de la Antigua · 46 s" />
           </div>
           <div className="order-1 lg:order-2">
-            <Titulo id="t-reel" numero="02" claro eyebrow="Vea el proyecto en movimiento" titulo="Historia, música y arquitectura en una sola torre." lead="Un recorrido de 39 segundos por los renders del proyecto: balcones curvos con vegetación, piscina con vista a las montañas, museo, restaurante y helipuerto." />
-            <Link href="/el-vallenato-ph/" className="btn btn-azul mt-8">Ver la página del proyecto</Link>
+            <Titulo id="t-reel" numero="02" claro eyebrow="Vea cómo se vive en Cerros de la Antigua" titulo="Arcos, piedra, piscina y los cerros de Santa Fe de Antioquia." lead="Un recorrido de 46 segundos por una de las casas ya construidas en la parcelación: terraza con arcos, piscina, comedor bajo pérgola y el paisaje de Santa Fe de Antioquia al fondo. Lotes de la etapa 3 desde 2.824 m²." />
+            <Link href="/propiedades/cerros-de-la-antigua/" className="btn btn-azul mt-8">Ver los lotes de Cerros de la Antigua</Link>
           </div>
         </div>
       </section>

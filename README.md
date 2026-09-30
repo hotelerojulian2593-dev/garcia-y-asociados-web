@@ -109,8 +109,10 @@ se mantiene mientras el fondo no sea un inmueble del portafolio.
 
 ## El Vallenato P.H.
 
-Página dedicada en `src/app/el-vallenato-ph/page.tsx` (renders en `public/img/vallenato-*.webp`, reel en
-`public/video/el-vallenato-ph.mp4`) y sección en la portada. Datos en `contenido/propiedades/el-vallenato-ph.json`.
+Página dedicada en `src/app/el-vallenato-ph/page.tsx` (renders en `public/img/vallenato-*.webp`) y sección
+en la portada. Datos en `contenido/propiedades/el-vallenato-ph.json`. El reel del Vallenato se retiró el
+29 sep 2026 por decisión del cliente; el reel de la portada es ahora el de Cerros de la Antigua
+(`public/video/cerros-de-la-antigua.mp4`, 576×1024, sin sonido, a partir de «Cerros-Lotus SIN SONIDO.mov»).
 Pendientes: tipologías con áreas, precios y plan de pagos autorizados; relación comercial por escrito.
 
 ## Editar textos y datos de la firma
