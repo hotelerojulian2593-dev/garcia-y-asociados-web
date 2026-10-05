@@ -25,7 +25,7 @@ export function PiePagina() {
           <ul className="grid gap-2">
             <li><a href={enlaceWhatsApp()} target="_blank" rel="noopener" data-seguimiento="whatsapp">WhatsApp {SITIO.whatsappVisible}</a></li>
             <li><a href={`mailto:${SITIO.correo}`}>{SITIO.correo}</a></li>
-            <li className="text-gris-claro">{SITIO.direccion}<br />{SITIO.ciudad}, {SITIO.pais}</li>
+            <li className="text-gris-claro">{SITIO.direccion}<br />{SITIO.direccionReferencia}<br />{SITIO.ciudad}, {SITIO.pais}</li>
           </ul>
         </div>
         <div className="text-sm">

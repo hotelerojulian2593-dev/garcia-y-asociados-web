@@ -24,7 +24,7 @@ export default function Contacto() {
             <a href={`mailto:${SITIO.correo}`} className="break-all text-center text-sm underline underline-offset-4">{SITIO.correo}</a>
           </div>
           <dl className="mt-6 grid gap-3">
-            <div><dt className="text-gris-texto">Oficina</dt><dd>{SITIO.direccion}<br />{SITIO.ciudad}, {SITIO.pais}</dd></div>
+            <div><dt className="text-gris-texto">Oficina</dt><dd>{SITIO.direccion}<br />{SITIO.direccionReferencia}<br />{SITIO.ciudad}, {SITIO.pais}</dd></div>
             <div><dt className="text-gris-texto">Zona de servicio</dt><dd>{SITIO.zonaServicio.join(" · ")}</dd></div>
           </dl>
           <p className="mudo mt-6 text-xs">Sus datos se tratan conforme a la <a href="/politica-de-datos/" className="underline">política de tratamiento de datos</a>.</p>

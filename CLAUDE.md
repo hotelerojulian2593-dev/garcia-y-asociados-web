@@ -42,7 +42,7 @@ desde una lectura del sitio público de Wasi guardada en `contenido/fuentes/`; n
 | | |
 |---|---|
 | Razón social | Inmobiliaria García & Asociados S.A.S. · NIT 901.507.252-5 |
-| Domicilio | Carrera 81 # 30A-53, Medellín (Antioquia) (actualizado el 5 oct 2026) |
+| Domicilio | Carrera 81 # 30A-53, barrio Belén (cerca al C.C. Los Molinos), Medellín (actualizado el 5 oct 2026) |
 | WhatsApp comercial del sitio | +57 313 580 0381 (`contenido/sitio.json`) |
 | Correo público | inmobiliariagarcia02@gmail.com (pendiente de confirmar; ver `notasInternas`) |
 | CRM | GoHighLevel, widgets en `link.marketinghotelero.com` |
