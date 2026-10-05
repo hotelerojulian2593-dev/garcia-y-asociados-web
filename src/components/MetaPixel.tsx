@@ -1,7 +1,7 @@
 import { META_PIXEL_ID } from "@/lib/sitio";
 
 /**
- * Meta Pixel. Solo se inserta si NEXT_PUBLIC_META_PIXEL_ID tiene valor.
+ * Meta Pixel. Solo se inserta si hay id (NEXT_PUBLIC_META_PIXEL_ID o contenido/sitio.json → meta.pixelId).
  * Los eventos de contacto se disparan desde `Seguimiento` (clics en WhatsApp y agendar).
  */
 export function MetaPixel() {

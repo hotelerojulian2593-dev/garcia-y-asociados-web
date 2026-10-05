@@ -28,7 +28,7 @@
     "correo": "El RUT tiene una errata en el correo; inmobiliariagarcia02@gmail.com es el usado en las landings publicadas. CLAUDE.md del Sistema 360 registra ingarciayasociados@gmail.com. Confirmar con el cliente antes de publicar.",
     "whatsapp": "+57 313 580 0381 es el WhatsApp comercial que recibe los leads del sitio (CLAUDE.md del Sistema 360). Las landings de hoteles/lotes usan +57 322 678 4727. Confirmar cuál va en el sitio general.",
     "marca": "La razón social lleva '&'. El nombre de marca del encabezado ('García & Asociados' vs 'García y Asociados') está pendiente de confirmar con el cliente.",
-    "pixel": "IDs de Meta Pixel vistos en landings anteriores: 1322384729653664 (Playa Candela) y 1398576062491835 (Cerros de la Antigua). Confirmar cuál pertenece a la inmobiliaria antes de activarlo en NEXT_PUBLIC_META_PIXEL_ID."
+    "pixel": "Meta Pixel activo: 1722067732205993 (meta.pixelId, 5 oct 2026). Los IDs 1322384729653664 (Playa Candela) y 1398576062491835 (Cerros de la Antigua) pertenecen a las landings, no al sitio."
   },
   "hero": {
     "video": "",
@@ -41,5 +41,9 @@
   "ghl": {
     "chatWidgetId": "6abc7acdd2e8beb1e4f5069e",
     "chatWidgetNombre": "Chat sitio web García & Asociados (subcuenta Inmobiliaria Garcia y Asociados, tipo Chat en directo, creado 29 sep 2026)"
+  },
+  "meta": {
+    "pixelId": "1722067732205993",
+    "nota": "Meta Pixel entregado por Juli el 5 oct 2026 para inmobiliariagarciayasociados.com. NEXT_PUBLIC_META_PIXEL_ID lo sobreescribe."
   }
 }

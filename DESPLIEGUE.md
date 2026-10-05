@@ -11,7 +11,8 @@
 | Repositorio Git | **Publicado**: github.com/hotelerojulian2593-dev/garcia-y-asociados-web (rama main). La app de GitHub de Claude tiene acceso a este repo |
 | Dominio `inmobiliariagarciayasociados.com` | **Conectado el 29 sep 2026**: A raíz → 75.2.60.5, CNAME www → garcia-y-asociados.netlify.app (editados en GHL → Dominios → Registros DNS). Certificado Let's Encrypt emitido 7:09; `www` redirige a la raíz. Valores anteriores: A 162.159.140.166, CNAME www sites.ludicrous.cloud |
 | Chat en directo de GHL | **Activo desde el 29 sep 2026**: widget «Chat sitio web García & Asociados» (id `6abc7acdd2e8beb1e4f5069e`, subcuenta Inmobiliaria Garcia y Asociados, Sitios → Widget de chat). Las conversaciones llegan a Conversaciones de esa subcuenta. El tipo «Chat de WhatsApp» exige conectar WhatsApp Business en GHL |
-| Meta Pixel, formulario y calendario de GHL | **Pendientes**: variables vacías hasta confirmar IDs |
+| Meta Pixel | **Activo desde el 5 oct 2026**: id `1722067732205993` en `contenido/sitio.json` (`meta.pixelId`); `NEXT_PUBLIC_META_PIXEL_ID` lo sobreescribe. PageView en todas las páginas; clics de WhatsApp → evento `Contact`, agendar → `Schedule` (ver `Revelador.tsx`) |
+| Formulario y calendario de GHL | **Pendientes**: variables vacías hasta confirmar IDs |
 
 ## 1. Repositorio y GitHub (desde Claude Code en el Mac)
 
