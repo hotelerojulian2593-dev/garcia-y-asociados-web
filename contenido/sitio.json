@@ -32,12 +32,15 @@
     "pixel": "Meta Pixel activo: 1722067732205993 (meta.pixelId, 5 oct 2026). Los IDs 1322384729653664 (Playa Candela) y 1398576062491835 (Cerros de la Antigua) pertenecen a las landings, no al sitio."
   },
   "hero": {
-    "video": "",
-    "poster": "/img/hero-casa-referencia.webp",
-    "posterAlt": "Casa contemporánea de lujo con piscina infinita sobre las montañas de Antioquia al atardecer",
-    "leyenda": "Imagen de referencia generada para la portada; no corresponde a un inmueble del portafolio",
-    "notas": "Para activar el video: colocar el archivo en public/video/hero.mp4 (16:9, H.264, ≤8 MB, sin audio) y poner \"video\": \"/video/hero.mp4\". Se genera en Higgsfield cuando haya créditos (35 créditos por 5 s en 720p).",
-    "posterMovil": "/img/hero-casa-referencia-m.webp"
+    "video": "/video/hero.mp4",
+    "videoMovil": "/video/hero-m.mp4",
+    "videoWebm": "",
+    "poster": "/img/hero-video-poster.webp",
+    "posterMovil": "/img/hero-video-poster-m.webp",
+    "posterAlt": "Recorrido aéreo sobre casas campestres con piscina y un conjunto residencial con piscina de carriles en Antioquia",
+    "etiqueta": "Recorrido aéreo",
+    "leyenda": "Video real entregado por la inmobiliaria para la portada (16 oct 2026); se retiró la pista de audio y se publican una versión 1080p (MP4, 9,4 MB) y otra 720p para móvil (4,7 MB).",
+    "notas": "Origen: Descargas/garcia-asociados-hero-fpv-16x9-musica.mp4 (1920x1080, 24 s, 30 fps). Para cambiarlo: reemplazar public/video/hero.mp4 y hero-m.mp4 y los posters public/img/hero-video-poster*.webp. videoWebm es opcional (VP9 no comprimio mejor que H.264 en este material). Con \"video\" vacio vuelve la fotografia con Ken Burns."
   },
   "ghl": {
     "chatWidgetId": "6abc7acdd2e8beb1e4f5069e",

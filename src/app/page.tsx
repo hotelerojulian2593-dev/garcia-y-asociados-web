@@ -22,7 +22,7 @@ export default function Inicio() {
     <>
       <HeroCapas>
         <div className="hero-capa hero-fondo" data-profundidad="-0.35">
-          <FondoHero video={hero.video || undefined} poster={hero.poster} posterMovil={hero.posterMovil} alt={hero.posterAlt} />
+          <FondoHero video={hero.video || undefined} videoMovil={hero.videoMovil || undefined} videoWebm={hero.videoWebm || undefined} poster={hero.poster} posterMovil={hero.posterMovil} alt={hero.posterAlt} />
         </div>
         <div className="hero-capa hero-velo" data-profundidad="-0.15" />
         <div className="hero-capa hero-grano" aria-hidden />
@@ -49,7 +49,7 @@ export default function Inicio() {
             <Link href={`/propiedades/${playa.slug}/`} className="btn-texto mt-3 inline-block">Ver ficha →</Link>
           </aside>
         )}
-        <p className="hero-leyenda">{hero.video ? "Video de referencia" : "Imagen de referencia"}</p>
+        <p className="hero-leyenda">{hero.etiqueta || (hero.video ? "Video" : "Imagen de referencia")}</p>
         <span className="hero-indicador" aria-hidden />
       </HeroCapas>
 

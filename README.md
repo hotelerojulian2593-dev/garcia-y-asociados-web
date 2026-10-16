@@ -101,11 +101,18 @@ Ni la dirección ni las coordenadas se copian.
 
 ## Hero de la portada (imagen o video)
 
-`contenido/sitio.json → hero`. Hoy usa una imagen de referencia generada (Higgsfield, 2K) con un
-lento acercamiento (Ken Burns) y capas con parallax. Para pasar a video: colocar `public/video/hero.mp4`
-(16:9, H.264, sin audio, ≤8 MB) y poner `"video": "/video/hero.mp4"`; el `poster` sigue siendo la
-imagen. Con `prefers-reduced-motion` se muestra solo la imagen. La leyenda «Imagen de referencia»
-se mantiene mientras el fondo no sea un inmueble del portafolio.
+`contenido/sitio.json → hero`. Desde el 16 oct 2026 el fondo es un **video real** (recorrido aéreo FPV
+entregado por la inmobiliaria, 24 s, sin audio): `public/video/hero.mp4` (1920×1080, H.264, 9,4 MB)
+para escritorio y `public/video/hero-m.mp4` (1280×720, 4,7 MB) para pantallas de hasta 767 px.
+`FondoHero` pinta primero el póster (`public/img/hero-video-poster*.webp`, primer fotograma) y funde
+el video cuando ya reproduce; elige la fuente en el cliente, no descarga nada con
+`prefers-reduced-motion` ni con ahorro de datos, y pausa el video cuando el hero sale de pantalla.
+Mientras el hero está en pantalla, el botón flotante de WhatsApp se oculta (`body.hero-en-vista`).
+`videoWebm` es opcional (en este material VP9 no comprimió mejor que H.264).
+
+Para cambiar el video: reemplazar los dos MP4 y regenerar los pósters, por ejemplo
+`ffmpeg -ss 0.3 -i origen.mp4 -frames:v 1 -vf scale=1920:1080 -c:v libwebp -quality 80 public/img/hero-video-poster.webp`.
+Con `"video": ""` vuelve la fotografía con Ken Burns (`poster`/`posterMovil`).
 
 ## El Vallenato P.H.
 

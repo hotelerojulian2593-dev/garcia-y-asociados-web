@@ -6,6 +6,7 @@
 |---|---|
 | Build estático (`npm run build` → `out/`) | **Probado**: 246 páginas (224 fichas del inventario de Wasi + fichas propias + páginas fijas), sin errores |
 | Verificación automática (`npm run verificar`) | **Probada**: páginas fijas + muestra de 12 fichas × escritorio y móvil, filtros, galería, teclado, movimiento reducido, enlaces, sin hallazgos (`VERIFICAR_TODO=1` recorre las 246) |
+| Hero de la portada | **Video real desde el 16 oct 2026** (recorrido aéreo FPV, 1080p escritorio / 720p móvil, sin audio; póster del primer fotograma) |
 | Inventario | **Wasi, leído el 29 sep 2026**: 224 inmuebles activos (todos en venta). Ver sección 6 para actualizarlo |
 | Netlify | **En producción**: proyecto `garcia-y-asociados` (equipo marketinghotelerobyseroz), deploy automático desde main, ~30 s por build |
 | Repositorio Git | **Publicado**: github.com/hotelerojulian2593-dev/garcia-y-asociados-web (rama main). La app de GitHub de Claude tiene acceso a este repo |
